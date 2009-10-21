@@ -1,0 +1,5 @@
+* text=auto !eol
+/apertium-en-sq.en-sq.dix -text
+/apertium-en-sq.en-sq.t1x -text
+/apertium-en-sq.sq.dix -text
+dev/sq-en.txt -text

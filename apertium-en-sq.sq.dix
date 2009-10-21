@@ -1,0 +1,4459 @@
+<dictionary>
+  <alphabet>ABCÇDDhEËFGGjHIJKLLlMNNjOPQRRrSShTThUVXXhYZZhabcçddheëfggjhijklllmnnjopqrrrsshtthuvxxhyzzhWQwq</alphabet>
+  <sdefs>
+    <sdef n="n"      c="Noun"/>
+    <sdef n="num"    c="Numeral"/>
+    <sdef n="pr"     c="Preposition"/>
+    <sdef n="det"    c="Determiner"/>
+    <sdef n="predet" c="pre-determiner"/>
+    <sdef n="prn"    c="Pronoun"/>
+    <sdef n="vblex"  c="Verb"/>
+    <sdef n="vbjam"  c="The verb 'to be'"/>
+    <sdef n="vbkam"  c="The verb 'to have'"/>
+    <sdef n="adj"    c="Adjective"/>
+    <sdef n="adv"    c="Adverb"/>
+    <sdef n="preadv" c="Pre-adverb"/>
+    <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub" c="Sub-ordinating conjunction"/>
+
+    <sdef n="m"      c="Masculine"/>
+    <sdef n="f"      c="Feminine"/>
+    <sdef n="mf"     c="Masculine/feminine"/>
+    <sdef n="sg"     c="Singular"/>
+    <sdef n="pl"     c="Plural"/>
+    <sdef n="sp"     c="Singular / Plural"/>
+
+
+    <sdef n="nom"    c="Nominative"/>
+    <sdef n="acc"    c="Accusative"/>
+    <sdef n="dat"    c="Dative"/>
+    <sdef n="gen"    c="Genitive"/>
+    <sdef n="abl"    c="Ablative"/>
+    <sdef n="voc"    c="Vocative"/>
+
+    <sdef n="def"    c="Definite"/>
+    <sdef n="ind"    c="Indefinite"/>
+
+    <sdef n="pos"    c="Possessive"/>
+    <sdef n="dem"    c="Demonstrative"/>
+    <sdef n="itg"    c="Interrogative"/>
+
+    <sdef n="inf"    c="Infinitive"/>
+    <sdef n="imp"    c="Imperfect"/>
+    <sdef n="pp"     c="Past participle"/>
+    <sdef n="past"   c="Past tense"/>
+    <sdef n="pres"   c="Present tense"/>
+    <sdef n="pri"    c="Present indicative tense"/>
+    <sdef n="p1"     c="First person"/>
+    <sdef n="p2"     c="Second person"/>
+    <sdef n="p3"     c="Third person"/>
+
+
+    <sdef n="lig"    c="Ligature"/>
+
+    <sdef n="sent"   c="End of sentence marker"/>
+  </sdefs>
+
+  <pardefs>
+    <!-- Numbers -->
+
+    <pardef n="numeros">
+      <e>
+        <re>[0-9]+([.,][0-9]+)?</re>
+        <p>
+          <l/>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="separa">
+      <e>
+        <re>[.\?;:!]</re>
+        <p>
+          <l/>
+          <r><s n="sent"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <!-- Conjunctions -->
+
+    <pardef n="dhe__cnjcoo">
+      <e>
+        <p>
+          <l/>
+          <r><s n="cnjcoo"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="në__cnjsub">
+      <e>
+        <p>
+          <l/>
+          <r><s n="cnjsub"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <!-- Adverbs -->
+
+    <pardef n="nuk__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <!-- Pre-adverbs -->
+
+    <pardef n="më__preadv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="preadv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <!-- Pronouns -->
+
+    <pardef n="/personal_pronouns__prn">
+      <e>
+        <p>
+          <l>unë</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mua</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>mua</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>meje</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ty</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ty</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>teje</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atij</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tij</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atij</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atij</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ajo</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>asaj</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>saj</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ajo</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>asaj</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>asaj</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ne</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>neve</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nesh</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ju</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ju</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>juve</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jush</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ata</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ato</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ato</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ato</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ato</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atyre</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+
+    </pardef>
+
+    <pardef n="/i__lig">
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>së</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sp"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sp"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sp"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sp"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="m"/><s n="sp"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="lig"/><s n="f"/><s n="sp"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+    <pardef n="një__det">
+      <e>
+        <p>
+          <l/>
+          <r><s n="det"/><s n="ind"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="çfarë__det">
+      <e>
+        <p>
+          <l/>
+          <r><s n="det"/><s n="itg"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+    <pardef n="k/y__det">
+      <e>
+        <p>
+          <l>y</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtë</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtij</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtij</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jo</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtë</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ësaj</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ësaj</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëta</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëta</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtyre</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ësosh</l>
+          <r>y<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëto</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëto</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëtyre</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ësosh</l>
+          <r>y<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="a/i__det">
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tij</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tij</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jo</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>saj</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>saj</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ta</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tyre</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sosh</l>
+          <r>i<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>to</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tyre</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sosh</l>
+          <r>i<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+
+
+    </pardef>
+
+    <pardef n="ci/li__det">
+      <e>
+        <p>
+          <l>li</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lin</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lit</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lit</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>la</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lën</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lës</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lës</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lët</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lët</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lëve</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lësh</l>
+          <r>li<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lat</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lat</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lave</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>lash</l>
+          <r>li<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+
+
+    </pardef>
+
+    <pardef n="/jam__vbjam">
+      <e>
+        <p>
+          <l>jam</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>je</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>është</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jemi</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jeni</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>janë</l>
+          <r>jam<s n="vbjam"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qeshë</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qe</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qe</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qemë</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qetë</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qenë</l>
+          <r>jam<s n="vbjam"/><s n="past"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>isha</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ishe</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ishte</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ishim</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ishit</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ishin</l>
+          <r>jam<s n="vbjam"/><s n="imp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qenë</l>
+          <r>jam<s n="vbjam"/><s n="pp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="/kam__vbkam">
+      <e>
+        <p>
+          <l>kam</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ke</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ka</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kemi</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>keni</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kanë</l>
+          <r>kam<s n="vbkam"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>pata</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>pate</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>pati</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>patëm</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>patët</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>patën</l>
+          <r>kam<s n="vbkam"/><s n="past"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kisha</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kishe</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kishte</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kishim</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kishit</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kishin</l>
+          <r>kam<s n="vbkam"/><s n="imp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>pasur</l>
+          <r>kam<s n="vbkam"/><s n="pp"/></r>
+        </p>
+      </e>
+
+    </pardef>
+
+    <!-- Nouns -->
+    <pardef n="lul/e__n_f">
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eje</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ja</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eje</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esh</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="njer/i__n_m">
+      <e>
+        <p>
+          <l>iut</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iut</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iun</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzve</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzve</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzit</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëz</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzve</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzve</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëzit</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëz</l>
+          <r>i<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="vajz/ë__n_f">
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ash</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ën</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ës</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ës</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="baba__n_m">
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>në</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarët</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarët</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>llarë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="burr/ë__n_m">
+      <e>
+        <p>
+          <l>it</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ash</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="avion__n_m">
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>ëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ësh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ët</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ët</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="zog__n_m">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>un</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ut</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ut</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jtë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jtë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>
+
+<!--
+    <pardef n="muaj__n_m">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>t</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>
+-->
+
+    <pardef n="mal__n_m">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="kufi__n_m">
+      <e>
+        <p>
+          <l>rit</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rit</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rin</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jsh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jtë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jtë</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="dogan/ë__n_f">
+      <e>
+        <p>
+          <l>ës</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ës</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ën</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="muze__n_m">
+      <e>
+        <p>
+          <l>ut</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ut</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>un</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>të</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="let/ër__n_f">
+      <e>
+        <p>
+          <l>rës</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ër</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rës</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rën</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ër</l>
+          <r>ër<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rash</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rat</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rat</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>ër<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="lib/ër__n_m">
+      <e>
+        <p>
+          <l>rit</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ër</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rit</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rin</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ër</l>
+          <r>ër<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rash</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rat</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rave</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rat</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r>ër<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="mi/k__n_m">
+      <e>
+        <p>
+          <l>kut</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kut</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ku</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>kun</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>k</l>
+          <r>k<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qve</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qve</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qsh</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qtë</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>q</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qve</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qve</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qtë</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>q</l>
+          <r>k<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <!-- Adjectives -->
+
+    <pardef n="r/i__adj">
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>inj</l>
+          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="gr/ua__n_f">
+      <e>
+        <p>
+          <l>uaje</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uas</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uaje</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uas</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ua</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uan</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ua</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uaja</l>
+          <r>ua<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ash</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ave</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atë</l>
+          <r>ua<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="v/ogël__adj">
+      <e>
+        <p>
+          <l>ogël</l>
+          <r>ogël<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>egjël</l>
+          <r>ogël<s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ogële</l>
+          <r>ogël<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="m/adh__adj">
+      <e>
+        <p>
+          <l>adh</l>
+          <r>adh<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëdhenj</l>
+          <r>adh<s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>adhe</l>
+          <r>adh<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="k/eq__adj">
+      <e>
+        <p>
+          <l>eq</l>
+          <r>eq<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëqij</l>
+          <r>eq<s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eqe</l>
+          <r>eq<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="lig__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r><s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+    <pardef n="kuq__adj">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/><s n="m"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="këndsh/ëm__adj">
+      <e>
+        <p>
+          <l>ëm</l>
+          <r>ëm<s n="adj"/><s n="m"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>me</l>
+          <r>ëm<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="tej/më__adj">
+      <e>
+        <p>
+          <l>më</l>
+          <r>më<s n="adj"/><s n="m"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>me</l>
+          <r>më<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+    <!-- Prepositions -->
+
+    <pardef n="afër__pr">
+      <e>
+        <p>
+          <l/>
+          <r><s n="pr"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="të_gjith/a__predet">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="predet"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>a<s n="predet"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
+  </pardefs>
+
+  <section id="main" type="standard">
+    <e lm="personal pronouns"><i/><par n="/personal_pronouns__prn"/></e>
+    <e lm="ligature"><i/><par n="/i__lig"/></e>
+    <e lm="të gjitha"><i>të<b/>gjith</i><par n="të_gjith/a__predet"/></e>
+
+    <!-- Conjunctions -->
+
+    <e lm="e"><i>e</i><par n="dhe__cnjcoo"/></e>
+    <e lm="dhe"><i>dhe</i><par n="dhe__cnjcoo"/></e>
+    <e lm="edhe"><i>edhe</i><par n="dhe__cnjcoo"/></e>
+    <e lm="por"><i>por</i><par n="dhe__cnjcoo"/></e>
+    <e lm="se"><i>se</i><par n="dhe__cnjcoo"/></e>
+
+    <e lm="në"><i>në</i><par n="në__cnjsub"/></e>
+    <e lm="te"><i>te</i><par n="në__cnjsub"/></e>
+    <e lm="që"><i>që</i><par n="në__cnjsub"/></e> <!-- May be a relative -->
+    <e lm="se"><i>se</i><par n="në__cnjsub"/></e>
+
+
+    <!-- Determiners -->
+
+    <e lm="një"><i>një</i><par n="një__det"/></e>
+    <e lm="çfarë"><i>çfarë</i><par n="çfarë__det"/></e>
+    <e lm="cili"><i>ci</i><par n="ci/li__det"/></e>
+    <e lm="ai"><i>a</i><par n="a/i__det"/></e>
+    <e lm="ky"><i>k</i><par n="k/y__det"/></e>
+
+    <!-- Prepositions -->
+
+    <e lm="afër"><i>afër</i><par n="afër__pr"/></e>
+    <e lm="me"><i>me</i><par n="afër__pr"/></e>
+    <e lm="pa"><i>pa</i><par n="afër__pr"/></e>
+    <e lm="plej"><i>plej</i><par n="afër__pr"/></e>
+    <e lm="prej"><i>prej</i><par n="afër__pr"/></e>
+    <e lm="para"><i>para</i><par n="afër__pr"/></e>
+    <e lm="pas"><i>pas</i><par n="afër__pr"/></e>
+    <e lm="prapa"><i>prapa</i><par n="afër__pr"/></e>
+    <e lm="sipas"><i>sipas</i><par n="afër__pr"/></e>
+    <e lm="drejt"><i>drejt</i><par n="afër__pr"/></e>
+    <e lm="kundër"><i>kundër</i><par n="afër__pr"/></e>
+    <e lm="matanë"><i>matanë</i><par n="afër__pr"/></e>
+    <e lm="mbas"><i>mbas</i><par n="afër__pr"/></e>
+    <e lm="mes"><i>mes</i><par n="afër__pr"/></e>
+    <e lm="midis"><i>midis</i><par n="afër__pr"/></e>
+    <e lm="ndaj"><i>ndaj</i><par n="afër__pr"/></e>
+    <e lm="ndërmjet"><i>ndërmjet</i><par n="afër__pr"/></e>
+    <e lm="nga"><i>nga</i><par n="afër__pr"/></e>
+    <e lm="pasi"><i>pasi</i><par n="afër__pr"/></e>
+    <e lm="perpara"><i>perpara</i><par n="afër__pr"/></e>
+    <e lm="për"><i>për</i><par n="afër__pr"/></e>
+    <e lm="i"><i>i</i><par n="afër__pr"/></e>
+    <e lm="në"><i>në</i><par n="afër__pr"/></e>
+    <e lm="që"><i>që</i><par n="afër__pr"/></e>
+    <e lm="te"><i>te</i><par n="afër__pr"/></e>
+
+
+    <!-- Adjectives -->
+
+    <e lm="ri"><i>r</i><par n="r/i__adj"/></e>
+    <e lm="zi"><i>z</i><par n="r/i__adj"/></e>
+
+    <e lm="kuq"><i>kuq</i><par n="kuq__adj"/></e>
+    <e lm="trim"><i>trim</i><par n="kuq__adj"/></e>
+    <e lm="afërm"><i>afërm</i><par n="kuq__adj"/></e>
+
+    <e lm="këndshëm"><i>këndsh</i><par n="këndsh/ëm__adj"/></e>
+    <e lm="sotëm"><i>sot</i><par n="këndsh/ëm__adj"/></e>
+    <e lm="djeshëm"><i>djesh</i><par n="këndsh/ëm__adj"/></e>
+
+    <e lm="tejmë"><i>tej</i><par n="tej/më__adj"/></e>
+
+    <e lm="keq"><i>k</i><par n="k/eq__adj"/></e>
+
+    <e lm="lig"><i>lig</i><par n="lig__adj"/></e>
+
+    <e lm="madh"><i>m</i><par n="m/adh__adj"/></e>
+
+    <e lm="vogël"><i>v</i><par n="v/ogël__adj"/></e>
+
+    <!-- Nouns --> 
+
+    <e lm="mal"><i>mal</i><par n="mal__n_m"/></e>
+    <e lm="baba"><i>baba</i><par n="baba__n_m"/></e>
+    <e lm="mik"><i>mi</i><par n="mi/k__n_m"/></e>
+    <e lm="burrë"><i>burr</i><par n="burr/ë__n_m"/></e>
+    <e lm="muze"><i>muze</i><par n="muze__n_m"/></e>
+    <e lm="doganë"><i>dogan</i><par n="dogan/ë__n_f"/></e>
+    <e lm="vajzë"><i>vajz</i><par n="vajz/ë__n_f"/></e>
+    <e lm="avion"><i>avion</i><par n="avion__n_m"/></e>
+    <e lm="kufi"><i>kufi</i><par n="kufi__n_m"/></e>
+    <e lm="libër"><i>lib</i><par n="lib/ër__n_m"/></e>
+    <e lm="njeri"><i>njer</i><par n="njer/i__n_m"/></e>
+    <e lm="lule"><i>lul</i><par n="lul/e__n_f"/></e>
+    <e lm="letër"><i>let</i><par n="let/ër__n_f"/></e>
+    <e lm="zog"><i>zog</i><par n="zog__n_m"/></e>
+    <e lm="grua"><i>gr</i><par n="gr/ua__n_f"/></e>
+
+    <!-- begin unchecked -->
+
+<!--    <e lm="muaj"><i>muaj</i><par n="muaj__n_m"/></e> -->
+    <e lm="narkotik"><i>narkotik</i><par n="avion__n_m"/></e>
+    <e lm="analizë"><i>analiz</i><par n="dogan/ë__n_f"/></e>
+    <e lm="akt"><i>akt</i><par n="mal__n_m"/></e>
+    <e lm="amendament"><i>amendament</i><par n="mal__n_m"/></e>
+    <e lm="angazhim"><i>angazhim</i><par n="mal__n_m"/></e>
+    <e lm="anketë"><i>anket</i><par n="dogan/ë__n_f"/></e>
+    <e lm="apel"><i>apel</i><par n="mal__n_m"/></e>
+    <e lm="armatim"><i>armatim</i><par n="mal__n_m"/></e>
+    <e lm="arrestim"><i>arrestim</i><par n="mal__n_m"/></e>
+    <e lm="aspekt"><i>aspekt</i><par n="mal__n_m"/></e>
+    <e lm="aspiratë"><i>aspirat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="audiencë"><i>audienc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="biletë"><i>bilet</i><par n="vajz/ë__n_f"/></e>
+    <e lm="biznes"><i>biznes</i><par n="mal__n_m"/></e>
+    <e lm="borxh"><i>borxh</i><par n="mal__n_m"/></e>
+    <e lm="cikl"><i>cikl</i><par n="mal__n_m"/></e>
+    <e lm="dallim"><i>dallim</i><par n="mal__n_m"/></e>
+    <e lm="deklarim"><i>deklarim</i><par n="mal__n_m"/></e>
+    <e lm="demonstrim"><i>demonstrim</i><par n="mal__n_m"/></e>
+    <e lm="destinacion"><i>destinacion</i><par n="mal__n_m"/></e>
+    <e lm="dhjetvjeçar"><i>dhjetvjeçar</i><par n="avion__n_m"/></e>
+    <e lm="dhëmb"><i>dhëmb</i><par n="avion__n_m"/></e>
+    <e lm="dinar"><i>dinar</i><par n="avion__n_m"/></e>
+    <e lm="direktivë"><i>direktiv</i><par n="dogan/ë__n_f"/></e>
+    <e lm="distrikt"><i>distrikt</i><par n="mal__n_m"/></e>
+    <e lm="dritare"><i>dritar</i><par n="lul/e__n_f"/></e>
+    <e lm="drogë"><i>drog</i><par n="dogan/ë__n_f"/></e>
+    <e lm="dëm"><i>dëm</i><par n="mal__n_m"/></e>
+    <e lm="dëmtim"><i>dëmtim</i><par n="mal__n_m"/></e>
+    <e lm="dënim"><i>dënim</i><par n="mal__n_m"/></e>
+    <e lm="emërim"><i>emërim</i><par n="mal__n_m"/></e>
+    <e lm="enklavë"><i>enklav</i><par n="dogan/ë__n_f"/></e>
+    <e lm="entitet"><i>entitet</i><par n="mal__n_m"/></e>
+    <e lm="faturë"><i>fatur</i><par n="dogan/ë__n_f"/></e>
+    <e lm="festim"><i>festim</i><par n="mal__n_m"/></e>
+    <e lm="festival"><i>festival</i><par n="mal__n_m"/></e>
+    <e lm="financë"><i>financ</i><par n="vajz/ë__n_f"/></e>
+    <e lm="fluturim"><i>fluturim</i><par n="mal__n_m"/></e>
+    <e lm="front"><i>front</i><par n="mal__n_m"/></e>
+    <e lm="furnizim"><i>furnizim</i><par n="mal__n_m"/></e>
+    <e lm="fërkim"><i>fërkim</i><par n="mal__n_m"/></e>
+    <e lm="gjyq"><i>gjyq</i><par n="mal__n_m"/></e>
+    <e lm="grevë"><i>grev</i><par n="vajz/ë__n_f"/></e>
+    <e lm="helikopter"><i>helikopter</i><par n="avion__n_m"/></e>
+    <e lm="hidrocentral"><i>hidrocentral</i><par n="mal__n_m"/></e>
+    <e lm="hotel"><i>hotel</i><par n="mal__n_m"/></e>
+    <e lm="inspektim"><i>inspektim</i><par n="mal__n_m"/></e>
+    <e lm="institucion"><i>institucion</i><par n="mal__n_m"/></e>
+    <e lm="institut"><i>institut</i><par n="mal__n_m"/></e>
+    <e lm="interpretim"><i>interpretim</i><par n="mal__n_m"/></e>
+    <e lm="kamp"><i>kamp</i><par n="mal__n_m"/></e>
+    <e lm="karburant"><i>karburant</i><par n="mal__n_m"/></e>
+    <e lm="koalicion"><i>koalicion</i><par n="mal__n_m"/></e>
+    <e lm="komitet"><i>komitet</i><par n="mal__n_m"/></e>
+    <e lm="komplot"><i>komplot</i><par n="mal__n_m"/></e>
+    <e lm="kompromis"><i>kompromis</i><par n="mal__n_m"/></e>
+    <e lm="komunikim"><i>komunikim</i><par n="mal__n_m"/></e>
+    <e lm="komunitet"><i>komunitet</i><par n="mal__n_m"/></e>
+    <e lm="konfiskim"><i>konfiskim</i><par n="mal__n_m"/></e>
+    <e lm="konsultim"><i>konsultim</i><par n="mal__n_m"/></e>
+    <e lm="kontejner"><i>kontejner</i><par n="avion__n_m"/></e>
+    <e lm="kornizë"><i>korniz</i><par n="dogan/ë__n_f"/></e>
+    <e lm="korpus"><i>korpus</i><par n="mal__n_m"/></e>
+    <e lm="kostum"><i>kostum</i><par n="mal__n_m"/></e>
+    <e lm="kthim"><i>kthim</i><par n="mal__n_m"/></e>
+    <e lm="kufizim"><i>kufizim</i><par n="mal__n_m"/></e>
+    <e lm="kundërshtim"><i>kundërshtim</i><par n="mal__n_m"/></e>
+    <e lm="kuotë"><i>kuot</i><par n="dogan/ë__n_f"/></e>
+    <e lm="kuzhinë"><i>kuzhin</i><par n="dogan/ë__n_f"/></e>
+    <e lm="kërcënim"><i>kërcënim</i><par n="mal__n_m"/></e>
+    <e lm="lëshim"><i>lëshim</i><par n="mal__n_m"/></e>
+    <e lm="material"><i>material</i><par n="mal__n_m"/></e>
+    <e lm="mesazh"><i>mesazh</i><par n="mal__n_m"/></e>
+    <e lm="mjedis"><i>mjedis</i><par n="mal__n_m"/></e>
+    <e lm="modifikim"><i>modifikim</i><par n="mal__n_m"/></e>
+    <e lm="mospajtim"><i>mospajtim</i><par n="mal__n_m"/></e>
+    <e lm="municion"><i>municion</i><par n="mal__n_m"/></e>
+    <e lm="ndalesë"><i>ndales</i><par n="dogan/ë__n_f"/></e>
+    <e lm="ngacmim"><i>ngacmim</i><par n="mal__n_m"/></e>
+    <e lm="nënshkrim"><i>nënshkrim</i><par n="mal__n_m"/></e>
+    <e lm="olimpiadë"><i>olimpiad</i><par n="dogan/ë__n_f"/></e>
+    <e lm="operacion"><i>operacion</i><par n="mal__n_m"/></e>
+    <e lm="opinion"><i>opinion</i><par n="mal__n_m"/></e>
+    <e lm="paralajmërim"><i>paralajmërim</i><par n="mal__n_m"/></e>
+    <e lm="patrullë"><i>patrull</i><par n="vajz/ë__n_f"/></e>
+    <e lm="pension"><i>pension</i><par n="mal__n_m"/></e>
+    <e lm="piramidë"><i>piramid</i><par n="dogan/ë__n_f"/></e>
+    <e lm="pistë"><i>pist</i><par n="dogan/ë__n_f"/></e>
+    <e lm="pistoletë"><i>pistolet</i><par n="vajz/ë__n_f"/></e>
+    <e lm="plazh"><i>plazh</i><par n="mal__n_m"/></e>
+    <e lm="portofol"><i>portofol</i><par n="mal__n_m"/></e>
+    <e lm="prefekt"><i>prefekt</i><par n="avion__n_m"/></e>
+    <e lm="preferencë"><i>preferenc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="presidencë"><i>presidenc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="procedim"><i>procedim</i><par n="mal__n_m"/></e>
+    <e lm="projektligj"><i>projektligj</i><par n="mal__n_m"/></e>
+    <e lm="prokurim"><i>prokurim</i><par n="mal__n_m"/></e>
+    <e lm="propozim"><i>propozim</i><par n="mal__n_m"/></e>
+    <e lm="pushim"><i>pushim</i><par n="mal__n_m"/></e>
+    <e lm="pushtet"><i>pushtet</i><par n="mal__n_m"/></e>
+    <e lm="përdhunim"><i>përdhunim</i><par n="mal__n_m"/></e>
+    <e lm="përfitim"><i>përfitim</i><par n="mal__n_m"/></e>
+    <e lm="përmirësim"><i>përmirësim</i><par n="mal__n_m"/></e>
+    <e lm="qindvjeçar"><i>qindvjeçar</i><par n="avion__n_m"/></e>
+    <e lm="qëndër"><i>qënd</i><par n="let/ër__n_f"/></e>
+    <e lm="raketë"><i>raket</i><par n="vajz/ë__n_f"/></e>
+    <e lm="raund"><i>raund</i><par n="mal__n_m"/></e>
+    <e lm="reagim"><i>reagim</i><par n="mal__n_m"/></e>
+    <e lm="referencë"><i>referenc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="rekomandim"><i>rekomandim</i><par n="mal__n_m"/></e>
+    <e lm="rezolutë"><i>rezolut</i><par n="dogan/ë__n_f"/></e>
+    <e lm="rregullim"><i>rregullim</i><par n="mal__n_m"/></e>
+    <e lm="rrushfet"><i>rrushfet</i><par n="mal__n_m"/></e>
+    <e lm="rrëmbim"><i>rrëmbim</i><par n="mal__n_m"/></e>
+    <e lm="sesion"><i>sesion</i><par n="mal__n_m"/></e>
+    <e lm="sfidë"><i>sfid</i><par n="vajz/ë__n_f"/></e>
+    <e lm="shkarkim"><i>shkarkim</i><par n="mal__n_m"/></e>
+    <e lm="shkatërrim"><i>shkatërrim</i><par n="mal__n_m"/></e>
+    <e lm="shkresë"><i>shkres</i><par n="dogan/ë__n_f"/></e>
+    <e lm="shpenzim"><i>shpenzim</i><par n="mal__n_m"/></e>
+    <e lm="shpërthim"><i>shpërthim</i><par n="mal__n_m"/></e>
+    <e lm="shqetësim"><i>shqetësim</i><par n="mal__n_m"/></e>
+    <e lm="shqyrtim"><i>shqyrtim</i><par n="mal__n_m"/></e>
+    <e lm="shtab"><i>shtab</i><par n="mal__n_m"/></e>
+    <e lm="sigurim"><i>sigurim</i><par n="mal__n_m"/></e>
+    <e lm="sinjal"><i>sinjal</i><par n="mal__n_m"/></e>
+    <e lm="skandal"><i>skandal</i><par n="mal__n_m"/></e>
+    <e lm="spekullim"><i>spekullim</i><par n="mal__n_m"/></e>
+    <e lm="spital"><i>spital</i><par n="mal__n_m"/></e>
+    <e lm="statujë"><i>statuj</i><par n="dogan/ë__n_f"/></e>
+    <e lm="tarifë"><i>tarif</i><par n="dogan/ë__n_f"/></e>
+    <e lm="televizion"><i>televizion</i><par n="mal__n_m"/></e>
+    <e lm="tension"><i>tension</i><par n="mal__n_m"/></e>
+    <e lm="trajtim"><i>trajtim</i><par n="mal__n_m"/></e>
+    <e lm="transaksion"><i>transaksion</i><par n="mal__n_m"/></e>
+    <e lm="transferim"><i>transferim</i><par n="mal__n_m"/></e>
+    <e lm="trazirë"><i>trazir</i><par n="vajz/ë__n_f"/></e>
+    <e lm="tubacion"><i>tubacion</i><par n="mal__n_m"/></e>
+    <e lm="tunel"><i>tunel</i><par n="mal__n_m"/></e>
+    <e lm="tërmet"><i>tërmet</i><par n="mal__n_m"/></e>
+    <e lm="udhëshpejtë"><i>udhëshpejt</i><par n="vajz/ë__n_f"/></e>
+    <e lm="udhëzim"><i>udhëzim</i><par n="mal__n_m"/></e>
+    <e lm="universitet"><i>universitet</i><par n="mal__n_m"/></e>
+    <e lm="uzinë"><i>uzin</i><par n="dogan/ë__n_f"/></e>
+    <e lm="vonesë"><i>vones</i><par n="vajz/ë__n_f"/></e>
+    <e lm="zhurmë"><i>zhurm</i><par n="dogan/ë__n_f"/></e>
+    <e lm="zhvillim"><i>zhvillim</i><par n="mal__n_m"/></e>
+
+
+
+    <e lm="arkitekt"><i>arkitekt</i><par n="avion__n_m"/></e>
+    <e lm="faqe"><i>faq</i><par n="lul/e__n_f"/></e>
+    <e lm="hetim"><i>hetim</i><par n="mal__n_m"/></e>
+    <e lm="keqtrajtim"><i>keqtrajtim</i><par n="mal__n_m"/></e>
+    <e lm="konsullatë"><i>konsullat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="konsumator"><i>konsumator</i><par n="avion__n_m"/></e>
+    <e lm="licensë"><i>licens</i><par n="dogan/ë__n_f"/></e>
+    <e lm="mashtrim"><i>mashtrim</i><par n="mal__n_m"/></e>
+    <e lm="personalitet"><i>personalitet</i><par n="mal__n_m"/></e>
+    <e lm="rregullore"><i>rregullor</i><par n="lul/e__n_f"/></e>
+    <e lm="skulptor"><i>skulptor</i><par n="avion__n_m"/></e>
+    <e lm="transistor"><i>transistor</i><par n="avion__n_m"/></e>
+    <e lm="çmim"><i>çmim</i><par n="mal__n_m"/></e>
+
+    <e lm="aleancë"><i>aleanc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="ambasadë"><i>ambasad</i><par n="dogan/ë__n_f"/></e>
+    <e lm="bazilikë"><i>bazilik</i><par n="dogan/ë__n_f"/></e>
+    <e lm="bursë"><i>burs</i><par n="dogan/ë__n_f"/></e>
+    <e lm="demonstratë"><i>demonstrat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="dilemë"><i>dilem</i><par n="dogan/ë__n_f"/></e>
+    <e lm="dogmë"><i>dogm</i><par n="dogan/ë__n_f"/></e>
+    <e lm="fshehtë"><i>fsheht</i><par n="dogan/ë__n_f"/></e>
+    <e lm="gjykatë"><i>gjykat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="gojëdhënë"><i>gojëdhën</i><par n="dogan/ë__n_f"/></e>
+    <e lm="kaptinë"><i>kaptin</i><par n="dogan/ë__n_f"/></e>
+    <e lm="kompetencë"><i>kompetenc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="korporatë"><i>korporat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="kryqëzatë"><i>kryqëzat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="merimangë"><i>merimang</i><par n="dogan/ë__n_f"/></e>
+    <e lm="ofensivë"><i>ofensiv</i><par n="dogan/ë__n_f"/></e>
+    <e lm="orbitë"><i>orbit</i><par n="dogan/ë__n_f"/></e>
+    <e lm="seancë"><i>seanc</i><par n="dogan/ë__n_f"/></e>
+    <e lm="shkretëtirë"><i>shkretëtir</i><par n="dogan/ë__n_f"/></e>
+    <e lm="shkollë"><i>shkoll</i><par n="dogan/ë__n_f"/></e>
+    <e lm="shoqatë"><i>shoqat</i><par n="dogan/ë__n_f"/></e>
+    <e lm="skemë"><i>skem</i><par n="dogan/ë__n_f"/></e>
+    <e lm="tepricë"><i>tepric</i><par n="dogan/ë__n_f"/></e>
+    <e lm="unazë"><i>unaz</i><par n="dogan/ë__n_f"/></e>
+    <e lm="veturë"><i>vetur</i><par n="dogan/ë__n_f"/></e>
+    <e lm="yndyrë"><i>yndyr</i><par n="dogan/ë__n_f"/></e>
+    <e lm="mbiemër"><i>mbiem</i><par n="lib/ër__n_m"/></e>
+    <e lm="numër"><i>num</i><par n="lib/ër__n_m"/></e>
+    <e lm="faqe"><i>faqe</i><par n="lul/e__n_f"/></e>
+    <e lm="rregullore"><i>rregullore</i><par n="lul/e__n_f"/></e>
+    <e lm="aksident"><i>aksident</i><par n="mal__n_m"/></e>
+    <e lm="aksion"><i>aksion</i><par n="mal__n_m"/></e>
+    <e lm="aktivitet"><i>aktivitet</i><par n="mal__n_m"/></e>
+    <e lm="album"><i>album</i><par n="mal__n_m"/></e>
+    <e lm="atom"><i>atom</i><par n="mal__n_m"/></e>
+    <e lm="autoritet"><i>autoritet</i><par n="mal__n_m"/></e>
+    <e lm="besim"><i>besim</i><par n="mal__n_m"/></e>
+    <e lm="bombardim"><i>bombardim</i><par n="mal__n_m"/></e>
+    <e lm="botëkuptim"><i>botëkuptim</i><par n="mal__n_m"/></e>
+    <e lm="botim"><i>botim</i><par n="mal__n_m"/></e>
+    <e lm="burim"><i>burim</i><par n="mal__n_m"/></e>
+    <e lm="debat"><i>debat</i><par n="mal__n_m"/></e>
+    <e lm="delegacion"><i>delegacion</i><par n="mal__n_m"/></e>
+    <e lm="dështim"><i>dështim</i><par n="mal__n_m"/></e>
+    <e lm="detyrim"><i>detyrim</i><par n="mal__n_m"/></e>
+    <e lm="dialekt"><i>dialekt</i><par n="mal__n_m"/></e>
+    <e lm="diskutim"><i>diskutim</i><par n="mal__n_m"/></e>
+    <e lm="dorëshkrim"><i>dorëshkrim</i><par n="mal__n_m"/></e>
+    <e lm="efekt"><i>efekt</i><par n="mal__n_m"/></e>
+    <e lm="ekuacion"><i>ekuacion</i><par n="mal__n_m"/></e>
+    <e lm="ekzekutim"><i>ekzekutim</i><par n="mal__n_m"/></e>
+    <e lm="elektron"><i>elektron</i><par n="mal__n_m"/></e>
+    <e lm="emision"><i>emision</i><par n="mal__n_m"/></e>
+    <e lm="fjalim"><i>fjalim</i><par n="mal__n_m"/></e>
+    <e lm="fond"><i>fond</i><par n="mal__n_m"/></e>
+    <e lm="format"><i>format</i><par n="mal__n_m"/></e>
+    <e lm="fortifikim"><i>fortifikim</i><par n="mal__n_m"/></e>
+    <e lm="funksion"><i>funksion</i><par n="mal__n_m"/></e>
+    <e lm="gabim"><i>gabim</i><par n="mal__n_m"/></e>
+    <e lm="gjykim"><i>gjykim</i><par n="mal__n_m"/></e>
+    <e lm="hadith"><i>hadith</i><par n="mal__n_m"/></e>
+    <e lm="hormon"><i>hormon</i><par n="mal__n_m"/></e>
+    <e lm="imazh"><i>imazh</i><par n="mal__n_m"/></e>
+    <e lm="ind"><i>ind</i><par n="mal__n_m"/></e>
+    <e lm="investim"><i>investim</i><par n="mal__n_m"/></e>
+    <e lm="katund"><i>katund</i><par n="mal__n_m"/></e>
+    <e lm="kërkim"><i>kërkim</i><par n="mal__n_m"/></e>
+    <e lm="klub"><i>klub</i><par n="mal__n_m"/></e>
+    <e lm="koncert"><i>koncert</i><par n="mal__n_m"/></e>
+    <e lm="konflikt"><i>konflikt</i><par n="mal__n_m"/></e>
+    <e lm="krijim"><i>krijim</i><par n="mal__n_m"/></e>
+    <e lm="krim"><i>krim</i><par n="mal__n_m"/></e>
+    <e lm="kujtim"><i>kujtim</i><par n="mal__n_m"/></e>
+    <e lm="kurriz"><i>kurriz</i><par n="mal__n_m"/></e>
+    <e lm="luftim"><i>luftim</i><par n="mal__n_m"/></e>
+    <e lm="manipulim"><i>manipulim</i><par n="mal__n_m"/></e>
+    <e lm="mendim"><i>mendim</i><par n="mal__n_m"/></e>
+    <e lm="minoritet"><i>minoritet</i><par n="mal__n_m"/></e>
+    <e lm="mundim"><i>mundim</i><par n="mal__n_m"/></e>
+    <e lm="ndërtim"><i>ndërtim</i><par n="mal__n_m"/></e>
+    <e lm="ndryshim"><i>ndryshim</i><par n="mal__n_m"/></e>
+    <e lm="objekt"><i>objekt</i><par n="mal__n_m"/></e>
+    <e lm="parim"><i>parim</i><par n="mal__n_m"/></e>
+    <e lm="peizazh"><i>peizazh</i><par n="mal__n_m"/></e>
+    <e lm="përfundim"><i>përfundim</i><par n="mal__n_m"/></e>
+    <e lm="përkthim"><i>përkthim</i><par n="mal__n_m"/></e>
+    <e lm="persekutim"><i>persekutim</i><par n="mal__n_m"/></e>
+    <e lm="portret"><i>portret</i><par n="mal__n_m"/></e>
+    <e lm="pozicion"><i>pozicion</i><par n="mal__n_m"/></e>
+    <e lm="premtim"><i>premtim</i><par n="mal__n_m"/></e>
+    <e lm="prodhim"><i>prodhim</i><par n="mal__n_m"/></e>
+    <e lm="program"><i>program</i><par n="mal__n_m"/></e>
+    <e lm="provim"><i>provim</i><par n="mal__n_m"/></e>
+    <e lm="punim"><i>punim</i><par n="mal__n_m"/></e>
+    <e lm="pushtim"><i>pushtim</i><par n="mal__n_m"/></e>
+    <e lm="raport"><i>raport</i><par n="mal__n_m"/></e>
+    <e lm="rebelim"><i>rebelim</i><par n="mal__n_m"/></e>
+    <e lm="redaktim"><i>redaktim</i><par n="mal__n_m"/></e>
+    <e lm="seminar"><i>seminar</i><par n="mal__n_m"/></e>
+    <e lm="shënim"><i>shënim</i><par n="mal__n_m"/></e>
+    <e lm="sherbim"><i>sherbim</i><par n="mal__n_m"/></e>
+    <e lm="shërbim"><i>shërbim</i><par n="mal__n_m"/></e>
+    <e lm="shkrim"><i>shkrim</i><par n="mal__n_m"/></e>
+    <e lm="shpërblim"><i>shpërblim</i><par n="mal__n_m"/></e>
+    <e lm="shpjegim"><i>shpjegim</i><par n="mal__n_m"/></e>
+    <e lm="simbol"><i>simbol</i><par n="mal__n_m"/></e>
+    <e lm="sport"><i>sport</i><par n="mal__n_m"/></e>
+    <e lm="stacion"><i>stacion</i><par n="mal__n_m"/></e>
+    <e lm="stil"><i>stil</i><par n="mal__n_m"/></e>
+    <e lm="studim"><i>studim</i><par n="mal__n_m"/></e>
+    <e lm="subjekt"><i>subjekt</i><par n="mal__n_m"/></e>
+    <e lm="sulm"><i>sulm</i><par n="mal__n_m"/></e>
+    <e lm="takim"><i>takim</i><par n="mal__n_m"/></e>
+    <e lm="territor"><i>territor</i><par n="mal__n_m"/></e>
+    <e lm="timar"><i>timar</i><par n="mal__n_m"/></e>
+    <e lm="traktat"><i>traktat</i><par n="mal__n_m"/></e>
+    <e lm="tregim"><i>tregim</i><par n="mal__n_m"/></e>
+    <e lm="tubim"><i>tubim</i><par n="mal__n_m"/></e>
+    <e lm="udhëtim"><i>udhëtim</i><par n="mal__n_m"/></e>
+    <e lm="ushqim"><i>ushqim</i><par n="mal__n_m"/></e>
+    <e lm="vëllim"><i>vëllim</i><par n="mal__n_m"/></e>
+    <e lm="vendbanim"><i>vendbanim</i><par n="mal__n_m"/></e>
+    <e lm="vendim"><i>vendim</i><par n="mal__n_m"/></e>
+    <e lm="veprim"><i>veprim</i><par n="mal__n_m"/></e>
+    <e lm="vëzhgim"><i>vëzhgim</i><par n="mal__n_m"/></e>
+    <e lm="vilajet"><i>vilajet</i><par n="mal__n_m"/></e>
+    <e lm="vit"><i>vit</i><par n="mal__n_m"/></e>
+    <e lm="volum"><i>volum</i><par n="mal__n_m"/></e>
+    <e lm="vullkan"><i>vullkan</i><par n="mal__n_m"/></e>
+    <e lm="zhanr"><i>zhanr</i><par n="mal__n_m"/></e>
+    <e lm="zotërim"><i>zotërim</i><par n="mal__n_m"/></e>
+    <e lm="armik"><i>armi</i><par n="mi/k__n_m"/></e>
+    <e lm="ekspozitë"><i>ekspozit</i><par n="vajz/ë__n_f"/></e>
+    <e lm="kështjellë"><i>kështjell</i><par n="vajz/ë__n_f"/></e>
+    <e lm="molekulë"><i>molekul</i><par n="vajz/ë__n_f"/></e>
+    <e lm="pllakë"><i>pllak</i><par n="vajz/ë__n_f"/></e>
+    <!-- End unchecked -->
+
+
+    <!-- Adverbs -->
+
+    <e lm="më"><i>më</i><par n="më__preadv"/></e>
+
+    <e lm="nuk"><i>nuk</i><par n="nuk__adv"/></e>
+    <e lm="absolutisht"><i>absolutisht</i><par n="nuk__adv"/></e>
+    <e lm="aferim"><i>aferim</i><par n="nuk__adv"/></e>
+    <e lm="afërmënç"><i>afërmënç</i><par n="nuk__adv"/></e>
+    <e lm="afërsisht"><i>afërsisht</i><par n="nuk__adv"/></e>
+    <e lm="afro"><i>afro</i><par n="nuk__adv"/></e>
+    <e lm="andaj"><i>andaj</i><par n="nuk__adv"/></e>
+    <e lm="anekënd"><i>anekënd</i><par n="nuk__adv"/></e>
+    <e lm="anembanë"><i>anembanë</i><par n="nuk__adv"/></e>
+    <e lm="arithi"><i>arithi</i><par n="nuk__adv"/></e>
+    <e lm="asgjëkundi"><i>asgjëkundi</i><par n="nuk__adv"/></e>
+    <e lm="ashtu"><i>ashtu</i><par n="nuk__adv"/></e>
+    <e lm="asi"><i>asi</i><par n="nuk__adv"/></e>
+    <e lm="askund"><i>askund</i><par n="nuk__adv"/></e>
+    <e lm="askurrkund"><i>askurrkund</i><par n="nuk__adv"/></e>
+    <e lm="asnjëherë"><i>asnjëherë</i><par n="nuk__adv"/></e>
+    <e lm="aso"><i>aso</i><par n="nuk__adv"/></e>
+    <e lm="aspak"><i>aspak</i><par n="nuk__adv"/></e>
+    <e lm="atje"><i>atje</i><par n="nuk__adv"/></e>
+    <e lm="aty"><i>aty</i><par n="nuk__adv"/></e>
+    <e lm="çikëz"><i>çikëz</i><par n="nuk__adv"/></e>
+    <e lm="dalngadalë"><i>dalngadalë</i><par n="nuk__adv"/></e>
+    <e lm="diku"><i>diku</i><par n="nuk__adv"/></e>
+    <e lm="dikund"><i>dikund</i><par n="nuk__adv"/></e>
+    <e lm="djathtas"><i>djathtas</i><par n="nuk__adv"/></e>
+    <e lm="djathtazi"><i>djathtazi</i><par n="nuk__adv"/></e>
+    <e lm="dje"><i>dje</i><par n="nuk__adv"/></e>
+    <e lm="edhe"><i>edhe</i><par n="nuk__adv"/></e>
+    <e lm="ende"><i>ende</i><par n="nuk__adv"/></e>
+    <e lm="fare"><i>fare</i><par n="nuk__adv"/></e>
+    <e lm="fatkeqësisht"><i>fatkeqësisht</i><par n="nuk__adv"/></e>
+    <e lm="fill"><i>fill</i><par n="nuk__adv"/></e>
+    <e lm="gati"><i>gati</i><par n="nuk__adv"/></e>
+    <e lm="gjetiu"><i>gjetiu</i><par n="nuk__adv"/></e>
+    <e lm="gjithashtu"><i>gjithashtu</i><par n="nuk__adv"/></e>
+    <e lm="gjithherë"><i>gjithherë</i><par n="nuk__adv"/></e>
+    <e lm="gjithmonë"><i>gjithmonë</i><par n="nuk__adv"/></e>
+    <e lm="gjithnjë"><i>gjithnjë</i><par n="nuk__adv"/></e>
+    <e lm="herë-herë"><i>herë-herë</i><par n="nuk__adv"/></e>
+    <e lm="hollësisht"><i>hollësisht</i><par n="nuk__adv"/></e>
+    <e lm="jo"><i>jo</i><par n="nuk__adv"/></e>
+    <e lm="keq"><i>keq</i><par n="nuk__adv"/></e>
+    <e lm="këtu"><i>këtu</i><par n="nuk__adv"/></e>
+    <e lm="kot"><i>kot</i><par n="nuk__adv"/></e>
+    <e lm="krejt"><i>krejt</i><par n="nuk__adv"/></e>
+    <e lm="kryesisht"><i>kryesisht</i><par n="nuk__adv"/></e>
+    <e lm="kurrë"><i>kurrë</i><par n="nuk__adv"/></e>
+    <e lm="kurrkund"><i>kurrkund</i><par n="nuk__adv"/></e>
+    <e lm="lehtas"><i>lehtas</i><par n="nuk__adv"/></e>
+    <e lm="lehtë"><i>lehtë</i><par n="nuk__adv"/></e>
+    <e lm="mengadalë"><i>mengadalë</i><par n="nuk__adv"/></e>
+    <e lm="menjëherë"><i>menjëherë</i><par n="nuk__adv"/></e>
+    <e lm="mezi"><i>mezi</i><par n="nuk__adv"/></e>
+    <e lm="mirë"><i>mirë</i><par n="nuk__adv"/></e>
+    <e lm="mjaft"><i>mjaft</i><par n="nuk__adv"/></e>
+    <e lm="natyrisht"><i>natyrisht</i><par n="nuk__adv"/></e>
+    <e lm="ndaj"><i>ndaj</i><par n="nuk__adv"/></e>
+    <e lm="ndoshta"><i>ndoshta</i><par n="nuk__adv"/></e>
+    <e lm="nesër"><i>nesër</i><par n="nuk__adv"/></e>
+    <e lm="nuk"><i>nuk</i><par n="nuk__adv"/></e>
+    <e lm="pak"><i>pak</i><par n="nuk__adv"/></e>
+    <e lm="pakëz"><i>pakëz</i><par n="nuk__adv"/></e>
+    <e lm="pastaj"><i>pastaj</i><par n="nuk__adv"/></e>
+    <e lm="përsëri"><i>përsëri</i><par n="nuk__adv"/></e>
+    <e lm="po"><i>po</i><par n="nuk__adv"/></e>
+    <e lm="pothuaj"><i>pothuaj</i><par n="nuk__adv"/></e>
+    <e lm="prapë"><i>prapë</i><par n="nuk__adv"/></e>
+    <e lm="sërish"><i>sërish</i><par n="nuk__adv"/></e>
+    <e lm="shumë"><i>shumë</i><par n="nuk__adv"/></e>
+    <e lm="sot"><i>sot</i><par n="nuk__adv"/></e>
+    <e lm="tash"><i>tash</i><par n="nuk__adv"/></e>
+    <e lm="thuaja"><i>thuaja</i><par n="nuk__adv"/></e>
+
+    <e lm="administrativisht"><i>administrativisht</i><par n="nuk__adv"/></e>
+    <e lm="afër"><i>afër</i><par n="nuk__adv"/></e>
+    <e lm="afërmas"><i>afërmas</i><par n="nuk__adv"/></e>
+    <e lm="afërmenç"><i>afërmenç</i><par n="nuk__adv"/></e>
+    <e lm="afërmi"><i>afërmi</i><par n="nuk__adv"/></e>
+    <e lm="ahere"><i>ahere</i><par n="nuk__adv"/></e>
+    <e lm="akademikisht"><i>akademikisht</i><par n="nuk__adv"/></e>
+    <e lm="akoma"><i>akoma</i><par n="nuk__adv"/></e>
+    <e lm="aksidentalisht"><i>aksidentalisht</i><par n="nuk__adv"/></e>
+    <e lm="aktivisht"><i>aktivisht</i><par n="nuk__adv"/></e>
+    <e lm="aktualisht"><i>aktualisht</i><par n="nuk__adv"/></e>
+    <e lm="akull"><i>akull</i><par n="nuk__adv"/></e>
+    <e lm="alegro"><i>alegro</i><par n="nuk__adv"/></e>
+    <e lm="allabandë"><i>allabandë</i><par n="nuk__adv"/></e>
+    <e lm="anash"><i>anash</i><par n="nuk__adv"/></e>
+    <e lm="anasjelltas"><i>anasjelltas</i><par n="nuk__adv"/></e>
+    <e lm="andej"><i>andej</i><par n="nuk__adv"/></e>
+    <e lm="andej-këndej"><i>andej-këndej</i><par n="nuk__adv"/></e>
+    <e lm="andyshtje"><i>andyshtje</i><par n="nuk__adv"/></e>
+    <e lm="anëmbanë"><i>anëmbanë</i><par n="nuk__adv"/></e>
+    <e lm="anës"><i>anës</i><par n="nuk__adv"/></e>
+    <e lm="angari"><i>angari</i><par n="nuk__adv"/></e>
+    <e lm="anglisht"><i>anglisht</i><par n="nuk__adv"/></e>
+    <e lm="ani"><i>ani</i><par n="nuk__adv"/></e>
+    <e lm="animâ"><i>animâ</i><par n="nuk__adv"/></e>
+    <e lm="apansëz"><i>apansëz</i><par n="nuk__adv"/></e>
+    <e lm="aq"><i>aq</i><par n="nuk__adv"/></e>
+    <e lm="arabisht"><i>arabisht</i><par n="nuk__adv"/></e>
+    <e lm="arbërisht"><i>arbërisht</i><par n="nuk__adv"/></e>
+    <e lm="arbitrarisht"><i>arbitrarisht</i><par n="nuk__adv"/></e>
+    <e lm="aritmetikisht"><i>aritmetikisht</i><par n="nuk__adv"/></e>
+    <e lm="arsëzë"><i>arsëzë</i><par n="nuk__adv"/></e>
+    <e lm="arsyeshëm"><i>arsyeshëm</i><par n="nuk__adv"/></e>
+    <e lm="arsyetisht"><i>arsyetisht</i><par n="nuk__adv"/></e>
+    <e lm="artificialisht"><i>artificialisht</i><par n="nuk__adv"/></e>
+    <e lm="artistikisht"><i>artistikisht</i><par n="nuk__adv"/></e>
+    <e lm="asesi"><i>asesi</i><par n="nuk__adv"/></e>
+    <e lm="ashpër"><i>ashpër</i><par n="nuk__adv"/></e>
+    <e lm="asisoj"><i>asisoj</i><par n="nuk__adv"/></e>
+    <e lm="askurrë"><i>askurrë</i><par n="nuk__adv"/></e>
+    <e lm="asokohe"><i>asokohe</i><par n="nuk__adv"/></e>
+    <e lm="assesi"><i>assesi</i><par n="nuk__adv"/></e>
+    <e lm="atçast"><i>atçast</i><par n="nuk__adv"/></e>
+    <e lm="atdhetarisht"><i>atdhetarisht</i><par n="nuk__adv"/></e>
+    <e lm="atëbotë"><i>atëbotë</i><par n="nuk__adv"/></e>
+    <e lm="atëças"><i>atëças</i><par n="nuk__adv"/></e>
+    <e lm="atëherë"><i>atëherë</i><par n="nuk__adv"/></e>
+    <e lm="atejë"><i>atejë</i><par n="nuk__adv"/></e>
+    <e lm="atëkohë"><i>atëkohë</i><par n="nuk__adv"/></e>
+    <e lm="atërisht"><i>atërisht</i><par n="nuk__adv"/></e>
+    <e lm="atjetej"><i>atjetej</i><par n="nuk__adv"/></e>
+    <e lm="atnisht"><i>atnisht</i><par n="nuk__adv"/></e>
+    <e lm="atydej"><i>atydej</i><par n="nuk__adv"/></e>
+    <e lm="atylashti"><i>atylashti</i><par n="nuk__adv"/></e>
+    <e lm="automatikisht"><i>automatikisht</i><par n="nuk__adv"/></e>
+    <e lm="avash"><i>avash</i><par n="nuk__adv"/></e>
+    <e lm="avash-avash"><i>avash-avash</i><par n="nuk__adv"/></e>
+    <e lm="ballaballas"><i>ballaballas</i><par n="nuk__adv"/></e>
+    <e lm="ballafaqes"><i>ballafaqes</i><par n="nuk__adv"/></e>
+    <e lm="baraz"><i>baraz</i><par n="nuk__adv"/></e>
+    <e lm="barazi"><i>barazi</i><par n="nuk__adv"/></e>
+    <e lm="barazim"><i>barazim</i><par n="nuk__adv"/></e>
+    <e lm="barazisht"><i>barazisht</i><par n="nuk__adv"/></e>
+    <e lm="barbarisht"><i>barbarisht</i><par n="nuk__adv"/></e>
+    <e lm="bardhë"><i>bardhë</i><par n="nuk__adv"/></e>
+    <e lm="bardhezi"><i>bardhezi</i><par n="nuk__adv"/></e>
+    <e lm="bash"><i>bash</i><par n="nuk__adv"/></e>
+    <e lm="bashkarisht"><i>bashkarisht</i><par n="nuk__adv"/></e>
+    <e lm="bashkas"><i>bashkas</i><par n="nuk__adv"/></e>
+    <e lm="bashkazi"><i>bashkazi</i><par n="nuk__adv"/></e>
+    <e lm="bashkërisht"><i>bashkërisht</i><par n="nuk__adv"/></e>
+    <e lm="bashku"><i>bashku</i><par n="nuk__adv"/></e>
+    <e lm="batall"><i>batall</i><par n="nuk__adv"/></e>
+    <e lm="befas"><i>befas</i><par n="nuk__adv"/></e>
+    <e lm="befasisht"><i>befasisht</i><par n="nuk__adv"/></e>
+    <e lm="besnikërisht"><i>besnikërisht</i><par n="nuk__adv"/></e>
+    <e lm="beter"><i>beter</i><par n="nuk__adv"/></e>
+    <e lm="bindërme"><i>bindërme</i><par n="nuk__adv"/></e>
+    <e lm="bindshëm"><i>bindshëm</i><par n="nuk__adv"/></e>
+    <e lm="bira-bira"><i>bira-bira</i><par n="nuk__adv"/></e>
+    <e lm="boll"><i>boll</i><par n="nuk__adv"/></e>
+    <e lm="bollësisht"><i>bollësisht</i><par n="nuk__adv"/></e>
+    <e lm="borë"><i>borë</i><par n="nuk__adv"/></e>
+    <e lm="bosh"><i>bosh</i><par n="nuk__adv"/></e>
+    <e lm="bot"><i>bot</i><par n="nuk__adv"/></e>
+    <e lm="botërisht"><i>botërisht</i><par n="nuk__adv"/></e>
+    <e lm="botnisht"><i>botnisht</i><par n="nuk__adv"/></e>
+    <e lm="brenda"><i>brenda</i><par n="nuk__adv"/></e>
+    <e lm="brendapërbrenda"><i>brendapërbrenda</i><par n="nuk__adv"/></e>
+    <e lm="brendshmi"><i>brendshmi</i><par n="nuk__adv"/></e>
+    <e lm="breshër"><i>breshër</i><par n="nuk__adv"/></e>
+    <e lm="brutalisht"><i>brutalisht</i><par n="nuk__adv"/></e>
+    <e lm="bujarisht"><i>bujarisht</i><par n="nuk__adv"/></e>
+    <e lm="bukur"><i>bukur</i><par n="nuk__adv"/></e>
+    <e lm="bukurazi"><i>bukurazi</i><par n="nuk__adv"/></e>
+    <e lm="bukuri"><i>bukuri</i><par n="nuk__adv"/></e>
+    <e lm="burim"><i>burim</i><par n="nuk__adv"/></e>
+    <e lm="burrërisht"><i>burrërisht</i><par n="nuk__adv"/></e>
+    <e lm="butazi"><i>butazi</i><par n="nuk__adv"/></e>
+    <e lm="butë"><i>butë</i><par n="nuk__adv"/></e>
+    <e lm="butërisht"><i>butërisht</i><par n="nuk__adv"/></e>
+    <e lm="butësisht"><i>butësisht</i><par n="nuk__adv"/></e>
+    <e lm="ca"><i>ca</i><par n="nuk__adv"/></e>
+    <e lm="çamërisht"><i>çamërisht</i><par n="nuk__adv"/></e>
+    <e lm="çarazi"><i>çarazi</i><par n="nuk__adv"/></e>
+    <e lm="çark"><i>çark</i><par n="nuk__adv"/></e>
+    <e lm="çdoherë"><i>çdoherë</i><par n="nuk__adv"/></e>
+    <e lm="cekapreka"><i>cekapreka</i><par n="nuk__adv"/></e>
+    <e lm="cekët"><i>cekët</i><par n="nuk__adv"/></e>
+    <e lm="çekisht"><i>çekisht</i><par n="nuk__adv"/></e>
+    <e lm="çelambyllas"><i>çelambyllas</i><par n="nuk__adv"/></e>
+    <e lm="çelur"><i>çelur</i><par n="nuk__adv"/></e>
+    <e lm="çelurazi"><i>çelurazi</i><par n="nuk__adv"/></e>
+    <e lm="çift"><i>çift</i><par n="nuk__adv"/></e>
+    <e lm="çiftas"><i>çiftas</i><par n="nuk__adv"/></e>
+    <e lm="çika-çika"><i>çika-çika</i><par n="nuk__adv"/></e>
+    <e lm="cilësisht"><i>cilësisht</i><par n="nuk__adv"/></e>
+    <e lm="cilësorisht"><i>cilësorisht</i><par n="nuk__adv"/></e>
+    <e lm="çiltazi"><i>çiltazi</i><par n="nuk__adv"/></e>
+    <e lm="çiltërisht"><i>çiltërisht</i><par n="nuk__adv"/></e>
+    <e lm="çiltërsisht"><i>çiltërsisht</i><par n="nuk__adv"/></e>
+    <e lm="çip"><i>çip</i><par n="nuk__adv"/></e>
+    <e lm="citazi"><i>citazi</i><par n="nuk__adv"/></e>
+    <e lm="civilisht"><i>civilisht</i><par n="nuk__adv"/></e>
+    <e lm="çka"><i>çka</i><par n="nuk__adv"/></e>
+    <e lm="çlirët"><i>çlirët</i><par n="nuk__adv"/></e>
+    <e lm="copç"><i>copç</i><par n="nuk__adv"/></e>
+    <e lm="copë-copë"><i>copë-copë</i><par n="nuk__adv"/></e>
+    <e lm="copësh"><i>copësh</i><par n="nuk__adv"/></e>
+    <e lm="çuar"><i>çuar</i><par n="nuk__adv"/></e>
+    <e lm="çuditërisht"><i>çuditërisht</i><par n="nuk__adv"/></e>
+    <e lm="dac"><i>dac</i><par n="nuk__adv"/></e>
+    <e lm="dakord"><i>dakord</i><par n="nuk__adv"/></e>
+    <e lm="dakort"><i>dakort</i><par n="nuk__adv"/></e>
+    <e lm="dakull"><i>dakull</i><par n="nuk__adv"/></e>
+    <e lm="dalë"><i>dalë</i><par n="nuk__adv"/></e>
+    <e lm="dalë-dalë"><i>dalë-dalë</i><par n="nuk__adv"/></e>
+    <e lm="dalëngadalë"><i>dalëngadalë</i><par n="nuk__adv"/></e>
+    <e lm="dalkadalë"><i>dalkadalë</i><par n="nuk__adv"/></e>
+    <e lm="dallgë-dallgë"><i>dallgë-dallgë</i><par n="nuk__adv"/></e>
+    <e lm="dallueshëm"><i>dallueshëm</i><par n="nuk__adv"/></e>
+    <e lm="damas"><i>damas</i><par n="nuk__adv"/></e>
+    <e lm="danisht"><i>danisht</i><par n="nuk__adv"/></e>
+    <e lm="dashamirësisht"><i>dashamirësisht</i><par n="nuk__adv"/></e>
+    <e lm="dashtazi"><i>dashtazi</i><par n="nuk__adv"/></e>
+    <e lm="de fakto"><i>de<b/>fakto</i><par n="nuk__adv"/></e>
+    <e lm="definitivisht"><i>definitivisht</i><par n="nuk__adv"/></e>
+    <e lm="degë"><i>degë</i><par n="nuk__adv"/></e>
+    <e lm="dejshëm"><i>dejshëm</i><par n="nuk__adv"/></e>
+    <e lm="de jure"><i>de<b/>jure</i><par n="nuk__adv"/></e>
+    <e lm="dellëngethi"><i>dellëngethi</i><par n="nuk__adv"/></e>
+    <e lm="dëm"><i>dëm</i><par n="nuk__adv"/></e>
+    <e lm="demokratisht"><i>demokratisht</i><par n="nuk__adv"/></e>
+    <e lm="dendësisht"><i>dendësisht</i><par n="nuk__adv"/></e>
+    <e lm="dendur"><i>dendur</i><par n="nuk__adv"/></e>
+    <e lm="dendurazi"><i>dendurazi</i><par n="nuk__adv"/></e>
+    <e lm="denjësisht"><i>denjësisht</i><par n="nuk__adv"/></e>
+    <e lm="detyrimisht"><i>detyrimisht</i><par n="nuk__adv"/></e>
+    <e lm="devolliçe"><i>devolliçe</i><par n="nuk__adv"/></e>
+    <e lm="dhe"><i>dhe</i><par n="nuk__adv"/></e>
+    <e lm="dhembshëm"><i>dhembshëm</i><par n="nuk__adv"/></e>
+    <e lm="dhembshurisht"><i>dhembshurisht</i><par n="nuk__adv"/></e>
+    <e lm="dhimbshëm"><i>dhimbshëm</i><par n="nuk__adv"/></e>
+    <e lm="dhjetësh"><i>dhjetësh</i><par n="nuk__adv"/></e>
+    <e lm="dhunas"><i>dhunas</i><par n="nuk__adv"/></e>
+    <e lm="dhuratisht"><i>dhuratisht</i><par n="nuk__adv"/></e>
+    <e lm="diametralisht"><i>diametralisht</i><par n="nuk__adv"/></e>
+    <e lm="diçka"><i>diçka</i><par n="nuk__adv"/></e>
+    <e lm="dikutek"><i>dikutek</i><par n="nuk__adv"/></e>
+    <e lm="dimrit"><i>dimrit</i><par n="nuk__adv"/></e>
+    <e lm="dinakërisht"><i>dinakërisht</i><par n="nuk__adv"/></e>
+    <e lm="dish"><i>dish</i><par n="nuk__adv"/></e>
+    <e lm="disi"><i>disi</i><par n="nuk__adv"/></e>
+    <e lm="dita-ditës"><i>dita-ditës</i><par n="nuk__adv"/></e>
+    <e lm="ditemdrekë"><i>ditemdrekë</i><par n="nuk__adv"/></e>
+    <e lm="ditën"><i>ditën</i><par n="nuk__adv"/></e>
+    <e lm="dobare"><i>dobare</i><par n="nuk__adv"/></e>
+    <e lm="dobët"><i>dobët</i><par n="nuk__adv"/></e>
+    <e lm="doemos"><i>doemos</i><par n="nuk__adv"/></e>
+    <e lm="dokrras"><i>dokrras</i><par n="nuk__adv"/></e>
+    <e lm="dokthi"><i>dokthi</i><par n="nuk__adv"/></e>
+    <e lm="dollapthi"><i>dollapthi</i><par n="nuk__adv"/></e>
+    <e lm="domosdo"><i>domosdo</i><par n="nuk__adv"/></e>
+    <e lm="dopak"><i>dopak</i><par n="nuk__adv"/></e>
+    <e lm="dora-dorën"><i>dora-dorën</i><par n="nuk__adv"/></e>
+    <e lm="dora-dorës"><i>dora-dorës</i><par n="nuk__adv"/></e>
+    <e lm="dortnall"><i>dortnall</i><par n="nuk__adv"/></e>
+    <e lm="dosido"><i>dosido</i><par n="nuk__adv"/></e>
+    <e lm="dredhas"><i>dredhas</i><par n="nuk__adv"/></e>
+    <e lm="drejt"><i>drejt</i><par n="nuk__adv"/></e>
+    <e lm="drejtas"><i>drejtas</i><par n="nuk__adv"/></e>
+    <e lm="drejti"><i>drejti</i><par n="nuk__adv"/></e>
+    <e lm="drejtpërdrejt"><i>drejtpërdrejt</i><par n="nuk__adv"/></e>
+    <e lm="drejtpërsëdrejti"><i>drejtpërsëdrejti</i><par n="nuk__adv"/></e>
+    <e lm="duarkryq"><i>duarkryq</i><par n="nuk__adv"/></e>
+    <e lm="duet"><i>duet</i><par n="nuk__adv"/></e>
+    <e lm="duhunisht"><i>duhunisht</i><par n="nuk__adv"/></e>
+    <e lm="dukshëm"><i>dukshëm</i><par n="nuk__adv"/></e>
+    <e lm="dyfish"><i>dyfish</i><par n="nuk__adv"/></e>
+    <e lm="dyshas"><i>dyshas</i><par n="nuk__adv"/></e>
+    <e lm="dyshimtas"><i>dyshimtas</i><par n="nuk__adv"/></e>
+    <e lm="dyti"><i>dyti</i><par n="nuk__adv"/></e>
+    <e lm="efektivisht"><i>efektivisht</i><par n="nuk__adv"/></e>
+    <e lm="egër"><i>egër</i><par n="nuk__adv"/></e>
+    <e lm="egërsisht"><i>egërsisht</i><par n="nuk__adv"/></e>
+    <e lm="ekonomikisht"><i>ekonomikisht</i><par n="nuk__adv"/></e>
+    <e lm="ekskluzivisht"><i>ekskluzivisht</i><par n="nuk__adv"/></e>
+    <e lm="ekzakt"><i>ekzakt</i><par n="nuk__adv"/></e>
+    <e lm="ëmbël"><i>ëmbël</i><par n="nuk__adv"/></e>
+    <e lm="ëmbëlsisht"><i>ëmbëlsisht</i><par n="nuk__adv"/></e>
+    <e lm="energjikisht"><i>energjikisht</i><par n="nuk__adv"/></e>
+    <e lm="enkas"><i>enkas</i><par n="nuk__adv"/></e>
+    <e lm="errët"><i>errët</i><par n="nuk__adv"/></e>
+    <e lm="errtas"><i>errtas</i><par n="nuk__adv"/></e>
+    <e lm="esëll"><i>esëll</i><par n="nuk__adv"/></e>
+    <e lm="esencialisht"><i>esencialisht</i><par n="nuk__adv"/></e>
+    <e lm="etshëm"><i>etshëm</i><par n="nuk__adv"/></e>
+    <e lm="eventualisht"><i>eventualisht</i><par n="nuk__adv"/></e>
+    <e lm="falas"><i>falas</i><par n="nuk__adv"/></e>
+    <e lm="falë"><i>falë</i><par n="nuk__adv"/></e>
+    <e lm="familjarisht"><i>familjarisht</i><par n="nuk__adv"/></e>
+    <e lm="faqas"><i>faqas</i><par n="nuk__adv"/></e>
+    <e lm="fatbardhësisht"><i>fatbardhësisht</i><par n="nuk__adv"/></e>
+    <e lm="fatmirësisht"><i>fatmirësisht</i><par n="nuk__adv"/></e>
+    <e lm="fëmijërisht"><i>fëmijërisht</i><par n="nuk__adv"/></e>
+    <e lm="fetarisht"><i>fetarisht</i><par n="nuk__adv"/></e>
+    <e lm="fiks"><i>fiks</i><par n="nuk__adv"/></e>
+    <e lm="fillimisht"><i>fillimisht</i><par n="nuk__adv"/></e>
+    <e lm="filxhanthi"><i>filxhanthi</i><par n="nuk__adv"/></e>
+    <e lm="finlandisht"><i>finlandisht</i><par n="nuk__adv"/></e>
+    <e lm="firë"><i>firë</i><par n="nuk__adv"/></e>
+    <e lm="fizikisht"><i>fizikisht</i><par n="nuk__adv"/></e>
+    <e lm="fjetur"><i>fjetur</i><par n="nuk__adv"/></e>
+    <e lm="fjolla-fjolla"><i>fjolla-fjolla</i><par n="nuk__adv"/></e>
+    <e lm="flakë"><i>flakë</i><par n="nuk__adv"/></e>
+    <e lm="flashkazi"><i>flashkazi</i><par n="nuk__adv"/></e>
+    <e lm="flutur"><i>flutur</i><par n="nuk__adv"/></e>
+    <e lm="fluturim"><i>fluturim</i><par n="nuk__adv"/></e>
+    <e lm="fluturimthi"><i>fluturimthi</i><par n="nuk__adv"/></e>
+    <e lm="formalisht"><i>formalisht</i><par n="nuk__adv"/></e>
+    <e lm="fort"><i>fort</i><par n="nuk__adv"/></e>
+    <e lm="forte"><i>forte</i><par n="nuk__adv"/></e>
+    <e lm="fqinjësisht"><i>fqinjësisht</i><par n="nuk__adv"/></e>
+    <e lm="frëngjisht"><i>frëngjisht</i><par n="nuk__adv"/></e>
+    <e lm="freskët"><i>freskët</i><par n="nuk__adv"/></e>
+    <e lm="fryshëm"><i>fryshëm</i><par n="nuk__adv"/></e>
+    <e lm="fshaçe"><i>fshaçe</i><par n="nuk__adv"/></e>
+    <e lm="fshehur"><i>fshehur</i><par n="nuk__adv"/></e>
+    <e lm="fshehura"><i>fshehura</i><par n="nuk__adv"/></e>
+    <e lm="fshehurazi"><i>fshehurazi</i><par n="nuk__adv"/></e>
+    <e lm="fshikurazi"><i>fshikurazi</i><par n="nuk__adv"/></e>
+    <e lm="ftohtas"><i>ftohtas</i><par n="nuk__adv"/></e>
+    <e lm="ftohtë"><i>ftohtë</i><par n="nuk__adv"/></e>
+    <e lm="fundi"><i>fundi</i><par n="nuk__adv"/></e>
+    <e lm="fundi-fundi"><i>fundi-fundi</i><par n="nuk__adv"/></e>
+    <e lm="fundja"><i>fundja</i><par n="nuk__adv"/></e>
+    <e lm="fundja-fundjes"><i>fundja-fundjes</i><par n="nuk__adv"/></e>
+    <e lm="fuq"><i>fuq</i><par n="nuk__adv"/></e>
+    <e lm="fuqimisht"><i>fuqimisht</i><par n="nuk__adv"/></e>
+    <e lm="fuqishëm"><i>fuqishëm</i><par n="nuk__adv"/></e>
+    <e lm="furishëm"><i>furishëm</i><par n="nuk__adv"/></e>
+    <e lm="fyt"><i>fyt</i><par n="nuk__adv"/></e>
+    <e lm="fytafyt"><i>fytafyt</i><par n="nuk__adv"/></e>
+    <e lm="fytthi"><i>fytthi</i><par n="nuk__adv"/></e>
+    <e lm="gabim"><i>gabim</i><par n="nuk__adv"/></e>
+    <e lm="gabimisht"><i>gabimisht</i><par n="nuk__adv"/></e>
+    <e lm="gafil"><i>gafil</i><par n="nuk__adv"/></e>
+    <e lm="gegërisht"><i>gegërisht</i><par n="nuk__adv"/></e>
+    <e lm="gëzueshëm"><i>gëzueshëm</i><par n="nuk__adv"/></e>
+    <e lm="gjallë"><i>gjallë</i><par n="nuk__adv"/></e>
+    <e lm="gjallërisht"><i>gjallërisht</i><par n="nuk__adv"/></e>
+    <e lm="gjalli"><i>gjalli</i><par n="nuk__adv"/></e>
+    <e lm="gjatazi"><i>gjatazi</i><par n="nuk__adv"/></e>
+    <e lm="gjatë"><i>gjatë</i><par n="nuk__adv"/></e>
+    <e lm="gjati"><i>gjati</i><par n="nuk__adv"/></e>
+    <e lm="gjegjsisht"><i>gjegjsisht</i><par n="nuk__adv"/></e>
+    <e lm="gjëkundi"><i>gjëkundi</i><par n="nuk__adv"/></e>
+    <e lm="gjene"><i>gjene</i><par n="nuk__adv"/></e>
+    <e lm="gjerë"><i>gjerë</i><par n="nuk__adv"/></e>
+    <e lm="gjerësisht"><i>gjerësisht</i><par n="nuk__adv"/></e>
+    <e lm="gjermanisht"><i>gjermanisht</i><par n="nuk__adv"/></e>
+    <e lm="gjerpazi"><i>gjerpazi</i><par n="nuk__adv"/></e>
+    <e lm="gjetkë"><i>gjetkë</i><par n="nuk__adv"/></e>
+    <e lm="gjithandej"><i>gjithandej</i><par n="nuk__adv"/></e>
+    <e lm="gjithazi"><i>gjithazi</i><par n="nuk__adv"/></e>
+    <e lm="gjithë-gjithë"><i>gjithë-gjithë</i><par n="nuk__adv"/></e>
+    <e lm="gjithësesi"><i>gjithësesi</i><par n="nuk__adv"/></e>
+    <e lm="gjithkështu"><i>gjithkështu</i><par n="nuk__adv"/></e>
+    <e lm="gjithkund"><i>gjithkund</i><par n="nuk__adv"/></e>
+    <e lm="gjithkundi"><i>gjithkundi</i><par n="nuk__adv"/></e>
+    <e lm="gjithqish"><i>gjithqish</i><par n="nuk__adv"/></e>
+    <e lm="gjithsado"><i>gjithsado</i><par n="nuk__adv"/></e>
+    <e lm="gjithsej"><i>gjithsej</i><par n="nuk__adv"/></e>
+    <e lm="gjithsejt"><i>gjithsejt</i><par n="nuk__adv"/></e>
+    <e lm="gjithunji"><i>gjithunji</i><par n="nuk__adv"/></e>
+    <e lm="gjuhësisht"><i>gjuhësisht</i><par n="nuk__adv"/></e>
+    <e lm="gjysmë"><i>gjysmë</i><par n="nuk__adv"/></e>
+    <e lm="globalisht"><i>globalisht</i><par n="nuk__adv"/></e>
+    <e lm="gojarisht"><i>gojarisht</i><par n="nuk__adv"/></e>
+    <e lm="gomarazi"><i>gomarazi</i><par n="nuk__adv"/></e>
+    <e lm="goxha"><i>goxha</i><par n="nuk__adv"/></e>
+    <e lm="gradualisht"><i>gradualisht</i><par n="nuk__adv"/></e>
+    <e lm="grafikisht"><i>grafikisht</i><par n="nuk__adv"/></e>
+    <e lm="gramatikisht"><i>gramatikisht</i><par n="nuk__adv"/></e>
+    <e lm="gratis"><i>gratis</i><par n="nuk__adv"/></e>
+    <e lm="greqisht"><i>greqisht</i><par n="nuk__adv"/></e>
+    <e lm="grimca-grimca"><i>grimca-grimca</i><par n="nuk__adv"/></e>
+    <e lm="grumbuj-grumbuj"><i>grumbuj-grumbuj</i><par n="nuk__adv"/></e>
+    <e lm="grumbull"><i>grumbull</i><par n="nuk__adv"/></e>
+    <e lm="grumbullas"><i>grumbullas</i><par n="nuk__adv"/></e>
+    <e lm="grup"><i>grup</i><par n="nuk__adv"/></e>
+    <e lm="grupe-grupe"><i>grupe-grupe</i><par n="nuk__adv"/></e>
+    <e lm="grusht"><i>grusht</i><par n="nuk__adv"/></e>
+    <e lm="grykë"><i>grykë</i><par n="nuk__adv"/></e>
+    <e lm="gur"><i>gur</i><par n="nuk__adv"/></e>
+    <e lm="guxhas"><i>guxhas</i><par n="nuk__adv"/></e>
+    <e lm="habitshëm"><i>habitshëm</i><par n="nuk__adv"/></e>
+    <e lm="hajdutçe"><i>hajdutçe</i><par n="nuk__adv"/></e>
+    <e lm="hajvançe"><i>hajvançe</i><par n="nuk__adv"/></e>
+    <e lm="hamallisht"><i>hamallisht</i><par n="nuk__adv"/></e>
+    <e lm="hamendas"><i>hamendas</i><par n="nuk__adv"/></e>
+    <e lm="hane"><i>hane</i><par n="nuk__adv"/></e>
+    <e lm="hapët"><i>hapët</i><par n="nuk__adv"/></e>
+    <e lm="hapur"><i>hapur</i><par n="nuk__adv"/></e>
+    <e lm="hark"><i>hark</i><par n="nuk__adv"/></e>
+    <e lm="hebraisht"><i>hebraisht</i><par n="nuk__adv"/></e>
+    <e lm="hedha-hedha"><i>hedha-hedha</i><par n="nuk__adv"/></e>
+    <e lm="hedhurazi"><i>hedhurazi</i><par n="nuk__adv"/></e>
+    <e lm="hënabrenda"><i>hënabrenda</i><par n="nuk__adv"/></e>
+    <e lm="hënaprapë"><i>hënaprapë</i><par n="nuk__adv"/></e>
+    <e lm="hëpërhë"><i>hëpërhë</i><par n="nuk__adv"/></e>
+    <e lm="herë"><i>herë</i><par n="nuk__adv"/></e>
+    <e lm="herët"><i>herët</i><par n="nuk__adv"/></e>
+    <e lm="hergjele"><i>hergjele</i><par n="nuk__adv"/></e>
+    <e lm="heroikisht"><i>heroikisht</i><par n="nuk__adv"/></e>
+    <e lm="heshtazi"><i>heshtazi</i><par n="nuk__adv"/></e>
+    <e lm="hidhtas"><i>hidhtas</i><par n="nuk__adv"/></e>
+    <e lm="hidhur"><i>hidhur</i><par n="nuk__adv"/></e>
+    <e lm="hijshëm"><i>hijshëm</i><par n="nuk__adv"/></e>
+    <e lm="hipur"><i>hipur</i><par n="nuk__adv"/></e>
+    <e lm="historikisht"><i>historikisht</i><par n="nuk__adv"/></e>
+    <e lm="hitatshëm"><i>hitatshëm</i><par n="nuk__adv"/></e>
+    <e lm="holandisht"><i>holandisht</i><par n="nuk__adv"/></e>
+    <e lm="hollazi"><i>hollazi</i><par n="nuk__adv"/></e>
+    <e lm="hollë"><i>hollë</i><par n="nuk__adv"/></e>
+    <e lm="hollë-hollë"><i>hollë-hollë</i><par n="nuk__adv"/></e>
+    <e lm="hopthikalas"><i>hopthikalas</i><par n="nuk__adv"/></e>
+    <e lm="horizontalisht"><i>horizontalisht</i><par n="nuk__adv"/></e>
+    <e lm="huazi"><i>huazi</i><par n="nuk__adv"/></e>
+    <e lm="huazisht"><i>huazisht</i><par n="nuk__adv"/></e>
+    <e lm="hudhër"><i>hudhër</i><par n="nuk__adv"/></e>
+    <e lm="humba"><i>humba</i><par n="nuk__adv"/></e>
+    <e lm="humbas"><i>humbas</i><par n="nuk__adv"/></e>
+    <e lm="humbur"><i>humbur</i><par n="nuk__adv"/></e>
+    <e lm="hungarisht"><i>hungarisht</i><par n="nuk__adv"/></e>
+    <e lm="hunjas"><i>hunjas</i><par n="nuk__adv"/></e>
+    <e lm="huq"><i>huq</i><par n="nuk__adv"/></e>
+    <e lm="hutimthi"><i>hutimthi</i><par n="nuk__adv"/></e>
+    <e lm="ideologjikisht"><i>ideologjikisht</i><par n="nuk__adv"/></e>
+    <e lm="ilegalisht"><i>ilegalisht</i><par n="nuk__adv"/></e>
+    <e lm="imët"><i>imët</i><par n="nuk__adv"/></e>
+    <e lm="imtas"><i>imtas</i><par n="nuk__adv"/></e>
+    <e lm="imtë"><i>imtë</i><par n="nuk__adv"/></e>
+    <e lm="indirekt"><i>indirekt</i><par n="nuk__adv"/></e>
+    <e lm="individualisht"><i>individualisht</i><par n="nuk__adv"/></e>
+    <e lm="indonezian"><i>indonezian</i><par n="nuk__adv"/></e>
+    <e lm="instinktivisht"><i>instinktivisht</i><par n="nuk__adv"/></e>
+    <e lm="intensivisht"><i>intensivisht</i><par n="nuk__adv"/></e>
+    <e lm="ironikisht"><i>ironikisht</i><par n="nuk__adv"/></e>
+    <e lm="islandisht"><i>islandisht</i><par n="nuk__adv"/></e>
+    <e lm="italisht"><i>italisht</i><par n="nuk__adv"/></e>
+    <e lm="jam"><i>jam</i><par n="nuk__adv"/></e>
+    <e lm="japonezçe"><i>japonezçe</i><par n="nuk__adv"/></e>
+    <e lm="japonisht"><i>japonisht</i><par n="nuk__adv"/></e>
+    <e lm="jashtë"><i>jashtë</i><par n="nuk__adv"/></e>
+    <e lm="jashtëzakonisht"><i>jashtëzakonisht</i><par n="nuk__adv"/></e>
+    <e lm="jashtmi"><i>jashtmi</i><par n="nuk__adv"/></e>
+    <e lm="juridikisht"><i>juridikisht</i><par n="nuk__adv"/></e>
+    <e lm="kaba"><i>kaba</i><par n="nuk__adv"/></e>
+    <e lm="kacagjel"><i>kacagjel</i><par n="nuk__adv"/></e>
+    <e lm="kaherë"><i>kaherë</i><par n="nuk__adv"/></e>
+    <e lm="kaladoras"><i>kaladoras</i><par n="nuk__adv"/></e>
+    <e lm="kalibaç"><i>kalibaç</i><par n="nuk__adv"/></e>
+    <e lm="kaligâq"><i>kaligâq</i><par n="nuk__adv"/></e>
+    <e lm="kalikaç"><i>kalikaç</i><par n="nuk__adv"/></e>
+    <e lm="kalimthi"><i>kalimthi</i><par n="nuk__adv"/></e>
+    <e lm="kalipiç"><i>kalipiç</i><par n="nuk__adv"/></e>
+    <e lm="kalore"><i>kalore</i><par n="nuk__adv"/></e>
+    <e lm="kalthi"><i>kalthi</i><par n="nuk__adv"/></e>
+    <e lm="kaluar"><i>kaluar</i><par n="nuk__adv"/></e>
+    <e lm="kaluarthi"><i>kaluarthi</i><par n="nuk__adv"/></e>
+    <e lm="kantikaçik"><i>kantikaçik</i><par n="nuk__adv"/></e>
+    <e lm="kapërcimthi"><i>kapërcimthi</i><par n="nuk__adv"/></e>
+    <e lm="karshi"><i>karshi</i><par n="nuk__adv"/></e>
+    <e lm="karvan"><i>karvan</i><par n="nuk__adv"/></e>
+    <e lm="kategorikisht"><i>kategorikisht</i><par n="nuk__adv"/></e>
+    <e lm="katërsh"><i>katërsh</i><par n="nuk__adv"/></e>
+    <e lm="këha"><i>këha</i><par n="nuk__adv"/></e>
+    <e lm="keltisht"><i>keltisht</i><par n="nuk__adv"/></e>
+    <e lm="këmbakëmbas"><i>këmbakëmbas</i><par n="nuk__adv"/></e>
+    <e lm="këmba-këmbës"><i>këmba-këmbës</i><par n="nuk__adv"/></e>
+    <e lm="këmbëkizë"><i>këmbëkizë</i><par n="nuk__adv"/></e>
+    <e lm="këmbëkryq"><i>këmbëkryq</i><par n="nuk__adv"/></e>
+    <e lm="këmbëkular"><i>këmbëkular</i><par n="nuk__adv"/></e>
+    <e lm="këmbëngultas"><i>këmbëngultas</i><par n="nuk__adv"/></e>
+    <e lm="këmbëzvarrë"><i>këmbëzvarrë</i><par n="nuk__adv"/></e>
+    <e lm="këputaqafas"><i>këputaqafas</i><par n="nuk__adv"/></e>
+    <e lm="këputë"><i>këputë</i><par n="nuk__adv"/></e>
+    <e lm="keqas"><i>keqas</i><par n="nuk__adv"/></e>
+    <e lm="kërcënueshëm"><i>kërcënueshëm</i><par n="nuk__adv"/></e>
+    <e lm="kërpicë"><i>kërpicë</i><par n="nuk__adv"/></e>
+    <e lm="kësajt"><i>kësajt</i><par n="nuk__adv"/></e>
+    <e lm="kështu"><i>kështu</i><par n="nuk__adv"/></e>
+    <e lm="kështututje"><i>kështututje</i><par n="nuk__adv"/></e>
+    <e lm="kësimjeti"><i>kësimjeti</i><par n="nuk__adv"/></e>
+    <e lm="kësisoj"><i>kësisoj</i><par n="nuk__adv"/></e>
+    <e lm="kësodore"><i>kësodore</i><par n="nuk__adv"/></e>
+    <e lm="këtej"><i>këtej</i><par n="nuk__adv"/></e>
+    <e lm="këtejza"><i>këtejza</i><par n="nuk__adv"/></e>
+    <e lm="këtje proximal"><i>këtje<b/>proximal</i><par n="nuk__adv"/></e>
+    <e lm="këtupari"><i>këtupari</i><par n="nuk__adv"/></e>
+    <e lm="kiamet"><i>kiamet</i><par n="nuk__adv"/></e>
+    <e lm="kiemas"><i>kiemas</i><par n="nuk__adv"/></e>
+    <e lm="kinezçe"><i>kinezçe</i><par n="nuk__adv"/></e>
+    <e lm="kitas"><i>kitas</i><par n="nuk__adv"/></e>
+    <e lm="kokërdhok"><i>kokërdhok</i><par n="nuk__adv"/></e>
+    <e lm="kolegjialisht"><i>kolegjialisht</i><par n="nuk__adv"/></e>
+    <e lm="kolektivisht"><i>kolektivisht</i><par n="nuk__adv"/></e>
+    <e lm="kollaj"><i>kollaj</i><par n="nuk__adv"/></e>
+    <e lm="kombëtarisht"><i>kombëtarisht</i><par n="nuk__adv"/></e>
+    <e lm="konkretisht"><i>konkretisht</i><par n="nuk__adv"/></e>
+    <e lm="kontrabandë"><i>kontrabandë</i><par n="nuk__adv"/></e>
+    <e lm="krahaqafë"><i>krahaqafë</i><par n="nuk__adv"/></e>
+    <e lm="krahas"><i>krahas</i><par n="nuk__adv"/></e>
+    <e lm="krejtësisht"><i>krejtësisht</i><par n="nuk__adv"/></e>
+    <e lm="krenarisht"><i>krenarisht</i><par n="nuk__adv"/></e>
+    <e lm="krenisht"><i>krenisht</i><par n="nuk__adv"/></e>
+    <e lm="kruspull"><i>kruspull</i><par n="nuk__adv"/></e>
+    <e lm="kryekëput"><i>kryekëput</i><par n="nuk__adv"/></e>
+    <e lm="kryepërpjetë"><i>kryepërpjetë</i><par n="nuk__adv"/></e>
+    <e lm="kryepicingul"><i>kryepicingul</i><par n="nuk__adv"/></e>
+    <e lm="kryq"><i>kryq</i><par n="nuk__adv"/></e>
+    <e lm="kthjellët"><i>kthjellët</i><par n="nuk__adv"/></e>
+    <e lm="ku"><i>ku</i><par n="nuk__adv"/></e>
+    <e lm="kudo"><i>kudo</i><par n="nuk__adv"/></e>
+    <e lm="kulm"><i>kulm</i><par n="nuk__adv"/></e>
+    <e lm="kund"><i>kund</i><par n="nuk__adv"/></e>
+    <e lm="kundërthi"><i>kundërthi</i><par n="nuk__adv"/></e>
+    <e lm="kundrejt"><i>kundrejt</i><par n="nuk__adv"/></e>
+    <e lm="kundruall"><i>kundruall</i><par n="nuk__adv"/></e>
+    <e lm="kuptimisht"><i>kuptimisht</i><par n="nuk__adv"/></e>
+    <e lm="kuptueshëm"><i>kuptueshëm</i><par n="nuk__adv"/></e>
+    <e lm="kur"><i>kur</i><par n="nuk__adv"/></e>
+    <e lm="kurdo"><i>kurdo</i><par n="nuk__adv"/></e>
+    <e lm="kurdoherë"><i>kurdoherë</i><par n="nuk__adv"/></e>
+    <e lm="kushdi parenth"><i>kushdi<b/>parenth</i><par n="nuk__adv"/></e>
+    <e lm="lakuriq"><i>lakuriq</i><par n="nuk__adv"/></e>
+    <e lm="larg"><i>larg</i><par n="nuk__adv"/></e>
+    <e lm="largalargas"><i>largalargas</i><par n="nuk__adv"/></e>
+    <e lm="largu"><i>largu</i><par n="nuk__adv"/></e>
+    <e lm="lart"><i>lart</i><par n="nuk__adv"/></e>
+    <e lm="lartas"><i>lartas</i><par n="nuk__adv"/></e>
+    <e lm="larti"><i>larti</i><par n="nuk__adv"/></e>
+    <e lm="lashtë"><i>lashtë</i><par n="nuk__adv"/></e>
+    <e lm="lashti"><i>lashti</i><par n="nuk__adv"/></e>
+    <e lm="latinisht"><i>latinisht</i><par n="nuk__adv"/></e>
+    <e lm="legalisht"><i>legalisht</i><par n="nuk__adv"/></e>
+    <e lm="lehtësisht"><i>lehtësisht</i><par n="nuk__adv"/></e>
+    <e lm="lëmë"><i>lëmë</i><par n="nuk__adv"/></e>
+    <e lm="lëmuar"><i>lëmuar</i><par n="nuk__adv"/></e>
+    <e lm="lëndarisht"><i>lëndarisht</i><par n="nuk__adv"/></e>
+    <e lm="lëndimthi"><i>lëndimthi</i><par n="nuk__adv"/></e>
+    <e lm="lerg"><i>lerg</i><par n="nuk__adv"/></e>
+    <e lm="lidhur"><i>lidhur</i><par n="nuk__adv"/></e>
+    <e lm="lig"><i>lig</i><par n="nuk__adv"/></e>
+    <e lm="ligësisht"><i>ligësisht</i><par n="nuk__adv"/></e>
+    <e lm="ligjërisht"><i>ligjërisht</i><par n="nuk__adv"/></e>
+    <e lm="lirisht"><i>lirisht</i><par n="nuk__adv"/></e>
+    <e lm="lirshëm"><i>lirshëm</i><par n="nuk__adv"/></e>
+    <e lm="logetrog"><i>logetrog</i><par n="nuk__adv"/></e>
+    <e lm="logjikisht"><i>logjikisht</i><par n="nuk__adv"/></e>
+    <e lm="luks"><i>luks</i><par n="nuk__adv"/></e>
+    <e lm="lumë"><i>lumë</i><par n="nuk__adv"/></e>
+    <e lm="lyeshëm"><i>lyeshëm</i><par n="nuk__adv"/></e>
+    <e lm="magjypthi"><i>magjypthi</i><par n="nuk__adv"/></e>
+    <e lm="mahmur"><i>mahmur</i><par n="nuk__adv"/></e>
+    <e lm="majtasrrotullues"><i>majtasrrotullues</i><par n="nuk__adv"/></e>
+    <e lm="maksimum"><i>maksimum</i><par n="nuk__adv"/></e>
+    <e lm="mal"><i>mal</i><par n="nuk__adv"/></e>
+    <e lm="malamal"><i>malamal</i><par n="nuk__adv"/></e>
+    <e lm="malësorçe"><i>malësorçe</i><par n="nuk__adv"/></e>
+    <e lm="malokçe"><i>malokçe</i><par n="nuk__adv"/></e>
+    <e lm="mandej"><i>mandej</i><par n="nuk__adv"/></e>
+    <e lm="mangut"><i>mangut</i><par n="nuk__adv"/></e>
+    <e lm="maqedonisht"><i>maqedonisht</i><par n="nuk__adv"/></e>
+    <e lm="marrisht"><i>marrisht</i><par n="nuk__adv"/></e>
+    <e lm="matanë"><i>matanë</i><par n="nuk__adv"/></e>
+    <e lm="matematikisht"><i>matematikisht</i><par n="nuk__adv"/></e>
+    <e lm="materialisht"><i>materialisht</i><par n="nuk__adv"/></e>
+    <e lm="mballafaqe"><i>mballafaqe</i><par n="nuk__adv"/></e>
+    <e lm="mbanë"><i>mbanë</i><par n="nuk__adv"/></e>
+    <e lm="mbarë"><i>mbarë</i><par n="nuk__adv"/></e>
+    <e lm="mbari"><i>mbari</i><par n="nuk__adv"/></e>
+    <e lm="mbasdite"><i>mbasdite</i><par n="nuk__adv"/></e>
+    <e lm="mbështetur"><i>mbështetur</i><par n="nuk__adv"/></e>
+    <e lm="mbledhur"><i>mbledhur</i><par n="nuk__adv"/></e>
+    <e lm="mbrapsht"><i>mbrapsht</i><par n="nuk__adv"/></e>
+    <e lm="mbrapshtas"><i>mbrapshtas</i><par n="nuk__adv"/></e>
+    <e lm="mbrëmanet"><i>mbrëmanet</i><par n="nuk__adv"/></e>
+    <e lm="mbrëmë"><i>mbrëmë</i><par n="nuk__adv"/></e>
+    <e lm="mbuluar"><i>mbuluar</i><par n="nuk__adv"/></e>
+    <e lm="mbyllas"><i>mbyllas</i><par n="nuk__adv"/></e>
+    <e lm="mbyllazi"><i>mbyllazi</i><par n="nuk__adv"/></e>
+    <e lm="mbyllur"><i>mbyllur</i><par n="nuk__adv"/></e>
+    <e lm="mbytas"><i>mbytas</i><par n="nuk__adv"/></e>
+    <e lm="mbytazi"><i>mbytazi</i><par n="nuk__adv"/></e>
+    <e lm="mbytur"><i>mbytur</i><par n="nuk__adv"/></e>
+    <e lm="mbyturazi"><i>mbyturazi</i><par n="nuk__adv"/></e>
+    <e lm="meazallah"><i>meazallah</i><par n="nuk__adv"/></e>
+    <e lm="medoemos"><i>medoemos</i><par n="nuk__adv"/></e>
+    <e lm="mëdyzaj"><i>mëdyzaj</i><par n="nuk__adv"/></e>
+    <e lm="mënd"><i>mënd</i><par n="nuk__adv"/></e>
+    <e lm="mendërisht"><i>mendërisht</i><par n="nuk__adv"/></e>
+    <e lm="menduar"><i>menduar</i><par n="nuk__adv"/></e>
+    <e lm="mënjanë"><i>mënjanë</i><par n="nuk__adv"/></e>
+    <e lm="mënjansisht"><i>mënjansisht</i><par n="nuk__adv"/></e>
+    <e lm="mërguar"><i>mërguar</i><par n="nuk__adv"/></e>
+    <e lm="mërzitshëm"><i>mërzitshëm</i><par n="nuk__adv"/></e>
+    <e lm="mesatarisht"><i>mesatarisht</i><par n="nuk__adv"/></e>
+    <e lm="metë"><i>metë</i><par n="nuk__adv"/></e>
+    <e lm="metodikisht"><i>metodikisht</i><par n="nuk__adv"/></e>
+    <e lm="minimum"><i>minimum</i><par n="nuk__adv"/></e>
+    <e lm="miras"><i>miras</i><par n="nuk__adv"/></e>
+    <e lm="mirëfilli"><i>mirëfilli</i><par n="nuk__adv"/></e>
+    <e lm="misteriozisht"><i>misteriozisht</i><par n="nuk__adv"/></e>
+    <e lm="mizë"><i>mizë</i><par n="nuk__adv"/></e>
+    <e lm="mizorisht"><i>mizorisht</i><par n="nuk__adv"/></e>
+    <e lm="mjaftueshëm"><i>mjaftueshëm</i><par n="nuk__adv"/></e>
+    <e lm="mjaltë"><i>mjaltë</i><par n="nuk__adv"/></e>
+    <e lm="mjerisht"><i>mjerisht</i><par n="nuk__adv"/></e>
+    <e lm="mjeshtërisht"><i>mjeshtërisht</i><par n="nuk__adv"/></e>
+    <e lm="moralisht"><i>moralisht</i><par n="nuk__adv"/></e>
+    <e lm="mot"><i>mot</i><par n="nuk__adv"/></e>
+    <e lm="mrekulli"><i>mrekulli</i><par n="nuk__adv"/></e>
+    <e lm="mrekullisht"><i>mrekullisht</i><par n="nuk__adv"/></e>
+    <e lm="mundebare"><i>mundebare</i><par n="nuk__adv"/></e>
+    <e lm="mundësisht"><i>mundësisht</i><par n="nuk__adv"/></e>
+    <e lm="muq"><i>muq</i><par n="nuk__adv"/></e>
+    <e lm="myzeqarçe"><i>myzeqarçe</i><par n="nuk__adv"/></e>
+    <e lm="natën"><i>natën</i><par n="nuk__adv"/></e>
+    <e lm="natyrshëm"><i>natyrshëm</i><par n="nuk__adv"/></e>
+    <e lm="ndanë"><i>ndanë</i><par n="nuk__adv"/></e>
+    <e lm="ndenjur"><i>ndenjur</i><par n="nuk__adv"/></e>
+    <e lm="nderazi"><i>nderazi</i><par n="nuk__adv"/></e>
+    <e lm="ndërkaq"><i>ndërkaq</i><par n="nuk__adv"/></e>
+    <e lm="ndërkohë"><i>ndërkohë</i><par n="nuk__adv"/></e>
+    <e lm="ndërmjet"><i>ndërmjet</i><par n="nuk__adv"/></e>
+    <e lm="ndershëm"><i>ndershëm</i><par n="nuk__adv"/></e>
+    <e lm="ndershmërisht"><i>ndershmërisht</i><par n="nuk__adv"/></e>
+    <e lm="ndërsjelltas"><i>ndërsjelltas</i><par n="nuk__adv"/></e>
+    <e lm="ndiç"><i>ndiç</i><par n="nuk__adv"/></e>
+    <e lm="ndoca"><i>ndoca</i><par n="nuk__adv"/></e>
+    <e lm="ndofta"><i>ndofta</i><par n="nuk__adv"/></e>
+    <e lm="ndokund"><i>ndokund</i><par n="nuk__adv"/></e>
+    <e lm="ndonjëherë"><i>ndonjëherë</i><par n="nuk__adv"/></e>
+    <e lm="ndopak"><i>ndopak</i><par n="nuk__adv"/></e>
+    <e lm="ndore"><i>ndore</i><par n="nuk__adv"/></e>
+    <e lm="ndryshe"><i>ndryshe</i><par n="nuk__adv"/></e>
+    <e lm="ndyrë"><i>ndyrë</i><par n="nuk__adv"/></e>
+    <e lm="negativisht"><i>negativisht</i><par n="nuk__adv"/></e>
+    <e lm="nëntë"><i>nëntë</i><par n="nuk__adv"/></e>
+    <e lm="nëpërmes"><i>nëpërmes</i><par n="nuk__adv"/></e>
+    <e lm="nergut"><i>nergut</i><par n="nuk__adv"/></e>
+    <e lm="nesërejt"><i>nesërejt</i><par n="nuk__adv"/></e>
+    <e lm="nevojisht"><i>nevojisht</i><par n="nuk__adv"/></e>
+    <e lm="nga"><i>nga</i><par n="nuk__adv"/></e>
+    <e lm="ngadalë"><i>ngadalë</i><par n="nuk__adv"/></e>
+    <e lm="ngado"><i>ngado</i><par n="nuk__adv"/></e>
+    <e lm="ngaha"><i>ngaha</i><par n="nuk__adv"/></e>
+    <e lm="ngandonjëherë"><i>ngandonjëherë</i><par n="nuk__adv"/></e>
+    <e lm="nganjëherë"><i>nganjëherë</i><par n="nuk__adv"/></e>
+    <e lm="ngapak"><i>ngapak</i><par n="nuk__adv"/></e>
+    <e lm="ngaraz"><i>ngaraz</i><par n="nuk__adv"/></e>
+    <e lm="ngatërrueshëm"><i>ngatërrueshëm</i><par n="nuk__adv"/></e>
+    <e lm="ngjeshur"><i>ngjeshur</i><par n="nuk__adv"/></e>
+    <e lm="ngjitas"><i>ngjitas</i><par n="nuk__adv"/></e>
+    <e lm="ngjitë"><i>ngjitë</i><par n="nuk__adv"/></e>
+    <e lm="ngjitur"><i>ngjitur</i><par n="nuk__adv"/></e>
+    <e lm="ngritur"><i>ngritur</i><par n="nuk__adv"/></e>
+    <e lm="ngrohtë"><i>ngrohtë</i><par n="nuk__adv"/></e>
+    <e lm="ngrysur"><i>ngrysur</i><par n="nuk__adv"/></e>
+    <e lm="ngul"><i>ngul</i><par n="nuk__adv"/></e>
+    <e lm="ngulthi"><i>ngulthi</i><par n="nuk__adv"/></e>
+    <e lm="ngurtë"><i>ngurtë</i><par n="nuk__adv"/></e>
+    <e lm="ngushtë"><i>ngushtë</i><par n="nuk__adv"/></e>
+    <e lm="ngushtësisht"><i>ngushtësisht</i><par n="nuk__adv"/></e>
+    <e lm="ngutas"><i>ngutas</i><par n="nuk__adv"/></e>
+    <e lm="ngutësisht"><i>ngutësisht</i><par n="nuk__adv"/></e>
+    <e lm="nisesos"><i>nisesos</i><par n="nuk__adv"/></e>
+    <e lm="nomërisht"><i>nomërisht</i><par n="nuk__adv"/></e>
+    <e lm="normalisht"><i>normalisht</i><par n="nuk__adv"/></e>
+    <e lm="norvegjisht"><i>norvegjisht</i><par n="nuk__adv"/></e>
+    <e lm="numerikisht"><i>numerikisht</i><par n="nuk__adv"/></e>
+    <e lm="nxehtë"><i>nxehtë</i><par n="nuk__adv"/></e>
+    <e lm="nxehtësisht"><i>nxehtësisht</i><par n="nuk__adv"/></e>
+    <e lm="nxitimthi"><i>nxitimthi</i><par n="nuk__adv"/></e>
+    <e lm="objektivisht"><i>objektivisht</i><par n="nuk__adv"/></e>
+    <e lm="opet"><i>opet</i><par n="nuk__adv"/></e>
+    <e lm="organikisht"><i>organikisht</i><par n="nuk__adv"/></e>
+    <e lm="organizativisht"><i>organizativisht</i><par n="nuk__adv"/></e>
+    <e lm="pa"><i>pa</i><par n="nuk__adv"/></e>
+    <e lm="pabeft"><i>pabeft</i><par n="nuk__adv"/></e>
+    <e lm="pabesisht"><i>pabesisht</i><par n="nuk__adv"/></e>
+    <e lm="padashka"><i>padashka</i><par n="nuk__adv"/></e>
+    <e lm="padashur"><i>padashur</i><par n="nuk__adv"/></e>
+    <e lm="paditur"><i>paditur</i><par n="nuk__adv"/></e>
+    <e lm="padrejtësisht"><i>padrejtësisht</i><par n="nuk__adv"/></e>
+    <e lm="padyshim"><i>padyshim</i><par n="nuk__adv"/></e>
+    <e lm="pakmos"><i>pakmos</i><par n="nuk__adv"/></e>
+    <e lm="paksa"><i>paksa</i><par n="nuk__adv"/></e>
+    <e lm="paksëpaku"><i>paksëpaku</i><par n="nuk__adv"/></e>
+    <e lm="paktë"><i>paktë</i><par n="nuk__adv"/></e>
+    <e lm="paku"><i>paku</i><par n="nuk__adv"/></e>
+    <e lm="palë"><i>palë</i><par n="nuk__adv"/></e>
+    <e lm="pambarimisht"><i>pambarimisht</i><par n="nuk__adv"/></e>
+    <e lm="pamëta"><i>pamëta</i><par n="nuk__adv"/></e>
+    <e lm="pandashmërisht"><i>pandashmërisht</i><par n="nuk__adv"/></e>
+    <e lm="pandërprerë"><i>pandërprerë</i><par n="nuk__adv"/></e>
+    <e lm="papritur"><i>papritur</i><par n="nuk__adv"/></e>
+    <e lm="para"><i>para</i><par n="nuk__adv"/></e>
+    <e lm="paralel"><i>paralel</i><par n="nuk__adv"/></e>
+    <e lm="paralelisht"><i>paralelisht</i><par n="nuk__adv"/></e>
+    <e lm="paraprakisht"><i>paraprakisht</i><par n="nuk__adv"/></e>
+    <e lm="parasysh"><i>parasysh</i><par n="nuk__adv"/></e>
+    <e lm="paresh"><i>paresh</i><par n="nuk__adv"/></e>
+    <e lm="pareshtur"><i>pareshtur</i><par n="nuk__adv"/></e>
+    <e lm="pari"><i>pari</i><par n="nuk__adv"/></e>
+    <e lm="parimisht"><i>parimisht</i><par n="nuk__adv"/></e>
+    <e lm="parrugë"><i>parrugë</i><par n="nuk__adv"/></e>
+    <e lm="parthi"><i>parthi</i><par n="nuk__adv"/></e>
+    <e lm="pas"><i>pas</i><par n="nuk__adv"/></e>
+    <e lm="pasdite"><i>pasdite</i><par n="nuk__adv"/></e>
+    <e lm="pasdreke"><i>pasdreke</i><par n="nuk__adv"/></e>
+    <e lm="pasivisht"><i>pasivisht</i><par n="nuk__adv"/></e>
+    <e lm="paskëtaj"><i>paskëtaj</i><par n="nuk__adv"/></e>
+    <e lm="pasmi"><i>pasmi</i><par n="nuk__adv"/></e>
+    <e lm="pasnesërtjetër"><i>pasnesërtjetër</i><par n="nuk__adv"/></e>
+    <e lm="pastafat"><i>pastafat</i><par n="nuk__adv"/></e>
+    <e lm="pat"><i>pat</i><par n="nuk__adv"/></e>
+    <e lm="patjetër"><i>patjetër</i><par n="nuk__adv"/></e>
+    <e lm="pavarësisht"><i>pavarësisht</i><par n="nuk__adv"/></e>
+    <e lm="pazgjidhshmërisht"><i>pazgjidhshmërisht</i><par n="nuk__adv"/></e>
+    <e lm="pelas"><i>pelas</i><par n="nuk__adv"/></e>
+    <e lm="pëllua"><i>pëllua</i><par n="nuk__adv"/></e>
+    <e lm="penalisht"><i>penalisht</i><par n="nuk__adv"/></e>
+    <e lm="pendimas"><i>pendimas</i><par n="nuk__adv"/></e>
+    <e lm="përafërsisht"><i>përafërsisht</i><par n="nuk__adv"/></e>
+    <e lm="përballë"><i>përballë</i><par n="nuk__adv"/></e>
+    <e lm="përbrenda"><i>përbrenda</i><par n="nuk__adv"/></e>
+    <e lm="përbuzë"><i>përbuzë</i><par n="nuk__adv"/></e>
+    <e lm="përçart"><i>përçart</i><par n="nuk__adv"/></e>
+    <e lm="përcipe"><i>përcipe</i><par n="nuk__adv"/></e>
+    <e lm="përdhe"><i>përdhe</i><par n="nuk__adv"/></e>
+    <e lm="përditë"><i>përditë</i><par n="nuk__adv"/></e>
+    <e lm="përdoresh"><i>përdoresh</i><par n="nuk__adv"/></e>
+    <e lm="përfaqëz"><i>përfaqëz</i><par n="nuk__adv"/></e>
+    <e lm="përfund"><i>përfund</i><par n="nuk__adv"/></e>
+    <e lm="përfundi"><i>përfundi</i><par n="nuk__adv"/></e>
+    <e lm="përfundimisht"><i>përfundimisht</i><par n="nuk__adv"/></e>
+    <e lm="përgjithësisht"><i>përgjithësisht</i><par n="nuk__adv"/></e>
+    <e lm="përgjithmonë"><i>përgjithmonë</i><par n="nuk__adv"/></e>
+    <e lm="përgjithnjë"><i>përgjithnjë</i><par n="nuk__adv"/></e>
+    <e lm="përherë"><i>përherë</i><par n="nuk__adv"/></e>
+    <e lm="periodikisht"><i>periodikisht</i><par n="nuk__adv"/></e>
+    <e lm="përjava"><i>përjava</i><par n="nuk__adv"/></e>
+    <e lm="përjetë"><i>përjetë</i><par n="nuk__adv"/></e>
+    <e lm="përkatësisht"><i>përkatësisht</i><par n="nuk__adv"/></e>
+    <e lm="përkitazi"><i>përkitazi</i><par n="nuk__adv"/></e>
+    <e lm="përkohësisht"><i>përkohësisht</i><par n="nuk__adv"/></e>
+    <e lm="përkrah"><i>përkrah</i><par n="nuk__adv"/></e>
+    <e lm="përkrahas"><i>përkrahas</i><par n="nuk__adv"/></e>
+    <e lm="përkrahu"><i>përkrahu</i><par n="nuk__adv"/></e>
+    <e lm="përkundra"><i>përkundra</i><par n="nuk__adv"/></e>
+    <e lm="përkundrejt"><i>përkundrejt</i><par n="nuk__adv"/></e>
+    <e lm="përmajësh"><i>përmajësh</i><par n="nuk__adv"/></e>
+    <e lm="përmatanë"><i>përmatanë</i><par n="nuk__adv"/></e>
+    <e lm="përmbys"><i>përmbys</i><par n="nuk__adv"/></e>
+    <e lm="përmendsh"><i>përmendsh</i><par n="nuk__adv"/></e>
+    <e lm="përmes"><i>përmes</i><par n="nuk__adv"/></e>
+    <e lm="përndryshe"><i>përndryshe</i><par n="nuk__adv"/></e>
+    <e lm="përpara"><i>përpara</i><par n="nuk__adv"/></e>
+    <e lm="përparandej"><i>përparandej</i><par n="nuk__adv"/></e>
+    <e lm="përparthi"><i>përparthi</i><par n="nuk__adv"/></e>
+    <e lm="përpas"><i>përpas</i><par n="nuk__adv"/></e>
+    <e lm="përpjetë"><i>përpjetë</i><par n="nuk__adv"/></e>
+    <e lm="përplot"><i>përplot</i><par n="nuk__adv"/></e>
+    <e lm="përposh"><i>përposh</i><par n="nuk__adv"/></e>
+    <e lm="përqark"><i>përqark</i><par n="nuk__adv"/></e>
+    <e lm="përsafri"><i>përsafri</i><par n="nuk__adv"/></e>
+    <e lm="përse"><i>përse</i><par n="nuk__adv"/></e>
+    <e lm="përsëshpejti"><i>përsëshpejti</i><par n="nuk__adv"/></e>
+    <e lm="përshtatas"><i>përshtatas</i><par n="nuk__adv"/></e>
+    <e lm="përsimti"><i>përsimti</i><par n="nuk__adv"/></e>
+    <e lm="përsipër"><i>përsipër</i><par n="nuk__adv"/></e>
+    <e lm="persisht"><i>persisht</i><par n="nuk__adv"/></e>
+    <e lm="përskaj"><i>përskaj</i><par n="nuk__adv"/></e>
+    <e lm="personalisht"><i>personalisht</i><par n="nuk__adv"/></e>
+    <e lm="përtej"><i>përtej</i><par n="nuk__adv"/></e>
+    <e lm="përvuejtnisht"><i>përvuejtnisht</i><par n="nuk__adv"/></e>
+    <e lm="peshë"><i>peshë</i><par n="nuk__adv"/></e>
+    <e lm="peshin"><i>peshin</i><par n="nuk__adv"/></e>
+    <e lm="petë-petë"><i>petë-petë</i><par n="nuk__adv"/></e>
+    <e lm="pezull"><i>pezull</i><par n="nuk__adv"/></e>
+    <e lm="pikë"><i>pikë</i><par n="nuk__adv"/></e>
+    <e lm="pikëpesë"><i>pikëpesë</i><par n="nuk__adv"/></e>
+    <e lm="pikësëpari"><i>pikësëpari</i><par n="nuk__adv"/></e>
+    <e lm="pingë"><i>pingë</i><par n="nuk__adv"/></e>
+    <e lm="pingul"><i>pingul</i><par n="nuk__adv"/></e>
+    <e lm="pis"><i>pis</i><par n="nuk__adv"/></e>
+    <e lm="pitas"><i>pitas</i><par n="nuk__adv"/></e>
+    <e lm="pjerrtas"><i>pjerrtas</i><par n="nuk__adv"/></e>
+    <e lm="pjesë-pjesë"><i>pjesë-pjesë</i><par n="nuk__adv"/></e>
+    <e lm="pjesërisht"><i>pjesërisht</i><par n="nuk__adv"/></e>
+    <e lm="plot"><i>plot</i><par n="nuk__adv"/></e>
+    <e lm="plotësisht"><i>plotësisht</i><par n="nuk__adv"/></e>
+    <e lm="plumb"><i>plumb</i><par n="nuk__adv"/></e>
+    <e lm="pohimisht"><i>pohimisht</i><par n="nuk__adv"/></e>
+    <e lm="pola-pola"><i>pola-pola</i><par n="nuk__adv"/></e>
+    <e lm="politikisht"><i>politikisht</i><par n="nuk__adv"/></e>
+    <e lm="polonisht"><i>polonisht</i><par n="nuk__adv"/></e>
+    <e lm="popullorçe"><i>popullorçe</i><par n="nuk__adv"/></e>
+    <e lm="porsa"><i>porsa</i><par n="nuk__adv"/></e>
+    <e lm="portugalisht"><i>portugalisht</i><par n="nuk__adv"/></e>
+    <e lm="pos"><i>pos</i><par n="nuk__adv"/></e>
+    <e lm="posa"><i>posa</i><par n="nuk__adv"/></e>
+    <e lm="posaçe"><i>posaçe</i><par n="nuk__adv"/></e>
+    <e lm="posaçërisht"><i>posaçërisht</i><par n="nuk__adv"/></e>
+    <e lm="posë"><i>posë</i><par n="nuk__adv"/></e>
+    <e lm="poshtë"><i>poshtë</i><par n="nuk__adv"/></e>
+    <e lm="pothuajse"><i>pothuajse</i><par n="nuk__adv"/></e>
+    <e lm="pozitivisht"><i>pozitivisht</i><par n="nuk__adv"/></e>
+    <e lm="pra"><i>pra</i><par n="nuk__adv"/></e>
+    <e lm="praktikisht"><i>praktikisht</i><par n="nuk__adv"/></e>
+    <e lm="prandaj"><i>prandaj</i><par n="nuk__adv"/></e>
+    <e lm="pranisht"><i>pranisht</i><par n="nuk__adv"/></e>
+    <e lm="prapa"><i>prapa</i><par n="nuk__adv"/></e>
+    <e lm="prapaskene"><i>prapaskene</i><par n="nuk__adv"/></e>
+    <e lm="prapazi"><i>prapazi</i><par n="nuk__adv"/></e>
+    <e lm="prapëseprapë"><i>prapëseprapë</i><par n="nuk__adv"/></e>
+    <e lm="prerë"><i>prerë</i><par n="nuk__adv"/></e>
+    <e lm="prerësisht"><i>prerësisht</i><par n="nuk__adv"/></e>
+    <e lm="privatisht"><i>privatisht</i><par n="nuk__adv"/></e>
+    <e lm="pro"><i>pro</i><par n="nuk__adv"/></e>
+    <e lm="proporcionalisht"><i>proporcionalisht</i><par n="nuk__adv"/></e>
+    <e lm="prush"><i>prush</i><par n="nuk__adv"/></e>
+    <e lm="pse"><i>pse</i><par n="nuk__adv"/></e>
+    <e lm="publikisht"><i>publikisht</i><par n="nuk__adv"/></e>
+    <e lm="puk"><i>puk</i><par n="nuk__adv"/></e>
+    <e lm="pus"><i>pus</i><par n="nuk__adv"/></e>
+    <e lm="pushtërisht"><i>pushtërisht</i><par n="nuk__adv"/></e>
+    <e lm="pyll"><i>pyll</i><par n="nuk__adv"/></e>
+    <e lm="qark"><i>qark</i><par n="nuk__adv"/></e>
+    <e lm="qartë"><i>qartë</i><par n="nuk__adv"/></e>
+    <e lm="qartësisht"><i>qartësisht</i><par n="nuk__adv"/></e>
+    <e lm="qashtu"><i>qashtu</i><par n="nuk__adv"/></e>
+    <e lm="qëherthi"><i>qëherthi</i><par n="nuk__adv"/></e>
+    <e lm="qëllimisht"><i>qëllimisht</i><par n="nuk__adv"/></e>
+    <e lm="qëllimthi"><i>qëllimthi</i><par n="nuk__adv"/></e>
+    <e lm="qençe"><i>qençe</i><par n="nuk__adv"/></e>
+    <e lm="qenehu"><i>qenehu</i><par n="nuk__adv"/></e>
+    <e lm="qenësisht"><i>qenësisht</i><par n="nuk__adv"/></e>
+    <e lm="qesim"><i>qesim</i><par n="nuk__adv"/></e>
+    <e lm="qetazi"><i>qetazi</i><par n="nuk__adv"/></e>
+    <e lm="qetësisht"><i>qetësisht</i><par n="nuk__adv"/></e>
+    <e lm="qysh"><i>qysh</i><par n="nuk__adv"/></e>
+    <e lm="racërisht"><i>racërisht</i><par n="nuk__adv"/></e>
+    <e lm="radha"><i>radha</i><par n="nuk__adv"/></e>
+    <e lm="radhë"><i>radhë</i><par n="nuk__adv"/></e>
+    <e lm="radhë-radhë"><i>radhë-radhë</i><par n="nuk__adv"/></e>
+    <e lm="radikalisht"><i>radikalisht</i><par n="nuk__adv"/></e>
+    <e lm="rastësisht"><i>rastësisht</i><par n="nuk__adv"/></e>
+    <e lm="realisht"><i>realisht</i><par n="nuk__adv"/></e>
+    <e lm="reciprokisht"><i>reciprokisht</i><par n="nuk__adv"/></e>
+    <e lm="relativisht"><i>relativisht</i><par n="nuk__adv"/></e>
+    <e lm="rëndë"><i>rëndë</i><par n="nuk__adv"/></e>
+    <e lm="rëndë-rëndë"><i>rëndë-rëndë</i><par n="nuk__adv"/></e>
+    <e lm="rëndom"><i>rëndom</i><par n="nuk__adv"/></e>
+    <e lm="rëndomthi"><i>rëndomthi</i><par n="nuk__adv"/></e>
+    <e lm="rënë"><i>rënë</i><par n="nuk__adv"/></e>
+    <e lm="rigorozisht"><i>rigorozisht</i><par n="nuk__adv"/></e>
+    <e lm="rrafsh"><i>rrafsh</i><par n="nuk__adv"/></e>
+    <e lm="rrafshazi"><i>rrafshazi</i><par n="nuk__adv"/></e>
+    <e lm="rrah"><i>rrah</i><par n="nuk__adv"/></e>
+    <e lm="rrallë"><i>rrallë</i><par n="nuk__adv"/></e>
+    <e lm="rrallëherë"><i>rrallëherë</i><par n="nuk__adv"/></e>
+    <e lm="rrallëkund"><i>rrallëkund</i><par n="nuk__adv"/></e>
+    <e lm="rrapitoll"><i>rrapitoll</i><par n="nuk__adv"/></e>
+    <e lm="rrathë-rrathë"><i>rrathë-rrathë</i><par n="nuk__adv"/></e>
+    <e lm="rregullisht"><i>rregullisht</i><par n="nuk__adv"/></e>
+    <e lm="rrëkajë"><i>rrëkajë</i><par n="nuk__adv"/></e>
+    <e lm="rrëmbimthi"><i>rrëmbimthi</i><par n="nuk__adv"/></e>
+    <e lm="rrëmbyer"><i>rrëmbyer</i><par n="nuk__adv"/></e>
+    <e lm="rrëmbyerazi"><i>rrëmbyerazi</i><par n="nuk__adv"/></e>
+    <e lm="rrëmbyeshëm"><i>rrëmbyeshëm</i><par n="nuk__adv"/></e>
+    <e lm="rrëmujë"><i>rrëmujë</i><par n="nuk__adv"/></e>
+    <e lm="rrënimë"><i>rrënimë</i><par n="nuk__adv"/></e>
+    <e lm="rrënjësisht"><i>rrënjësisht</i><par n="nuk__adv"/></e>
+    <e lm="rreptas"><i>rreptas</i><par n="nuk__adv"/></e>
+    <e lm="rreptë"><i>rreptë</i><par n="nuk__adv"/></e>
+    <e lm="rreptësisht"><i>rreptësisht</i><par n="nuk__adv"/></e>
+    <e lm="rresht"><i>rresht</i><par n="nuk__adv"/></e>
+    <e lm="rreth"><i>rreth</i><par n="nuk__adv"/></e>
+    <e lm="rrethçe"><i>rrethçe</i><par n="nuk__adv"/></e>
+    <e lm="rrjedhimisht"><i>rrjedhimisht</i><par n="nuk__adv"/></e>
+    <e lm="rrjedhshëm"><i>rrjedhshëm</i><par n="nuk__adv"/></e>
+    <e lm="rrotullimthi"><i>rrotullimthi</i><par n="nuk__adv"/></e>
+    <e lm="rrufe"><i>rrufe</i><par n="nuk__adv"/></e>
+    <e lm="rrugës"><i>rrugës</i><par n="nuk__adv"/></e>
+    <e lm="rrumbullakthi"><i>rrumbullakthi</i><par n="nuk__adv"/></e>
+    <e lm="rumanisht"><i>rumanisht</i><par n="nuk__adv"/></e>
+    <e lm="rusisht"><i>rusisht</i><par n="nuk__adv"/></e>
+    <e lm="sa"><i>sa</i><par n="nuk__adv"/></e>
+    <e lm="sado"><i>sado</i><par n="nuk__adv"/></e>
+    <e lm="sadopak"><i>sadopak</i><par n="nuk__adv"/></e>
+    <e lm="sakaq"><i>sakaq</i><par n="nuk__adv"/></e>
+    <e lm="sakaqherë"><i>sakaqherë</i><par n="nuk__adv"/></e>
+    <e lm="saktas"><i>saktas</i><par n="nuk__adv"/></e>
+    <e lm="saktësisht"><i>saktësisht</i><par n="nuk__adv"/></e>
+    <e lm="sall"><i>sall</i><par n="nuk__adv"/></e>
+    <e lm="salla"><i>salla</i><par n="nuk__adv"/></e>
+    <e lm="sapo"><i>sapo</i><par n="nuk__adv"/></e>
+    <e lm="sefte"><i>sefte</i><par n="nuk__adv"/></e>
+    <e lm="sëfundi"><i>sëfundi</i><par n="nuk__adv"/></e>
+    <e lm="sëmurë"><i>sëmurë</i><par n="nuk__adv"/></e>
+    <e lm="sepse"><i>sepse</i><par n="nuk__adv"/></e>
+    <e lm="serbisht"><i>serbisht</i><par n="nuk__adv"/></e>
+    <e lm="serbokroatisht"><i>serbokroatisht</i><par n="nuk__adv"/></e>
+    <e lm="seriozisht"><i>seriozisht</i><par n="nuk__adv"/></e>
+    <e lm="sërithi"><i>sërithi</i><par n="nuk__adv"/></e>
+    <e lm="sesi"><i>sesi</i><par n="nuk__adv"/></e>
+    <e lm="shabllon"><i>shabllon</i><par n="nuk__adv"/></e>
+    <e lm="shah"><i>shah</i><par n="nuk__adv"/></e>
+    <e lm="shaz"><i>shaz</i><par n="nuk__adv"/></e>
+    <e lm="shëmtuar"><i>shëmtuar</i><par n="nuk__adv"/></e>
+    <e lm="shëndoshë"><i>shëndoshë</i><par n="nuk__adv"/></e>
+    <e lm="shesh"><i>shesh</i><par n="nuk__adv"/></e>
+    <e lm="sheshit"><i>sheshit</i><par n="nuk__adv"/></e>
+    <e lm="shkallë-shkallë"><i>shkallë-shkallë</i><par n="nuk__adv"/></e>
+    <e lm="shkathët"><i>shkathët</i><par n="nuk__adv"/></e>
+    <e lm="shkëlqyeshëm"><i>shkëlqyeshëm</i><par n="nuk__adv"/></e>
+    <e lm="shkëmbyerazi"><i>shkëmbyerazi</i><par n="nuk__adv"/></e>
+    <e lm="shkencërisht"><i>shkencërisht</i><par n="nuk__adv"/></e>
+    <e lm="shkëputur"><i>shkëputur</i><par n="nuk__adv"/></e>
+    <e lm="shkëputurazi"><i>shkëputurazi</i><par n="nuk__adv"/></e>
+    <e lm="shkodrançe"><i>shkodrançe</i><par n="nuk__adv"/></e>
+    <e lm="shkoqur"><i>shkoqur</i><par n="nuk__adv"/></e>
+    <e lm="shkretë"><i>shkretë</i><par n="nuk__adv"/></e>
+    <e lm="shkul"><i>shkul</i><par n="nuk__adv"/></e>
+    <e lm="shkurt"><i>shkurt</i><par n="nuk__adv"/></e>
+    <e lm="shkurtimisht"><i>shkurtimisht</i><par n="nuk__adv"/></e>
+    <e lm="shpejt"><i>shpejt</i><par n="nuk__adv"/></e>
+    <e lm="shpejti"><i>shpejti</i><par n="nuk__adv"/></e>
+    <e lm="shpesh"><i>shpesh</i><par n="nuk__adv"/></e>
+    <e lm="shpeshherë"><i>shpeshherë</i><par n="nuk__adv"/></e>
+    <e lm="shpirtërisht"><i>shpirtërisht</i><par n="nuk__adv"/></e>
+    <e lm="shprehimisht"><i>shprehimisht</i><par n="nuk__adv"/></e>
+    <e lm="shqip"><i>shqip</i><par n="nuk__adv"/></e>
+    <e lm="shqiptarçe"><i>shqiptarçe</i><par n="nuk__adv"/></e>
+    <e lm="shqiptarisht"><i>shqiptarisht</i><par n="nuk__adv"/></e>
+    <e lm="shqyt"><i>shqyt</i><par n="nuk__adv"/></e>
+    <e lm="shtëng"><i>shtëng</i><par n="nuk__adv"/></e>
+    <e lm="shtrembtas"><i>shtrembtas</i><par n="nuk__adv"/></e>
+    <e lm="shtrënguar"><i>shtrënguar</i><par n="nuk__adv"/></e>
+    <e lm="shtrenjtë"><i>shtrenjtë</i><par n="nuk__adv"/></e>
+    <e lm="shtrirazi"><i>shtrirazi</i><par n="nuk__adv"/></e>
+    <e lm="shtrirë"><i>shtrirë</i><par n="nuk__adv"/></e>
+    <e lm="shtruar"><i>shtruar</i><par n="nuk__adv"/></e>
+    <e lm="shtruarazi"><i>shtruarazi</i><par n="nuk__adv"/></e>
+    <e lm="shtuara"><i>shtuara</i><par n="nuk__adv"/></e>
+    <e lm="shumta"><i>shumta</i><par n="nuk__adv"/></e>
+    <e lm="sido"><i>sido</i><par n="nuk__adv"/></e>
+    <e lm="sidokudo"><i>sidokudo</i><par n="nuk__adv"/></e>
+    <e lm="sidoqoftë"><i>sidoqoftë</i><par n="nuk__adv"/></e>
+    <e lm="sidozot"><i>sidozot</i><par n="nuk__adv"/></e>
+    <e lm="sigurisht"><i>sigurisht</i><par n="nuk__adv"/></e>
+    <e lm="simetrikisht"><i>simetrikisht</i><par n="nuk__adv"/></e>
+    <e lm="sinqerisht"><i>sinqerisht</i><par n="nuk__adv"/></e>
+    <e lm="sipër"><i>sipër</i><par n="nuk__adv"/></e>
+    <e lm="sipërfaqas"><i>sipërfaqas</i><par n="nuk__adv"/></e>
+    <e lm="sipërmi"><i>sipërmi</i><par n="nuk__adv"/></e>
+    <e lm="sistematikisht"><i>sistematikisht</i><par n="nuk__adv"/></e>
+    <e lm="sitac"><i>sitac</i><par n="nuk__adv"/></e>
+    <e lm="sivjet"><i>sivjet</i><par n="nuk__adv"/></e>
+    <e lm="sjellë"><i>sjellë</i><par n="nuk__adv"/></e>
+    <e lm="skocisht"><i>skocisht</i><par n="nuk__adv"/></e>
+    <e lm="sllavisht"><i>sllavisht</i><par n="nuk__adv"/></e>
+    <e lm="sllovakisht"><i>sllovakisht</i><par n="nuk__adv"/></e>
+    <e lm="sllovenisht"><i>sllovenisht</i><par n="nuk__adv"/></e>
+    <e lm="solemnisht"><i>solemnisht</i><par n="nuk__adv"/></e>
+    <e lm="solo"><i>solo</i><par n="nuk__adv"/></e>
+    <e lm="sonte"><i>sonte</i><par n="nuk__adv"/></e>
+    <e lm="spanjisht"><i>spanjisht</i><par n="nuk__adv"/></e>
+    <e lm="spontanisht"><i>spontanisht</i><par n="nuk__adv"/></e>
+    <e lm="suedisht"><i>suedisht</i><par n="nuk__adv"/></e>
+    <e lm="tamam"><i>tamam</i><par n="nuk__adv"/></e>
+    <e lm="tani"><i>tani</i><par n="nuk__adv"/></e>
+    <e lm="tanimë"><i>tanimë</i><par n="nuk__adv"/></e>
+    <e lm="tanithi"><i>tanithi</i><par n="nuk__adv"/></e>
+    <e lm="tashma"><i>tashma</i><par n="nuk__adv"/></e>
+    <e lm="tashmë"><i>tashmë</i><par n="nuk__adv"/></e>
+    <e lm="tashti"><i>tashti</i><par n="nuk__adv"/></e>
+    <e lm="tatëpjetë"><i>tatëpjetë</i><par n="nuk__adv"/></e>
+    <e lm="taze"><i>taze</i><par n="nuk__adv"/></e>
+    <e lm="tej"><i>tej</i><par n="nuk__adv"/></e>
+    <e lm="tejefund"><i>tejefund</i><par n="nuk__adv"/></e>
+    <e lm="tejendanë"><i>tejendanë</i><par n="nuk__adv"/></e>
+    <e lm="tejet"><i>tejet</i><par n="nuk__adv"/></e>
+    <e lm="tejetej"><i>tejetej</i><par n="nuk__adv"/></e>
+    <e lm="tejmatanë"><i>tejmatanë</i><par n="nuk__adv"/></e>
+    <e lm="tejpërtej"><i>tejpërtej</i><par n="nuk__adv"/></e>
+    <e lm="tek"><i>tek</i><par n="nuk__adv"/></e>
+    <e lm="tekembramja"><i>tekembramja</i><par n="nuk__adv"/></e>
+    <e lm="tekëndej"><i>tekëndej</i><par n="nuk__adv"/></e>
+    <e lm="teknikisht"><i>teknikisht</i><par n="nuk__adv"/></e>
+    <e lm="teorikisht"><i>teorikisht</i><par n="nuk__adv"/></e>
+    <e lm="tepër"><i>tepër</i><par n="nuk__adv"/></e>
+    <e lm="tepërmi"><i>tepërmi</i><par n="nuk__adv"/></e>
+    <e lm="tepër-tepër"><i>tepër-tepër</i><par n="nuk__adv"/></e>
+    <e lm="teposhtë"><i>teposhtë</i><par n="nuk__adv"/></e>
+    <e lm="tërësej"><i>tërësej</i><par n="nuk__adv"/></e>
+    <e lm="tërësisht"><i>tërësisht</i><par n="nuk__adv"/></e>
+    <e lm="tërmonë"><i>tërmonë</i><par n="nuk__adv"/></e>
+    <e lm="ters"><i>ters</i><par n="nuk__adv"/></e>
+    <e lm="tërthor"><i>tërthor</i><par n="nuk__adv"/></e>
+    <e lm="tërthori"><i>tërthori</i><par n="nuk__adv"/></e>
+    <e lm="thatë"><i>thatë</i><par n="nuk__adv"/></e>
+    <e lm="thekshëm"><i>thekshëm</i><par n="nuk__adv"/></e>
+    <e lm="thela-thela"><i>thela-thela</i><par n="nuk__adv"/></e>
+    <e lm="thellë"><i>thellë</i><par n="nuk__adv"/></e>
+    <e lm="thellësisht"><i>thellësisht</i><par n="nuk__adv"/></e>
+    <e lm="thikë"><i>thikë</i><par n="nuk__adv"/></e>
+    <e lm="thjesht"><i>thjesht</i><par n="nuk__adv"/></e>
+    <e lm="thjeshtazi"><i>thjeshtazi</i><par n="nuk__adv"/></e>
+    <e lm="tingthi"><i>tingthi</i><par n="nuk__adv"/></e>
+    <e lm="tjetërkund"><i>tjetërkund</i><par n="nuk__adv"/></e>
+    <e lm="tjetrazi"><i>tjetrazi</i><par n="nuk__adv"/></e>
+    <e lm="tmerrësisht"><i>tmerrësisht</i><par n="nuk__adv"/></e>
+    <e lm="tmerrisht"><i>tmerrisht</i><par n="nuk__adv"/></e>
+    <e lm="togje-togje"><i>togje-togje</i><par n="nuk__adv"/></e>
+    <e lm="tok"><i>tok</i><par n="nuk__adv"/></e>
+    <e lm="top"><i>top</i><par n="nuk__adv"/></e>
+    <e lm="toskërisht"><i>toskërisht</i><par n="nuk__adv"/></e>
+    <e lm="tradhmend"><i>tradhmend</i><par n="nuk__adv"/></e>
+    <e lm="tradhtisht"><i>tradhtisht</i><par n="nuk__adv"/></e>
+    <e lm="transit"><i>transit</i><par n="nuk__adv"/></e>
+    <e lm="transversalisht"><i>transversalisht</i><par n="nuk__adv"/></e>
+    <e lm="trashë"><i>trashë</i><par n="nuk__adv"/></e>
+    <e lm="tregtarisht"><i>tregtarisht</i><par n="nuk__adv"/></e>
+    <e lm="tresh"><i>tresh</i><par n="nuk__adv"/></e>
+    <e lm="trimërisht"><i>trimërisht</i><par n="nuk__adv"/></e>
+    <e lm="troç"><i>troç</i><par n="nuk__adv"/></e>
+    <e lm="trupërisht"><i>trupërisht</i><par n="nuk__adv"/></e>
+    <e lm="tufa-tufa"><i>tufa-tufa</i><par n="nuk__adv"/></e>
+    <e lm="tufë"><i>tufë</i><par n="nuk__adv"/></e>
+    <e lm="turbull"><i>turbull</i><par n="nuk__adv"/></e>
+    <e lm="turqisht"><i>turqisht</i><par n="nuk__adv"/></e>
+    <e lm="tutje"><i>tutje</i><par n="nuk__adv"/></e>
+    <e lm="tytë"><i>tytë</i><par n="nuk__adv"/></e>
+    <e lm="udhëtarçe"><i>udhëtarçe</i><par n="nuk__adv"/></e>
+    <e lm="ujë"><i>ujë</i><par n="nuk__adv"/></e>
+    <e lm="ujem"><i>ujem</i><par n="nuk__adv"/></e>
+    <e lm="ujëra-ujëra"><i>ujëra-ujëra</i><par n="nuk__adv"/></e>
+    <e lm="ulas"><i>ulas</i><par n="nuk__adv"/></e>
+    <e lm="ulët"><i>ulët</i><par n="nuk__adv"/></e>
+    <e lm="ulur"><i>ulur</i><par n="nuk__adv"/></e>
+    <e lm="unanimisht"><i>unanimisht</i><par n="nuk__adv"/></e>
+    <e lm="ungji"><i>ungji</i><par n="nuk__adv"/></e>
+    <e lm="urgjentisht"><i>urgjentisht</i><par n="nuk__adv"/></e>
+    <e lm="urtë"><i>urtë</i><par n="nuk__adv"/></e>
+    <e lm="ushtarakisht"><i>ushtarakisht</i><par n="nuk__adv"/></e>
+    <e lm="valë"><i>valë</i><par n="nuk__adv"/></e>
+    <e lm="valë-valë"><i>valë-valë</i><par n="nuk__adv"/></e>
+    <e lm="vandak"><i>vandak</i><par n="nuk__adv"/></e>
+    <e lm="varë"><i>varë</i><par n="nuk__adv"/></e>
+    <e lm="varg"><i>varg</i><par n="nuk__adv"/></e>
+    <e lm="vargan"><i>vargan</i><par n="nuk__adv"/></e>
+    <e lm="vargje-vargje"><i>vargje-vargje</i><par n="nuk__adv"/></e>
+    <e lm="varricë"><i>varricë</i><par n="nuk__adv"/></e>
+    <e lm="vartas"><i>vartas</i><par n="nuk__adv"/></e>
+    <e lm="vazhdimisht"><i>vazhdimisht</i><par n="nuk__adv"/></e>
+    <e lm="veç"><i>veç</i><par n="nuk__adv"/></e>
+    <e lm="veçan"><i>veçan</i><par n="nuk__adv"/></e>
+    <e lm="veçanërisht"><i>veçanërisht</i><par n="nuk__adv"/></e>
+    <e lm="veçanisht"><i>veçanisht</i><par n="nuk__adv"/></e>
+    <e lm="veçantas"><i>veçantas</i><par n="nuk__adv"/></e>
+    <e lm="veças"><i>veças</i><par n="nuk__adv"/></e>
+    <e lm="veçmas"><i>veçmas</i><par n="nuk__adv"/></e>
+    <e lm="vendçe"><i>vendçe</i><par n="nuk__adv"/></e>
+    <e lm="vende-vende"><i>vende-vende</i><par n="nuk__adv"/></e>
+    <e lm="vendimisht"><i>vendimisht</i><par n="nuk__adv"/></e>
+    <e lm="vendosmërisht"><i>vendosmërisht</i><par n="nuk__adv"/></e>
+    <e lm="verbazi"><i>verbazi</i><par n="nuk__adv"/></e>
+    <e lm="verbërisht"><i>verbërisht</i><par n="nuk__adv"/></e>
+    <e lm="verevërte"><i>verevërte</i><par n="nuk__adv"/></e>
+    <e lm="vertikalisht"><i>vertikalisht</i><par n="nuk__adv"/></e>
+    <e lm="vështirë"><i>vështirë</i><par n="nuk__adv"/></e>
+    <e lm="vetë"><i>vetë</i><par n="nuk__adv"/></e>
+    <e lm="vetëm"><i>vetëm</i><par n="nuk__adv"/></e>
+    <e lm="vetiu"><i>vetiu</i><par n="nuk__adv"/></e>
+    <e lm="vetmas"><i>vetmas</i><par n="nuk__adv"/></e>
+    <e lm="vetvetiu"><i>vetvetiu</i><par n="nuk__adv"/></e>
+    <e lm="vijë"><i>vijë</i><par n="nuk__adv"/></e>
+    <e lm="vijimisht"><i>vijimisht</i><par n="nuk__adv"/></e>
+    <e lm="vjedhurazi"><i>vjedhurazi</i><par n="nuk__adv"/></e>
+    <e lm="vjet"><i>vjet</i><par n="nuk__adv"/></e>
+    <e lm="vllahçe"><i>vllahçe</i><par n="nuk__adv"/></e>
+    <e lm="vonashi"><i>vonashi</i><par n="nuk__adv"/></e>
+    <e lm="vonë"><i>vonë</i><par n="nuk__adv"/></e>
+    <e lm="vonë-vonë"><i>vonë-vonë</i><par n="nuk__adv"/></e>
+    <e lm="voni"><i>voni</i><par n="nuk__adv"/></e>
+    <e lm="vrap"><i>vrap</i><par n="nuk__adv"/></e>
+    <e lm="vrazhdë"><i>vrazhdë</i><par n="nuk__adv"/></e>
+    <e lm="vrima-vrima"><i>vrima-vrima</i><par n="nuk__adv"/></e>
+    <e lm="vula-vula"><i>vula-vula</i><par n="nuk__adv"/></e>
+    <e lm="vullnetarisht"><i>vullnetarisht</i><par n="nuk__adv"/></e>
+    <e lm="xhaba"><i>xhaba</i><par n="nuk__adv"/></e>
+    <e lm="xhade"><i>xhade</i><par n="nuk__adv"/></e>
+    <e lm="zakonisht"><i>zakonisht</i><par n="nuk__adv"/></e>
+    <e lm="zbehtas"><i>zbehtas</i><par n="nuk__adv"/></e>
+    <e lm="zbehtë"><i>zbehtë</i><par n="nuk__adv"/></e>
+    <e lm="zëdredhur"><i>zëdredhur</i><par n="nuk__adv"/></e>
+    <e lm="zgjuar"><i>zgjuar</i><par n="nuk__adv"/></e>
+    <e lm="zgrip"><i>zgrip</i><par n="nuk__adv"/></e>
+    <e lm="zhdrejtazi"><i>zhdrejtazi</i><par n="nuk__adv"/></e>
+    <e lm="zhytas"><i>zhytas</i><par n="nuk__adv"/></e>
+    <e lm="zhytthi"><i>zhytthi</i><par n="nuk__adv"/></e>
+    <e lm="zi"><i>zi</i><par n="nuk__adv"/></e>
+    <e lm="ziliqarisht"><i>ziliqarisht</i><par n="nuk__adv"/></e>
+    <e lm="zinxhir"><i>zinxhir</i><par n="nuk__adv"/></e>
+    <e lm="zjarr"><i>zjarr</i><par n="nuk__adv"/></e>
+    <e lm="zor"><i>zor</i><par n="nuk__adv"/></e>
+    <e lm="zotërisht"><i>zotërisht</i><par n="nuk__adv"/></e>
+    <e lm="zvarrazi"><i>zvarrazi</i><par n="nuk__adv"/></e>
+    <e lm="zvarrë"><i>zvarrë</i><par n="nuk__adv"/></e>
+    <e lm="zyrtarisht"><i>zyrtarisht</i><par n="nuk__adv"/></e>
+    <e lm="zyrtarisht"><i>zyrtarisht</i><par n="nuk__adv"/></e>
+
+    <!-- Verbs -->
+
+    <e lm="jam"><i/><par n="/jam__vbjam"/></e>
+    <e lm="kam"><i/><par n="/kam__vbkam"/></e>
+
+  </section>
+  <section id="final" type="inconditional">
+    <e>
+      <par n="numeros"/> <!-- Numbers -->
+    </e>
+    <e>
+      <par n="separa"/> <!-- End of sentence -->
+    </e>
+  </section>
+  <section id="contractions" type="postblank">
+    <e lm="ç'" r="LR"><p><l>ç'</l><r>çfarë<s n="det"/><s n="itg"/><s n="sp"/></r></p></e>
+    <e lm="t'" r="LR"><p><l>t'</l><r>i<s n="lig"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+    <e lm="t'" r="LR"><p><l>t'</l><r>i<s n="lig"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+    <e lm="t'" r="LR"><p><l>t'</l><r>i<s n="lig"/><s n="mf"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+    <e lm="t'" r="LR"><p><l>t'</l><r>i<s n="lig"/><s n="mf"/><s n="sp"/><s n="dat"/><s n="ind"/></r></p></e>
+    <e lm="t'" r="LR"><p><l>t'</l><r>i<s n="lig"/><s n="mf"/><s n="sp"/><s n="acc"/><s n="ind"/></r></p></e>
+  </section>
+  
+</dictionary>

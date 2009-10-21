@@ -1,0 +1,36 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="f"/>
+    <sdef n="m"/>
+    <sdef n="adj"/>
+    <sdef n="sint"/>
+    <sdef n="det"/>
+    <sdef n="def"/>
+    <sdef n="ind"/>
+    <sdef n="sp"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="GD"/>
+    <sdef n="vbser"/>
+    <sdef n="vbjam"/>
+    <sdef n="cnjcoo"/>
+    <sdef n="predet"/>
+    <sdef n="sent"/>
+  </sdefs>
+  <pardefs/>
+  <section id="main" type="standard">
+    <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
+    <e><p><l>and<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
+    <e><p><l>be<s n="vbser"/></l><r>jam<s n="vbjam"/></r></p></e>
+    <e><p><l>girl<s n="n"/></l><r>vajzë<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>man<s n="n"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/><s n="GD"/><s n="sp"/></r></p></e>
+    <e r="LR" c="check"><p><l>each<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
+    <e r="check"><p><l>every<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
+    <e><p><l>all<s n="predet"/><s n="sp"/></l><r>të<b/>gjitha<s n="predet"/><s n="pl"/></r></p></e>
+    <e><i>.<s n="sent"/></i></e>
+  </section>
+</dictionary>
