@@ -48,6 +48,13 @@
     <sdef n="p2"     c="Second person"/>
     <sdef n="p3"     c="Third person"/>
 
+    <sdef n="fti"    c="Future Indicative"/>
+    <sdef n="adi"    c="Admirative Imperfect"/>
+    <sdef n="adp"    c="Admirative Present"/>
+    <sdef n="opt"    c="Optative"/>
+    <sdef n="part"   c="Participle"/>
+    <sdef n="pii"    c="Imperfect"/>
+    <sdef n="psi"    c="Simple past"/>
 
     <sdef n="lig"    c="Ligature"/>
 
