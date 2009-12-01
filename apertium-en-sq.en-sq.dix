@@ -27,57 +27,253 @@
     <e><p><l>be<s n="vbser"/></l><r>jam<s n="vbjam"/></r></p></e>
     <e><p><l>girl<s n="n"/></l><r>vajzë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>woman<s n="n"/></l><r>grua<s n="n"/><s n="f"/></r></p></e>
+    <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>missing</g><s n="vblex"/></l><r>mungoj<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>be<g><b/>absent</g><s n="vblex"/></l><r>mungoj<s n="vblex"/></r></p></e>
     <e><p><l>accept<s n="vblex"/></l><r>pranoj<s n="vblex"/></r></p></e>
+    <e><p><l>accompany<s n="vblex"/></l><r>shoqëroj<s n="vblex"/></r></p></e>
+    <e><p><l>acknowledge<s n="vblex"/></l><r>pranoj<s n="vblex"/></r></p></e>
+    <e><p><l>act<s n="vblex"/></l><r>veproj<s n="vblex"/></r></p></e>
+    <e><p><l>add<s n="vblex"/></l><r>shtoj<s n="vblex"/></r></p></e>
+    <e><p><l>adopt<s n="vblex"/></l><r>miratoj<s n="vblex"/></r></p></e>
+    <e><p><l>advance<s n="vblex"/></l><r>avancoj<s n="vblex"/></r></p></e>
+    <e><p><l>advance<s n="vblex"/></l><r>përparoj<s n="vblex"/></r></p></e>
+    <e><p><l>affect<s n="vblex"/></l><r>ndikoj<s n="vblex"/></r></p></e>
+    <e><p><l>aim<s n="vblex"/></l><r>synoj<s n="vblex"/></r></p></e>
+    <e><p><l>be<g><b/>alike</g><s n="vblex"/></l><r>njësoj<s n="vblex"/></r></p></e>
     <e><p><l>allow<s n="vblex"/></l><r>lejoj<s n="vblex"/></r></p></e>
+    <e><p><l>allow<s n="vblex"/></l><r>mundësoj<s n="vblex"/></r></p></e>
+    <e><p><l>analyse<s n="vblex"/></l><r>analizoj<s n="vblex"/></r></p></e>
+    <e><p><l>announce<s n="vblex"/></l><r>njoftoj<s n="vblex"/></r></p></e>
+    <e><p><l>anticipate<s n="vblex"/></l><r>parashikoj<s n="vblex"/></r></p></e>
+    <e><p><l>apply<s n="vblex"/></l><r>aplikoj<s n="vblex"/></r></p></e>
     <e><p><l>appoint<s n="vblex"/></l><r>emëroj<s n="vblex"/></r></p></e>
+    <e><p><l>ask<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
+    <e><p><l>assess<s n="vblex"/></l><r>vlerësoj<s n="vblex"/></r></p></e>
+    <e><p><l>assure<s n="vblex"/></l><r>siguroj<s n="vblex"/></r></p></e>
+    <e><p><l>attack<s n="vblex"/></l><r>sulmoj<s n="vblex"/></r></p></e>
+    <e><p><l>ban<s n="vblex"/></l><r>ndaloj<s n="vblex"/></r></p></e>
     <e><p><l>base<s n="vblex"/></l><r>bazoj<s n="vblex"/></r></p></e>
     <e><p><l>begin<s n="vblex"/></l><r>filloj<s n="vblex"/></r></p></e>
+    <e><p><l>believe<s n="vblex"/></l><r>besoj<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>takoj<s n="vblex"/></r></p></e>
+    <e><p><l>block<s n="vblex"/></l><r>bllokoj<s n="vblex"/></r></p></e>
+    <e><p><l>boil<s n="vblex"/></l><r>vloj<s n="vblex"/></r></p></e>
+    <e><p><l>transmit<s n="vblex"/></l><r>transmetoj<s n="vblex"/></r></p></e>
+    <e><p><l>broadcast<s n="vblex"/></l><r>transmetoj<s n="vblex"/></r></p></e>
     <e><p><l>build<s n="vblex"/></l><r>ndërtoj<s n="vblex"/></r></p></e>
     <e><p><l>cause<s n="vblex"/></l><r>shkaktoj<s n="vblex"/></r></p></e>
+    <e><p><l>certify<s n="vblex"/></l><r>vërtetoj<s n="vblex"/></r></p></e>
+    <e><p><l>change<s n="vblex"/></l><r>ndërroj<s n="vblex"/></r></p></e>
     <e><p><l>change<s n="vblex"/></l><r>ndryshoj<s n="vblex"/></r></p></e>
+    <e><p><l>characterise<s n="vblex"/></l><r>karakterizoj<s n="vblex"/></r></p></e>
+    <e><p><l>charge<s n="vblex"/></l><r>akuzoj<s n="vblex"/></r></p></e>
+    <e><p><l>charge<s n="vblex"/></l><r>ngarkoj<s n="vblex"/></r></p></e>
+    <e><p><l>cite<s n="vblex"/></l><r>citoj<s n="vblex"/></r></p></e>
+    <e><p><l>claim<s n="vblex"/></l><r>pohoj<s n="vblex"/></r></p></e>
+    <e><p><l>clean<s n="vblex"/></l><r>pastroj<s n="vblex"/></r></p></e>
+    <e><p><l>quote<s n="vblex"/></l><r>citoj<s n="vblex"/></r></p></e>
+    <e><p><l>coincide<s n="vblex"/></l><r>përkoj<s n="vblex"/></r></p></e>
+    <e><p><l>collect<s n="vblex"/></l><r>grumbulloj<s n="vblex"/></r></p></e>
+    <e><p><l>combine<s n="vblex"/></l><r>kombinoj<s n="vblex"/></r></p></e>
+    <e><p><l>command<s n="vblex"/></l><r>komandoj<s n="vblex"/></r></p></e>
+    <e><p><l>command<s n="vblex"/></l><r>urdhëroj<s n="vblex"/></r></p></e>
+    <e><p><l>compare<s n="vblex"/></l><r>krahasoj<s n="vblex"/></r></p></e>
+    <e><p><l>complete<s n="vblex"/></l><r>përfundoj<s n="vblex"/></r></p></e>
+    <e><p><l>complicate<s n="vblex"/></l><r>komplikoj<s n="vblex"/></r></p></e>
+    <e><p><l>compose<s n="vblex"/></l><r>kompozoj<s n="vblex"/></r></p></e>
+    <e><p><l>concern<s n="vblex"/></l><r>shqetësoj<s n="vblex"/></r></p></e>
+    <e><p><l>confirm<s n="vblex"/></l><r>pohoj<s n="vblex"/></r></p></e>
+    <e><p><l>consider<s n="vblex"/></l><r>konsideroj<s n="vblex"/></r></p></e>
     <e><p><l>continue<s n="vblex"/></l><r>vazhdoj<s n="vblex"/></r></p></e>
+    <e><p><l>control<s n="vblex"/></l><r>kontrolloj<s n="vblex"/></r></p></e>
+    <e><p><l>convict<s n="vblex"/></l><r>dënoj<s n="vblex"/></r></p></e>
+    <e><p><l>cooperate<s n="vblex"/></l><r>bashkëpunoj<s n="vblex"/></r></p></e>
     <e><p><l>count<s n="vblex"/></l><r>numëroj<s n="vblex"/></r></p></e>
     <e><p><l>create<s n="vblex"/></l><r>krijoj<s n="vblex"/></r></p></e>
+    <e><p><l>criticise<s n="vblex"/></l><r>kritikoj<s n="vblex"/></r></p></e>
+    <e><p><l>cultivate<s n="vblex"/></l><r>kultivoj<s n="vblex"/></r></p></e>
+    <e><p><l>damage<s n="vblex"/></l><r>dëmtoj<s n="vblex"/></r></p></e>
+    <e><p><l>date<s n="vblex"/></l><r>datoj<s n="vblex"/></r></p></e>
+    <e><p><l>decorate<s n="vblex"/></l><r>dekoroj<s n="vblex"/></r></p></e>
+    <e><p><l>decorate<s n="vblex"/></l><r>zbukuroj<s n="vblex"/></r></p></e>
     <e><p><l>define<s n="vblex"/></l><r>përkufizoj<s n="vblex"/></r></p></e>
+    <e><p><l>delay<s n="vblex"/></l><r>vonoj<s n="vblex"/></r></p></e>
+    <e><p><l>deport<s n="vblex"/></l><r>dëboj<s n="vblex"/></r></p></e>
+    <e><p><l>describe<s n="vblex"/></l><r>cilësoj<s n="vblex"/></r></p></e>
+    <e><p><l>deserve<s n="vblex"/></l><r>meritoj<s n="vblex"/></r></p></e>
+    <e><p><l>design<s n="vblex"/></l><r>projektoj<s n="vblex"/></r></p></e>
+    <e><p><l>desire<s n="vblex"/></l><r>dëshiroj<s n="vblex"/></r></p></e>
     <e><p><l>desire<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
-    <e><p><l>detect<s n="vblex"/></l><r>zbuloj<s n="vblex"/></r></p></e>
-    <e><p><l>develope<s n="vblex"/></l><r>zhvilloj<s n="vblex"/></r></p></e>
+    <e><p><l>destroy<s n="vblex"/></l><r>shkatërroj<s n="vblex"/></r></p></e>
+    <e><p><l>develop<s n="vblex"/></l><r>zhvilloj<s n="vblex"/></r></p></e>
+    <e><p><l>direct<s n="vblex"/></l><r>drejtoj<s n="vblex"/></r></p></e>
     <e><p><l>discover<s n="vblex"/></l><r>zbuloj<s n="vblex"/></r></p></e>
+    <e><p><l>discuss<s n="vblex"/></l><r>diskutoj<s n="vblex"/></r></p></e>
+    <e><p><l>document<s n="vblex"/></l><r>dokumentoj<s n="vblex"/></r></p></e>
+    <e><p><l>dominate<s n="vblex"/></l><r>dominoj<s n="vblex"/></r></p></e>
+    <e><p><l>donate<s n="vblex"/></l><r>dhuroj<s n="vblex"/></r></p></e>
+    <e><p><l>do<s n="vblex"/></l><r>veproj<s n="vblex"/></r></p></e>
+    <e><p><l>draft<s n="vblex"/></l><r>hartoj<s n="vblex"/></r></p></e>
+    <e><p><l>edit<s n="vblex"/></l><r>redaktoj<s n="vblex"/></r></p></e>
+    <e><p><l>educate<s n="vblex"/></l><r>shkolloj<s n="vblex"/></r></p></e>
+    <e><p><l>emigrate<s n="vblex"/></l><r>emigroj<s n="vblex"/></r></p></e>
+    <e><p><l>enable<s n="vblex"/></l><r>mundësoj<s n="vblex"/></r></p></e>
+    <e><p><l>end<s n="vblex"/></l><r>mbaroj<s n="vblex"/></r></p></e>
+    <e><p><l>endorse<s n="vblex"/></l><r>vërtetoj<s n="vblex"/></r></p></e>
     <e><p><l>end<s n="vblex"/></l><r>përfundoj<s n="vblex"/></r></p></e>
+    <e><p><l>engage<s n="vblex"/></l><r>angazhoj<s n="vblex"/></r></p></e>
+    <e><p><l>enrich<s n="vblex"/></l><r>pasuroj<s n="vblex"/></r></p></e>
     <e><p><l>establish<s n="vblex"/></l><r>themeloj<s n="vblex"/></r></p></e>
+    <e><p><l>exclude<s n="vblex"/></l><r>përjashtoj<s n="vblex"/></r></p></e>
+    <e><p><l>exercise<s n="vblex"/></l><r>ushtroj<s n="vblex"/></r></p></e>
     <e><p><l>exist<s n="vblex"/></l><r>ekzistoj<s n="vblex"/></r></p></e>
+    <e><p><l>expand<s n="vblex"/></l><r>zgjeroj<s n="vblex"/></r></p></e>
+    <e><p><l>expel<s n="vblex"/></l><r>dëboj<s n="vblex"/></r></p></e>
+    <e><p><l>explain<s n="vblex"/></l><r>shpjegoj<s n="vblex"/></r></p></e>
+    <e><p><l>expose<s n="vblex"/></l><r>ekspozoj<s n="vblex"/></r></p></e>
+    <e><p><l>face<s n="vblex"/></l><r>përballoj<s n="vblex"/></r></p></e>
+    <e><p><l>fail<s n="vblex"/></l><r>dështoj<s n="vblex"/></r></p></e>
+    <e><p><l>fight<s n="vblex"/></l><r>luftoj<s n="vblex"/></r></p></e>
+    <e><p><l>finance<s n="vblex"/></l><r>financoj<s n="vblex"/></r></p></e>
+    <e><p><l>find<s n="vblex"/></l><r>konstatoj<s n="vblex"/></r></p></e>
+    <e><p><l>fix<s n="vblex"/></l><r>fiksoj<s n="vblex"/></r></p></e>
+    <e><p><l>focus<s n="vblex"/></l><r>përqendroj<s n="vblex"/></r></p></e>
+    <e><p><l>force<s n="vblex"/></l><r>detyroj<s n="vblex"/></r></p></e>
+    <e><p><l>forget<s n="vblex"/></l><r>harroj<s n="vblex"/></r></p></e>
     <e><p><l>form<s n="vblex"/></l><r>formoj<s n="vblex"/></r></p></e>
+    <e><p><l>fortify<s n="vblex"/></l><r>fortifikoj<s n="vblex"/></r></p></e>
+    <e><p><l>found<s n="vblex"/></l><r>themeloj<s n="vblex"/></r></p></e>
+    <e><p><l>function<s n="vblex"/></l><r>funksionoj<s n="vblex"/></r></p></e>
+    <e><p><l>graduate<s n="vblex"/></l><r>diplomoj<s n="vblex"/></r></p></e>
+    <e><p><l>guarantee<s n="vblex"/></l><r>garantoj<s n="vblex"/></r></p></e>
+    <e><p><l>hand<s n="vblex"/></l><r>dorëzoj<s n="vblex"/></r></p></e>
+    <e><p><l>head<s n="vblex"/></l><r>drejtoj<s n="vblex"/></r></p></e>
+    <e><p><l>head<s n="vblex"/></l><r>kryesoj<s n="vblex"/></r></p></e>
+    <e><p><l>hear<s n="vblex"/></l><r>dëgjoj<s n="vblex"/></r></p></e>
     <e><p><l>help<s n="vblex"/></l><r>ndihmoj<s n="vblex"/></r></p></e>
+    <e><p><l>hold<s n="vblex"/></l><r>zhvilloj<s n="vblex"/></r></p></e>
+    <e><p><l>hope<s n="vblex"/></l><r>shpresoj<s n="vblex"/></r></p></e>
+    <e><p><l>identify<s n="vblex"/></l><r>identifikoj<s n="vblex"/></r></p></e>
+    <e><p><l>implement<s n="vblex"/></l><r>zbatoj<s n="vblex"/></r></p></e>
+    <e><p><l>impose<s n="vblex"/></l><r>shqiptoj<s n="vblex"/></r></p></e>
+    <e><p><l>improve<s n="vblex"/></l><r>përmirësoj<s n="vblex"/></r></p></e>
+    <e><p><l>indicate<s n="vblex"/></l><r>tregoj<s n="vblex"/></r></p></e>
+    <e><p><l>influence<s n="vblex"/></l><r>influencoj<s n="vblex"/></r></p></e>
+    <e><p><l>influence<s n="vblex"/></l><r>ndikoj<s n="vblex"/></r></p></e>
     <e><p><l>inform<s n="vblex"/></l><r>informoj<s n="vblex"/></r></p></e>
     <e><p><l>inhabit<s n="vblex"/></l><r>banoj<s n="vblex"/></r></p></e>
+    <e><p><l>inherit<s n="vblex"/></l><r>trashëgoj<s n="vblex"/></r></p></e>
     <e><p><l>inspire<s n="vblex"/></l><r>frymëzoj<s n="vblex"/></r></p></e>
-    <e><p><l>label<s n="vblex"/></l><r>emërtoj<s n="vblex"/></r></p></e>
+    <e><p><l>install<s n="vblex"/></l><r>instaloj<s n="vblex"/></r></p></e>
+    <e><p><l>intend<s n="vblex"/></l><r>synoj<s n="vblex"/></r></p></e>
+    <e><p><l>interest<s n="vblex"/></l><r>interesoj<s n="vblex"/></r></p></e>
+    <e><p><l>interpret<s n="vblex"/></l><r>interpretoj<s n="vblex"/></r></p></e>
+    <e><p><l>invade<s n="vblex"/></l><r>pushtoj<s n="vblex"/></r></p></e>
+    <e><p><l>invite<s n="vblex"/></l><r>ftoj<s n="vblex"/></r></p></e>
+    <e><p><l>isolate<s n="vblex"/></l><r>izoloj<s n="vblex"/></r></p></e>
+    <e><p><l>join<s n="vblex"/></l><r>bashkoj<s n="vblex"/></r></p></e>
+    <e><p><l>land<s n="vblex"/></l><r>zbarkoj<s n="vblex"/></r></p></e>
     <e><p><l>learn<s n="vblex"/></l><r>mësoj<s n="vblex"/></r></p></e>
+    <e><p><l>leave<s n="vblex"/></l><r>largoj<s n="vblex"/></r></p></e>
     <e><p><l>limit<s n="vblex"/></l><r>kufizoj<s n="vblex"/></r></p></e>
+    <e><p><l>live<s n="vblex"/></l><r>banoj<s n="vblex"/></r></p></e>
+    <e><p><l>loan<s n="vblex"/></l><r>huazoj<s n="vblex"/></r></p></e>
+    <e><p><l>look<s n="vblex"/></l><r>shikoj<s n="vblex"/></r></p></e>
     <e><p><l>mark<s n="vblex"/></l><r>shënoj<s n="vblex"/></r></p></e>
+    <e><p><l>marry<s n="vblex"/></l><r>martoj<s n="vblex"/></r></p></e>
+    <e><p><l>mean<s n="vblex"/></l><r>nënkuptoj<s n="vblex"/></r></p></e>
+    <e><p><l>meet<s n="vblex"/></l><r>plotësoj<s n="vblex"/></r></p></e>
+    <e><p><l>meet<s n="vblex"/></l><r>takoj<s n="vblex"/></r></p></e>
+    <e><p><l>miss<s n="vblex"/></l><r>mungoj<s n="vblex"/></r></p></e>
+    <e><p><l>modify<s n="vblex"/></l><r>modifikoj<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>number<s n="vblex"/></l><r>numëroj<s n="vblex"/></r></p></e>
+    <e><p><l>obtain<s n="vblex"/></l><r>përftoj<s n="vblex"/></r></p></e>
+    <e><p><l>occupy<s n="vblex"/></l><r>pushtoj<s n="vblex"/></r></p></e>
     <e><p><l>offer<s n="vblex"/></l><r>ofroj<s n="vblex"/></r></p></e>
+    <e><p><l>order<s n="vblex"/></l><r>urdhëroj<s n="vblex"/></r></p></e>
     <e><p><l>organise<s n="vblex"/></l><r>organizoj<s n="vblex"/></r></p></e>
+    <e><p><l>orient<s n="vblex"/></l><r>orientoj<s n="vblex"/></r></p></e>
+    <e><p><l>own<s n="vblex"/></l><r>zotëroj<s n="vblex"/></r></p></e>
+    <e><p><l>paint<s n="vblex"/></l><r>pikturoj<s n="vblex"/></r></p></e>
+    <e><p><l>penetrate<s n="vblex"/></l><r>depërtoj<s n="vblex"/></r></p></e>
+    <e><p><l>place<s n="vblex"/></l><r>zhvilloj<s n="vblex"/></r></p></e>
+    <e><p><l>plan<s n="vblex"/></l><r>planifikoj<s n="vblex"/></r></p></e>
+    <e><p><l>popularise<s n="vblex"/></l><r>popullarizoj<s n="vblex"/></r></p></e>
+    <e><p><l>populate<s n="vblex"/></l><r>populloj<s n="vblex"/></r></p></e>
+    <e><p><l>possess<s n="vblex"/></l><r>posedoj<s n="vblex"/></r></p></e>
+    <e><p><l>prefer<s n="vblex"/></l><r>preferoj<s n="vblex"/></r></p></e>
+    <e><p><l>present<s n="vblex"/></l><r>prezantoj<s n="vblex"/></r></p></e>
+    <e><p><l>process<s n="vblex"/></l><r>përpunoj<s n="vblex"/></r></p></e>
     <e><p><l>produce<s n="vblex"/></l><r>prodhoj<s n="vblex"/></r></p></e>
+    <e><p><l>promise<s n="vblex"/></l><r>premtoj<s n="vblex"/></r></p></e>
+    <e><p><l>propose<s n="vblex"/></l><r>propozoj<s n="vblex"/></r></p></e>
+    <e><p><l>provide<s n="vblex"/></l><r>siguroj<s n="vblex"/></r></p></e>
     <e><p><l>publish<s n="vblex"/></l><r>botoj<s n="vblex"/></r></p></e>
+    <e><p><l>publish<s n="vblex"/></l><r>publikoj<s n="vblex"/></r></p></e>
+    <e><p><l>qualify<s n="vblex"/></l><r>kualifikoj<s n="vblex"/></r></p></e>
+    <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
     <e><p><l>realise<s n="vblex"/></l><r>realizoj<s n="vblex"/></r></p></e>
+    <e><p><l>reduce<s n="vblex"/></l><r>zvogëloj<s n="vblex"/></r></p></e>
+    <e><p><l>refer<s n="vblex"/></l><r>referoj<s n="vblex"/></r></p></e>
+    <e><p><l>reflect<s n="vblex"/></l><r>pasqyroj<s n="vblex"/></r></p></e>
+    <e><p><l>refuse<s n="vblex"/></l><r>refuzoj<s n="vblex"/></r></p></e>
     <e><p><l>register<s n="vblex"/></l><r>regjistroj<s n="vblex"/></r></p></e>
+    <e><p><l>regulate<s n="vblex"/></l><r>rregulloj<s n="vblex"/></r></p></e>
+    <e><p><l>reject<s n="vblex"/></l><r>kundërshtoj<s n="vblex"/></r></p></e>
+    <e><p><l>release<s n="vblex"/></l><r>liroj<s n="vblex"/></r></p></e>
+    <e><p><l>remove<s n="vblex"/></l><r>largoj<s n="vblex"/></r></p></e>
+    <e><p><l>replace<s n="vblex"/></l><r>zëvendësoj<s n="vblex"/></r></p></e>
+    <e><p><l>represent<s n="vblex"/></l><r>përfaqësoj<s n="vblex"/></r></p></e>
+    <e><p><l>request<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
     <e><p><l>require<s n="vblex"/></l><r>detyroj<s n="vblex"/></r></p></e>
+    <e><p><l>respect<s n="vblex"/></l><r>respektoj<s n="vblex"/></r></p></e>
+    <e><p><l>reveal<s n="vblex"/></l><r>zbuloj<s n="vblex"/></r></p></e>
+    <e><p><l>risk<s n="vblex"/></l><r>rrezikoj<s n="vblex"/></r></p></e>
+    <e><p><l>rule<s n="vblex"/></l><r>sundoj<s n="vblex"/></r></p></e>
     <e><p><l>run<s n="vblex"/></l><r>drejtoj<s n="vblex"/></r></p></e>
+    <e><p><l>save<s n="vblex"/></l><r>shpëtoj<s n="vblex"/></r></p></e>
     <e><p><l>search<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
     <e><p><l>seek<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
+    <e><p><l>see<s n="vblex"/></l><r>shikoj<s n="vblex"/></r></p></e>
     <e><p><l>send<s n="vblex"/></l><r>dërgoj<s n="vblex"/></r></p></e>
+    <e><p><l>separate<s n="vblex"/></l><r>veçoj<s n="vblex"/></r></p></e>
+    <e><p><l>shoot<s n="vblex"/></l><r>qëlloj<s n="vblex"/></r></p></e>
+    <e><p><l>shoot<s n="vblex"/></l><r>xhiroj<s n="vblex"/></r></p></e>
     <e><p><l>show<s n="vblex"/></l><r>tregoj<s n="vblex"/></r></p></e>
+    <e><p><l>sing<s n="vblex"/></l><r>këndoj<s n="vblex"/></r></p></e>
+    <e><p><l>specialise<s n="vblex"/></l><r>specializoj<s n="vblex"/></r></p></e>
     <e><p><l>stand<s n="vblex"/></l><r>qëndroj<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>filloj<s n="vblex"/></r></p></e>
+    <e><p><l>state<s n="vblex"/></l><r>deklaroj<s n="vblex"/></r></p></e>
     <e><p><l>stay<s n="vblex"/></l><r>qëndroj<s n="vblex"/></r></p></e>
+    <e><p><l>stop<s n="vblex"/></l><r>ndaloj<s n="vblex"/></r></p></e>
     <e><p><l>stress<s n="vblex"/></l><r>theksoj<s n="vblex"/></r></p></e>
+    <e><p><l>study<s n="vblex"/></l><r>studioj<s n="vblex"/></r></p></e>
+    <e><p><l>subject<s n="vblex"/></l><r>nënshtroj<s n="vblex"/></r></p></e>
+    <e><p><l>submit<s n="vblex"/></l><r>dorëzoj<s n="vblex"/></r></p></e>
+    <e><p><l>suffer<s n="vblex"/></l><r>pësoj<s n="vblex"/></r></p></e>
+    <e><p><l>suggest<s n="vblex"/></l><r>sugjeroj<s n="vblex"/></r></p></e>
+    <e><p><l>target<s n="vblex"/></l><r>synoj<s n="vblex"/></r></p></e>
     <e><p><l>teach<s n="vblex"/></l><r>mësoj<s n="vblex"/></r></p></e>
+    <e><p><l>testify<s n="vblex"/></l><r>dëshmoj<s n="vblex"/></r></p></e>
+    <e><p><l>test<s n="vblex"/></l><r>provoj<s n="vblex"/></r></p></e>
+    <e><p><l>think<s n="vblex"/></l><r>mendoj<s n="vblex"/></r></p></e>
+    <e><p><l>title<s n="vblex"/></l><r>titulloj<s n="vblex"/></r></p></e>
+    <e><p><l>transform<s n="vblex"/></l><r>shndërroj<s n="vblex"/></r></p></e>
+    <e><p><l>treat<s n="vblex"/></l><r>trajtoj<s n="vblex"/></r></p></e>
+    <e><p><l>try<s n="vblex"/></l><r>mundoj<s n="vblex"/></r></p></e>
     <e><p><l>understand<s n="vblex"/></l><r>kuptoj<s n="vblex"/></r></p></e>
     <e><p><l>unite<s n="vblex"/></l><r>bashkoj<s n="vblex"/></r></p></e>
+    <e><p><l>use<s n="vblex"/></l><r>shfrytëzoj<s n="vblex"/></r></p></e>
+    <e><p><l>view<s n="vblex"/></l><r>shikoj<s n="vblex"/></r></p></e>
+    <e><p><l>visit<s n="vblex"/></l><r>vizitoj<s n="vblex"/></r></p></e>
+    <e><p><l>want<s n="vblex"/></l><r>dëshiroj<s n="vblex"/></r></p></e>
+    <e><p><l>weaken<s n="vblex"/></l><r>dobësoj<s n="vblex"/></r></p></e>
+    <e><p><l>witness<s n="vblex"/></l><r>dëshmoj<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/></r></p></e>
     <e r="LR"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/><s n="GD"/><s n="sp"/></r></p></e>
     <e r="LR" c="check"><p><l>each<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
