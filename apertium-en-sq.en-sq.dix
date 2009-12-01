@@ -28,6 +28,10 @@
     <e><p><l>girl<s n="n"/></l><r>vajzë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>grua<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coordination<s n="n"/></l><r>koordinim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coordinator<s n="n"/></l><r>koordinues<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>dreamer<s n="n"/></l><r>ëndërrues<s n="n"/><s n="m"/></r></p></e>
+
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
