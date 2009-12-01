@@ -5004,6 +5004,7 @@
     <e lm="jam"><i/><par n="/jam__vbjam"/></e>
     <e lm="kam"><i/><par n="/kam__vbkam"/></e>
     <e lm="fërkoj"><i>fërk</i><par n="fërk/oj__vblex"/></e>
+    <e lm="lexoj"><i>lex</i><par n="fërk/oj__vblex"/></e>
     <e lm="masturbohem"><i>masturb</i><par n="masturb/ohem__vblex"/></e>
 
   </section>

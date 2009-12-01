@@ -15,6 +15,7 @@
     <sdef n="GD"/>
     <sdef n="vbser"/>
     <sdef n="vbjam"/>
+    <sdef n="vblex"/>
     <sdef n="cnjcoo"/>
     <sdef n="predet"/>
     <sdef n="sent"/>
@@ -26,6 +27,8 @@
     <e><p><l>be<s n="vbser"/></l><r>jam<s n="vbjam"/></r></p></e>
     <e><p><l>girl<s n="n"/></l><r>vajzë<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
+    <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/></r></p></e>
     <e r="LR"><p><l>big<s n="adj"/><s n="sint"/></l><r>madh<s n="adj"/><s n="GD"/><s n="sp"/></r></p></e>
     <e r="LR" c="check"><p><l>each<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
