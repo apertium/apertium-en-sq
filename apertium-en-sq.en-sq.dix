@@ -30,11 +30,14 @@
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
     <e><p><l>accept<s n="vblex"/></l><r>pranoj<s n="vblex"/></r></p></e>
+    <e><p><l>allow<s n="vblex"/></l><r>lejoj<s n="vblex"/></r></p></e>
     <e><p><l>appoint<s n="vblex"/></l><r>emëroj<s n="vblex"/></r></p></e>
     <e><p><l>base<s n="vblex"/></l><r>bazoj<s n="vblex"/></r></p></e>
     <e><p><l>begin<s n="vblex"/></l><r>filloj<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>takoj<s n="vblex"/></r></p></e>
     <e><p><l>build<s n="vblex"/></l><r>ndërtoj<s n="vblex"/></r></p></e>
+    <e><p><l>cause<s n="vblex"/></l><r>shkaktoj<s n="vblex"/></r></p></e>
+    <e><p><l>change<s n="vblex"/></l><r>ndryshoj<s n="vblex"/></r></p></e>
     <e><p><l>continue<s n="vblex"/></l><r>vazhdoj<s n="vblex"/></r></p></e>
     <e><p><l>count<s n="vblex"/></l><r>numëroj<s n="vblex"/></r></p></e>
     <e><p><l>create<s n="vblex"/></l><r>krijoj<s n="vblex"/></r></p></e>
@@ -56,6 +59,7 @@
     <e><p><l>limit<s n="vblex"/></l><r>kufizoj<s n="vblex"/></r></p></e>
     <e><p><l>mark<s n="vblex"/></l><r>shënoj<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>number<s n="vblex"/></l><r>numëroj<s n="vblex"/></r></p></e>
+    <e><p><l>offer<s n="vblex"/></l><r>ofroj<s n="vblex"/></r></p></e>
     <e><p><l>organise<s n="vblex"/></l><r>organizoj<s n="vblex"/></r></p></e>
     <e><p><l>produce<s n="vblex"/></l><r>prodhoj<s n="vblex"/></r></p></e>
     <e><p><l>publish<s n="vblex"/></l><r>botoj<s n="vblex"/></r></p></e>
@@ -65,7 +69,7 @@
     <e><p><l>run<s n="vblex"/></l><r>drejtoj<s n="vblex"/></r></p></e>
     <e><p><l>search<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
     <e><p><l>seek<s n="vblex"/></l><r>kërkoj<s n="vblex"/></r></p></e>
-    <e><p><l>sent<s n="vblex"/></l><r>dërgoj<s n="vblex"/></r></p></e>
+    <e><p><l>send<s n="vblex"/></l><r>dërgoj<s n="vblex"/></r></p></e>
     <e><p><l>show<s n="vblex"/></l><r>tregoj<s n="vblex"/></r></p></e>
     <e><p><l>stand<s n="vblex"/></l><r>qëndroj<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>filloj<s n="vblex"/></r></p></e>
