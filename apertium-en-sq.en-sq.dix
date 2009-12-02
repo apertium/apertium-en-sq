@@ -1,3 +1,7 @@
+<!--
+www.nash-shishtavec.com/Albanian_Top.pdf
+http://www.alblove.com/printpage.html;topic=978.0
+-->
 <dictionary>
   <alphabet/>
   <sdefs>
@@ -36,6 +40,10 @@
     <e><p><l>coordination<s n="n"/></l><r>koordinim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>coordinator<s n="n"/></l><r>koordinues<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dreamer<s n="n"/></l><r>ëndërrues<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>publishing<s n="n"/></l><r>botues<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>original<s n="n"/></l><r>origjinale<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>school<s n="n"/></l><r>shkollore<s n="n"/><s n="f"/></r></p></e> <!-- Probably adj -->
+    <e><p><l>plastic<s n="n"/></l><r>plastike<s n="n"/><s n="f"/></r></p></e>
 
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
