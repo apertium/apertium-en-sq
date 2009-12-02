@@ -28,6 +28,7 @@ http://www.alblove.com/printpage.html;topic=978.0
   <section id="main" type="standard">
     <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r></r></p></e>
     <e><p><l>and<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>nuk<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>ku<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>in<s n="pr"/></l><r>në<s n="pr"/></r></p></e>
     <e><p><l>behind<s n="pr"/></l><r>prapa<s n="pr"/></r></p></e>
@@ -36,6 +37,7 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e><p><l>man<s n="n"/></l><r>burrë<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sofa<s n="n"/></l><r>divan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>grua<s n="n"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>wife<s n="n"/></l><r>grua<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>suitcase<s n="n"/></l><r>valixhe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>coordination<s n="n"/></l><r>koordinim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>coordinator<s n="n"/></l><r>koordinues<s n="n"/><s n="m"/></r></p></e>
