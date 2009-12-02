@@ -8285,7 +8285,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="1"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -8416,7 +8416,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -8566,7 +8566,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -8699,7 +8699,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -8825,7 +8825,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -8975,7 +8975,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9126,7 +9126,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9255,7 +9255,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9268,7 +9268,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -9422,7 +9422,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9435,7 +9435,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9590,7 +9590,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9603,7 +9603,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -9913,7 +9913,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="3"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -10088,7 +10088,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="3"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -10252,7 +10252,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -10410,7 +10410,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="1"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -10573,7 +10573,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -10741,7 +10741,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="1"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -10933,7 +10933,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu> 
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b/>
@@ -11094,7 +11094,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11107,7 +11107,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11154,7 +11154,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11311,7 +11311,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11324,7 +11324,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11389,7 +11389,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11481,7 +11481,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11494,7 +11494,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/> 
@@ -11548,7 +11548,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/> 
@@ -11659,7 +11659,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11672,7 +11672,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="4"/> 
@@ -11737,7 +11737,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11810,7 +11810,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11823,7 +11823,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/> 
@@ -11836,7 +11836,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11925,7 +11925,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11938,7 +11938,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -11951,7 +11951,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/> 
@@ -12007,7 +12007,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12020,7 +12020,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="4"/>
@@ -12182,7 +12182,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12346,7 +12346,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12467,7 +12467,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12568,7 +12568,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12702,7 +12702,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12847,7 +12847,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -12993,7 +12993,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="4"/>
 	    <lu> 
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13149,7 +13149,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="3"/>
 	    <lu>   
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13243,7 +13243,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -13256,7 +13256,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>   
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13341,7 +13341,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -13354,7 +13354,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="4"/>
 	    <lu>   
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13367,7 +13367,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>   
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13582,7 +13582,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>   
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="4"/>
@@ -13730,7 +13730,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="5"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -13811,7 +13811,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="2"/>
@@ -13917,7 +13917,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="6"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -14018,7 +14018,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b pos="2"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="3"/>
@@ -14138,7 +14138,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -14212,7 +14212,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><lit-tag v="SA.mf.sp"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -14354,7 +14354,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -14434,7 +14434,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="1"/>
@@ -15239,7 +15239,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -15391,7 +15391,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -15548,7 +15548,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -15664,7 +15664,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="2" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -15813,7 +15813,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="4" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -15993,7 +15993,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <clip pos="4" side="tl" part="lem"/>
-	      <lit v ="de"/>
+	      <lit v ="i"/>
 	    </let>
 	  </when> 
 	  <otherwise>
@@ -16543,7 +16543,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		    </lu>
 		    <b pos="1"/>
 		    <lu>
-		      <lit v="de"/>
+		      <lit v="i"/>
 		      <lit-tag v="pr"/>
 		    </lu>
 		    <b pos="2"/>
@@ -16580,7 +16580,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		    </lu>
 		    <b pos="1"/>
 		    <lu>
-		      <lit v="de"/>
+		      <lit v="i"/>
 		      <lit-tag v="pr"/>
 		    </lu>
 		    <b pos="2"/>
@@ -16661,7 +16661,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="1"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="2"/>
@@ -16705,7 +16705,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="1"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="2"/>
@@ -16803,7 +16803,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="3"/>
@@ -16846,7 +16846,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="3"/>
@@ -16931,7 +16931,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="3"/>
@@ -16979,7 +16979,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b pos="2"/>
 		<lu>
-		  <lit v="de"/>
+		  <lit v="i"/>
 		  <lit-tag v="pr"/>
 		</lu>
 		<b pos="3"/>
@@ -18771,7 +18771,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -18826,7 +18826,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b pos="1"/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -18906,7 +18906,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="2"/>
@@ -18960,7 +18960,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu> 
 	    <b/>
 	    <lu>
-	      <lit v="de"/>
+	      <lit v="i"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b pos="2"/>
