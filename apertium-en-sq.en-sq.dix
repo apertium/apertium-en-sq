@@ -42,17 +42,32 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e><p><l>dreamer<s n="n"/></l><r>ëndërrues<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>publishing<s n="n"/></l><r>botues<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>original<s n="n"/></l><r>origjinale<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>school<s n="n"/></l><r>shkollor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>school<s n="n"/></l><r>shkollë<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>school<s n="adj"/></l><r>shkollor<s n="adj"/></r></p></e>
     <e><p><l>plastic<s n="n"/></l><r>plastike<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>manifestation<s n="n"/></l><r>manifestim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>congress<s n="n"/></l><r>kongres<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>throne<s n="n"/></l><r>fron<s n="n"/><s n="m"/></r></p></e> <!-- Looks like a false cognate, but... -->
     <e><p><l>state<s n="n"/></l><r>shtet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>city<s n="n"/></l><r>qytet<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>town<s n="n"/></l><r>qytet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>level<s n="n"/></l><r>nivel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>agriculture<s n="n"/></l><r>bujqësore<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>impact<s n="n"/></l><r>ndikim<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>use<s n="n"/></l><r>përdorim<s n="n"/><s n="m"/></r></p></e>
-
+    <e r="LR"><p><l>English<s n="n"/></l><r>anglez<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>English<s n="n"/></l><r>anglez<s n="n"/></r></p></e>
+    <e><p><l>direction<s n="n"/></l><r>drejtim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>order<s n="n"/></l><r>qëllim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>system<s n="n"/></l><r>sistem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>literature<s n="n"/></l><r>letrare<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fact<s n="n"/></l><r>fakt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>success<s n="n"/></l><r>sukses<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>electricity<s n="n"/></l><r>elektrike<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>coast<s n="n"/></l><r>bregdetare<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>result<s n="n"/></l><r>rezultat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mountain<s n="n"/></l><r>malore<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>group<s n="n"/></l><r>grup<s n="n"/><s n="m"/></r></p></e>
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
