@@ -68,6 +68,13 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e><p><l>result<s n="n"/></l><r>rezultat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mountain<s n="n"/></l><r>malore<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>group<s n="n"/></l><r>grup<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>registration<s n="n"/></l><r>regjistrim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>transition<s n="n"/></l><r>kalim<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>border<s n="n"/></l><r>kufitare<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>season<s n="n"/></l><r>sezon<s n="n"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>teacher<s n="n"/></l><r>qytetar<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>teacher<s n="n"/></l><r>qytetar<s n="n"/></r></p></e>
+
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
