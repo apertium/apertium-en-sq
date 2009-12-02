@@ -114,6 +114,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ku__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Pre-adverbs -->
 
@@ -3078,7 +3086,7 @@
       <e>
         <p>
           <l>uar</l>
-          <r>ohem<s n="vblex"/><s n="part"/></r>
+          <r>ohem<s n="vblex"/><s n="pp"/></r>
         </p>
       </e>
       <e>
@@ -3356,7 +3364,7 @@
       <e>
         <p>
           <l>uar</l>
-          <r>oj<s n="vblex"/><s n="part"/></r>
+          <r>oj<s n="vblex"/><s n="pp"/></r>
         </p>
       </e>
       <e>
@@ -11174,7 +11182,7 @@
     <e lm="kryepicingul"><i>kryepicingul</i><par n="nuk__adv"/></e>
     <e lm="kryq"><i>kryq</i><par n="nuk__adv"/></e>
     <e lm="kthjellët"><i>kthjellët</i><par n="nuk__adv"/></e>
-    <e lm="ku"><i>ku</i><par n="nuk__adv"/></e>
+    <e lm="ku"><i>ku</i><par n="ku__adv"/></e>
     <e lm="kudo"><i>kudo</i><par n="nuk__adv"/></e>
     <e lm="kulm"><i>kulm</i><par n="nuk__adv"/></e>
     <e lm="kund"><i>kund</i><par n="nuk__adv"/></e>
