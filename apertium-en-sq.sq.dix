@@ -10,6 +10,7 @@
     <sdef n="vblex"  c="Verb"/>
     <sdef n="vbjam"  c="The verb 'to be'"/>
     <sdef n="vbkam"  c="The verb 'to have'"/>
+    <sdef n="vbmod"  c="Modal verb"/>
     <sdef n="adj"    c="Adjective"/>
     <sdef n="adv"    c="Adverb"/>
     <sdef n="preadv" c="Pre-adverb"/>
@@ -3347,7 +3348,7 @@
           <r>ohem<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>ohem</l>
           <r>ohem<s n="vblex"/><s n="inf"/></r>
@@ -3625,7 +3626,7 @@
           <r>oj<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>oj</l>
           <r>oj<s n="vblex"/><s n="inf"/></r>
@@ -3779,6 +3780,284 @@
         <p>
           <l>uan</l>
           <r>oj<s n="vblex"/><s n="psi"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="d/ua__vblex">
+      <e>
+        <p>
+          <l>uam</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uami</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uash</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uani</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uatë</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uanë</l>
+          <r>ua<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkësha</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkëshim</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkëshe</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkëshit</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkësh</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkëshin</l>
+          <r>ua<s n="vblex"/><s n="adi"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkam</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkemi</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashke</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkeni</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashka</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashkan</l>
+          <r>ua<s n="vblex"/><s n="adp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uaj</l>
+          <r>ua<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oni</l>
+          <r>ua<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e i="yes">
+        <p>
+          <l>ua</l>
+          <r>ua<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashça</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashçim</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashç</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashçi</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashstë</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashçin</l>
+          <r>ua<s n="vblex"/><s n="opt"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ashur</l>
+          <r>ua<s n="vblex"/><s n="pp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oja</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>onim</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oje</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>onit</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>onte</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>onin</l>
+          <r>ua<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ua</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uam</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oni</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uan</l>
+          <r>ua<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esha</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eshëm</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eshe</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eshët</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eshi</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eshën</l>
+          <r>ua<s n="vblex"/><s n="psi"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -12098,6 +12377,7 @@
 
     <e lm="jam"><i/><par n="/jam__vbjam"/></e>
     <e lm="kam"><i/><par n="/kam__vbkam"/></e>
+    <e lm="dua"><i>d</i><par n="d/ua__vblex"/></e>
     <e lm="fërkoj"><i>fërk</i><par n="fërk/oj__vblex"/></e>
     <e lm="masturbohem"><i>masturb</i><par n="masturb/ohem__vblex"/></e>
 
