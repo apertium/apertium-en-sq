@@ -3808,7 +3808,6 @@
     <e lm="adoptuese"><i>adoptues</i><par n="lul/e__n_f"/></e>
     <e lm="aerodinamike"><i>aerodinamik</i><par n="lul/e__n_f"/></e>
     <e lm="aeroplanmbajtëse"><i>aeroplanmbajtës</i><par n="lul/e__n_f"/></e>
-    <e lm="afariste"><i>afarist</i><par n="lul/e__n_f"/></e>
     <e lm="afatmesme"><i>afatmesm</i><par n="lul/e__n_f"/></e>
     <e lm="afektive"><i>afektiv</i><par n="lul/e__n_f"/></e>
     <e lm="afetare"><i>afetar</i><par n="lul/e__n_f"/></e>
@@ -3838,7 +3837,6 @@
     <e lm="aksidentale"><i>aksidental</i><par n="lul/e__n_f"/></e>
     <e lm="aksionare"><i>aksionar</i><par n="lul/e__n_f"/></e>
     <e lm="aktive"><i>aktiv</i><par n="lul/e__n_f"/></e>
-    <e lm="aktiviste"><i>aktivist</i><par n="lul/e__n_f"/></e>
     <e lm="aktore"><i>aktor</i><par n="lul/e__n_f"/></e>
     <e lm="aktuale"><i>aktual</i><par n="lul/e__n_f"/></e>
     <e lm="akullnajore"><i>akullnajor</i><par n="lul/e__n_f"/></e>
@@ -3857,13 +3855,11 @@
     <e lm="algjebrike"><i>algjebrik</i><par n="lul/e__n_f"/></e>
     <e lm="alkimike"><i>alkimik</i><par n="lul/e__n_f"/></e>
     <e lm="alkoolike"><i>alkoolik</i><par n="lul/e__n_f"/></e>
-    <e lm="alkooliste"><i>alkoolist</i><par n="lul/e__n_f"/></e>
     <e lm="allate"><i>allat</i><par n="lul/e__n_f"/></e>
     <e lm="alle"><i>all</i><par n="lul/e__n_f"/></e>
     <e lm="almise"><i>almis</i><par n="lul/e__n_f"/></e>
     <e lm="alogjike"><i>alogjik</i><par n="lul/e__n_f"/></e>
     <e lm="alternative"><i>alternativ</i><par n="lul/e__n_f"/></e>
-    <e lm="altruiste"><i>altruist</i><par n="lul/e__n_f"/></e>
     <e lm="amatore"><i>amator</i><par n="lul/e__n_f"/></e>
     <e lm="ambasadore"><i>ambasador</i><par n="lul/e__n_f"/></e>
     <e lm="ambicioze"><i>ambicioz</i><par n="lul/e__n_f"/></e>
@@ -3882,13 +3878,11 @@
     <e lm="anale"><i>anal</i><par n="lul/e__n_f"/></e>
     <e lm="analfabete"><i>analfabet</i><par n="lul/e__n_f"/></e>
     <e lm="analgjetike"><i>analgjetik</i><par n="lul/e__n_f"/></e>
-    <e lm="analiste"><i>analist</i><par n="lul/e__n_f"/></e>
     <e lm="analitike"><i>analitik</i><par n="lul/e__n_f"/></e>
     <e lm="analizuese"><i>analizues</i><par n="lul/e__n_f"/></e>
     <e lm="analoge"><i>analog</i><par n="lul/e__n_f"/></e>
     <e lm="analogjike"><i>analogjik</i><par n="lul/e__n_f"/></e>
     <e lm="anarkike"><i>anarkik</i><par n="lul/e__n_f"/></e>
-    <e lm="anarkiste"><i>anarkist</i><par n="lul/e__n_f"/></e>
     <e lm="anatomike"><i>anatomik</i><par n="lul/e__n_f"/></e>
     <e lm="andante"><i>andant</i><par n="lul/e__n_f"/></e>
     <e lm="anekdotike"><i>anekdotik</i><par n="lul/e__n_f"/></e>
@@ -3902,21 +3896,15 @@
     <e lm="anofele"><i>anofel</i><par n="lul/e__n_f"/></e>
     <e lm="anonime"><i>anonim</i><par n="lul/e__n_f"/></e>
     <e lm="anormal"><i>anormal</i><par n="anglez__n"/></e>
-    <e lm="antagoniste"><i>antagonist</i><par n="lul/e__n_f"/></e>
     <e lm="antialkoolike"><i>antialkoolik</i><par n="lul/e__n_f"/></e>
     <e lm="antibakteriale"><i>antibakterial</i><par n="lul/e__n_f"/></e>
     <e lm="antibiotike"><i>antibiotik</i><par n="lul/e__n_f"/></e>
     <e lm="antidemokratike"><i>antidemokratik</i><par n="lul/e__n_f"/></e>
     <e lm="antidialektike"><i>antidialektik</i><par n="lul/e__n_f"/></e>
-    <e lm="antifashiste"><i>antifashist</i><par n="lul/e__n_f"/></e>
-    <e lm="antiimperialiste"><i>antiimperialist</i><par n="lul/e__n_f"/></e>
-    <e lm="antikapitaliste"><i>antikapitalist</i><par n="lul/e__n_f"/></e>
     <e lm="antike"><i>antik</i><par n="lul/e__n_f"/></e>
     <e lm="antiklerikale"><i>antiklerikal</i><par n="lul/e__n_f"/></e>
     <e lm="antikombëtare"><i>antikombëtar</i><par n="lul/e__n_f"/></e>
-    <e lm="antikomuniste"><i>antikomunist</i><par n="lul/e__n_f"/></e>
     <e lm="antiligjore"><i>antiligjor</i><par n="lul/e__n_f"/></e>
-    <e lm="antimarksiste"><i>antimarksist</i><par n="lul/e__n_f"/></e>
     <e lm="antinjerëzore"><i>antinjerëzor</i><par n="lul/e__n_f"/></e>
     <e lm="antipatriotike"><i>antipatriotik</i><par n="lul/e__n_f"/></e>
     <e lm="antipopullore"><i>antipopullor</i><par n="lul/e__n_f"/></e>
@@ -3925,8 +3913,6 @@
     <e lm="antishqiptare"><i>antishqiptar</i><par n="lul/e__n_f"/></e>
     <e lm="antisociale"><i>antisocial</i><par n="lul/e__n_f"/></e>
     <e lm="antisportive"><i>antisportiv</i><par n="lul/e__n_f"/></e>
-    <e lm="antiterroriste"><i>antiterrorist</i><par n="lul/e__n_f"/></e>
-    <e lm="antizogiste"><i>antizogist</i><par n="lul/e__n_f"/></e>
     <e lm="antologjike"><i>antologjik</i><par n="lul/e__n_f"/></e>
     <e lm="antropologjike"><i>antropologjik</i><par n="lul/e__n_f"/></e>
     <e lm="anëse"><i>anës</i><par n="lul/e__n_f"/></e>
@@ -3993,7 +3979,6 @@
     <e lm="aspiruese"><i>aspirues</i><par n="lul/e__n_f"/></e>
     <e lm="astronomike"><i>astronomik</i><par n="lul/e__n_f"/></e>
     <e lm="atdhetare"><i>atdhetar</i><par n="lul/e__n_f"/></e>
-    <e lm="ateiste"><i>ateist</i><par n="lul/e__n_f"/></e>
     <e lm="athinase"><i>athinas</i><par n="lul/e__n_f"/></e>
     <e lm="atike"><i>atik</i><par n="lul/e__n_f"/></e>
     <e lm="atjeshme"><i>atjeshm</i><par n="lul/e__n_f"/></e>
@@ -4037,7 +4022,6 @@
     <e lm="balistike"><i>balistik</i><par n="lul/e__n_f"/></e>
     <e lm="ballafaquese"><i>ballafaques</i><par n="lul/e__n_f"/></e>
     <e lm="ballanike"><i>ballanik</i><par n="lul/e__n_f"/></e>
-    <e lm="balliste"><i>ballist</i><par n="lul/e__n_f"/></e>
     <e lm="ballkanase"><i>ballkanas</i><par n="lul/e__n_f"/></e>
     <e lm="ballkanike"><i>ballkanik</i><par n="lul/e__n_f"/></e>
     <e lm="ballkanologjike"><i>ballkanologjik</i><par n="lul/e__n_f"/></e>
@@ -4056,7 +4040,6 @@
     <e lm="bankiere"><i>bankier</i><par n="lul/e__n_f"/></e>
     <e lm="banore"><i>banor</i><par n="lul/e__n_f"/></e>
     <e lm="banuese"><i>banues</i><par n="lul/e__n_f"/></e>
-    <e lm="baptiste"><i>baptist</i><par n="lul/e__n_f"/></e>
     <e lm="barasvlershme"><i>barasvlershm</i><par n="lul/e__n_f"/></e>
     <e lm="barbare"><i>barbar</i><par n="lul/e__n_f"/></e>
     <e lm="barishte"><i>barisht</i><par n="lul/e__n_f"/></e>
@@ -4082,7 +4065,6 @@
     <e lm="bashkëshortore"><i>bashkëshortor</i><par n="lul/e__n_f"/></e>
     <e lm="bashkëtingëllore"><i>bashkëtingëllor</i><par n="lul/e__n_f"/></e>
     <e lm="baske"><i>bask</i><par n="lul/e__n_f"/></e>
-    <e lm="basketbolliste"><i>basketbollist</i><par n="lul/e__n_f"/></e>
     <e lm="bate"><i>bat</i><par n="lul/e__n_f"/></e>
     <e lm="baule"><i>baul</i><par n="lul/e__n_f"/></e>
     <e lm="baxhule"><i>baxhul</i><par n="lul/e__n_f"/></e>
@@ -4178,7 +4160,6 @@
     <e lm="bryme"><i>brym</i><par n="lul/e__n_f"/></e>
     <e lm="bucelore"><i>bucelor</i><par n="lul/e__n_f"/></e>
     <e lm="budallaqe"><i>budallaq</i><par n="lul/e__n_f"/></e>
-    <e lm="budiste"><i>budist</i><par n="lul/e__n_f"/></e>
     <e lm="bujare"><i>bujar</i><par n="lul/e__n_f"/></e>
     <e lm="bujkrobe"><i>bujkrob</i><par n="lul/e__n_f"/></e>
     <e lm="bujqësore"><i>bujqësor</i><par n="lul/e__n_f"/></e>
@@ -4195,7 +4176,6 @@
     <e lm="burrnore"><i>burrnor</i><par n="lul/e__n_f"/></e>
     <e lm="burrërishte"><i>burrërisht</i><par n="lul/e__n_f"/></e>
     <e lm="burrërore"><i>burrëror</i><par n="lul/e__n_f"/></e>
-    <e lm="bursiste"><i>bursist</i><par n="lul/e__n_f"/></e>
     <e lm="bute"><i>but</i><par n="lul/e__n_f"/></e>
     <e lm="buxhetore"><i>buxhetor</i><par n="lul/e__n_f"/></e>
     <e lm="buzore"><i>buzor</i><par n="lul/e__n_f"/></e>
@@ -4211,14 +4191,11 @@
     <e lm="camërdhoke"><i>camërdhok</i><par n="lul/e__n_f"/></e>
     <e lm="cangadhe"><i>cangadh</i><par n="lul/e__n_f"/></e>
     <e lm="careqe"><i>careq</i><par n="lul/e__n_f"/></e>
-    <e lm="cariste"><i>carist</i><par n="lul/e__n_f"/></e>
     <e lm="celulare"><i>celular</i><par n="lul/e__n_f"/></e>
     <e lm="centrale"><i>central</i><par n="lul/e__n_f"/></e>
-    <e lm="centraliste"><i>centralist</i><par n="lul/e__n_f"/></e>
     <e lm="centrifugale"><i>centrifugal</i><par n="lul/e__n_f"/></e>
     <e lm="centrifuge"><i>centrifug</i><par n="lul/e__n_f"/></e>
     <e lm="centripete"><i>centripet</i><par n="lul/e__n_f"/></e>
-    <e lm="centriste"><i>centrist</i><par n="lul/e__n_f"/></e>
     <e lm="cenuese"><i>cenues</i><par n="lul/e__n_f"/></e>
     <e lm="cerebrale"><i>cerebral</i><par n="lul/e__n_f"/></e>
     <e lm="ceremoniale"><i>ceremonial</i><par n="lul/e__n_f"/></e>
@@ -4258,7 +4235,6 @@
     <e lm="dafinore"><i>dafinor</i><par n="lul/e__n_f"/></e>
     <e lm="dajre"><i>dajr</i><par n="lul/e__n_f"/></e>
     <e lm="daktilike"><i>daktilik</i><par n="lul/e__n_f"/></e>
-    <e lm="daktilografiste"><i>daktilografist</i><par n="lul/e__n_f"/></e>
     <e lm="dallavere"><i>dallaver</i><par n="lul/e__n_f"/></e>
     <e lm="dallgore"><i>dallgor</i><par n="lul/e__n_f"/></e>
     <e lm="dalluese"><i>dallues</i><par n="lul/e__n_f"/></e>
@@ -4286,7 +4262,6 @@
     <e lm="deformuese"><i>deformues</i><par n="lul/e__n_f"/></e>
     <e lm="degraduese"><i>degradues</i><par n="lul/e__n_f"/></e>
     <e lm="dehëse"><i>dehës</i><par n="lul/e__n_f"/></e>
-    <e lm="deiste"><i>deist</i><par n="lul/e__n_f"/></e>
     <e lm="dekadente"><i>dekadent</i><par n="lul/e__n_f"/></e>
     <e lm="deklarative"><i>deklarativ</i><par n="lul/e__n_f"/></e>
     <e lm="dekorative"><i>dekorativ</i><par n="lul/e__n_f"/></e>
@@ -4306,7 +4281,6 @@
     <e lm="denigruese"><i>denigrues</i><par n="lul/e__n_f"/></e>
     <e lm="denoncuese"><i>denoncues</i><par n="lul/e__n_f"/></e>
     <e lm="dentare"><i>dentar</i><par n="lul/e__n_f"/></e>
-    <e lm="dentiste"><i>dentist</i><par n="lul/e__n_f"/></e>
     <e lm="depozituese"><i>depozitues</i><par n="lul/e__n_f"/></e>
     <e lm="deputete"><i>deputet</i><par n="lul/e__n_f"/></e>
     <e lm="depërtuese"><i>depërtues</i><par n="lul/e__n_f"/></e>
@@ -4377,7 +4351,6 @@
     <e lm="disamujore"><i>disamujor</i><par n="lul/e__n_f"/></e>
     <e lm="disaorëshe"><i>disaorësh</i><par n="lul/e__n_f"/></e>
     <e lm="disavjeçare"><i>disavjeçar</i><par n="lul/e__n_f"/></e>
-    <e lm="disfatiste"><i>disfatist</i><par n="lul/e__n_f"/></e>
     <e lm="disidente"><i>disident</i><par n="lul/e__n_f"/></e>
     <e lm="disiplinore"><i>disiplinor</i><par n="lul/e__n_f"/></e>
     <e lm="diskredituese"><i>diskreditues</i><par n="lul/e__n_f"/></e>
@@ -4393,7 +4366,6 @@
     <e lm="djallëzore"><i>djallëzor</i><par n="lul/e__n_f"/></e>
     <e lm="djaloshare"><i>djaloshar</i><par n="lul/e__n_f"/></e>
     <e lm="djathore"><i>djathor</i><par n="lul/e__n_f"/></e>
-    <e lm="djathtiste"><i>djathtist</i><par n="lul/e__n_f"/></e>
     <e lm="djegëse"><i>djegës</i><par n="lul/e__n_f"/></e>
     <e lm="djeshme"><i>djeshm</i><par n="lul/e__n_f"/></e>
     <e lm="dobiprurëse"><i>dobiprurës</i><par n="lul/e__n_f"/></e>
@@ -4427,7 +4399,6 @@
     <e lm="drudhe"><i>drudh</i><par n="lul/e__n_f"/></e>
     <e lm="drunore"><i>drunor</i><par n="lul/e__n_f"/></e>
     <e lm="drusore"><i>drusor</i><par n="lul/e__n_f"/></e>
-    <e lm="dualiste"><i>dualist</i><par n="lul/e__n_f"/></e>
     <e lm="dubluese"><i>dublues</i><par n="lul/e__n_f"/></e>
     <e lm="duhanpirëse"><i>duhanpirës</i><par n="lul/e__n_f"/></e>
     <e lm="dukagjinase"><i>dukagjinas</i><par n="lul/e__n_f"/></e>
@@ -4492,18 +4463,15 @@
     <e lm="efektive"><i>efektiv</i><par n="lul/e__n_f"/></e>
     <e lm="efemere"><i>efemer</i><par n="lul/e__n_f"/></e>
     <e lm="efikase"><i>efikas</i><par n="lul/e__n_f"/></e>
-    <e lm="egoiste"><i>egoist</i><par n="lul/e__n_f"/></e>
     <e lm="ekipore"><i>ekipor</i><par n="lul/e__n_f"/></e>
     <e lm="eklatante"><i>eklatant</i><par n="lul/e__n_f"/></e>
     <e lm="eklektike"><i>eklektik</i><par n="lul/e__n_f"/></e>
     <e lm="ekologjike"><i>ekologjik</i><par n="lul/e__n_f"/></e>
     <e lm="ekonomike"><i>ekonomik</i><par n="lul/e__n_f"/></e>
     <e lm="ekonomiqare"><i>ekonomiqar</i><par n="lul/e__n_f"/></e>
-    <e lm="ekonomiste"><i>ekonomist</i><par n="lul/e__n_f"/></e>
     <e lm="ekonomizuese"><i>ekonomizues</i><par n="lul/e__n_f"/></e>
     <e lm="ekscentrike"><i>ekscentrik</i><par n="lul/e__n_f"/></e>
     <e lm="ekskluzive"><i>ekskluziv</i><par n="lul/e__n_f"/></e>
-    <e lm="ekspansioniste"><i>ekspansionist</i><par n="lul/e__n_f"/></e>
     <e lm="eksperimentale"><i>eksperimental</i><par n="lul/e__n_f"/></e>
     <e lm="eksperte"><i>ekspert</i><par n="lul/e__n_f"/></e>
     <e lm="eksplicite"><i>eksplicit</i><par n="lul/e__n_f"/></e>
@@ -4512,18 +4480,15 @@
     <e lm="eksplozive"><i>eksploziv</i><par n="lul/e__n_f"/></e>
     <e lm="eksportuese"><i>eksportues</i><par n="lul/e__n_f"/></e>
     <e lm="ekspozuese"><i>ekspozues</i><par n="lul/e__n_f"/></e>
-    <e lm="ekspresioniste"><i>ekspresionist</i><par n="lul/e__n_f"/></e>
     <e lm="ekspresive"><i>ekspresiv</i><par n="lul/e__n_f"/></e>
     <e lm="eksterritoriale"><i>eksterritorial</i><par n="lul/e__n_f"/></e>
     <e lm="ekstraordinare"><i>ekstraordinar</i><par n="lul/e__n_f"/></e>
     <e lm="ekstravagante"><i>ekstravagant</i><par n="lul/e__n_f"/></e>
     <e lm="ekstreme"><i>ekstrem</i><par n="lul/e__n_f"/></e>
-    <e lm="ekstremiste"><i>ekstremist</i><par n="lul/e__n_f"/></e>
     <e lm="ekuivalente"><i>ekuivalent</i><par n="lul/e__n_f"/></e>
     <e lm="ekzakte"><i>ekzakt</i><par n="lul/e__n_f"/></e>
     <e lm="ekzekutive"><i>ekzekutiv</i><par n="lul/e__n_f"/></e>
     <e lm="ekzemplare"><i>ekzemplar</i><par n="lul/e__n_f"/></e>
-    <e lm="ekzibicioniste"><i>ekzibicionist</i><par n="lul/e__n_f"/></e>
     <e lm="ekzistenciale"><i>ekzistencial</i><par n="lul/e__n_f"/></e>
     <e lm="ekzistuese"><i>ekzistues</i><par n="lul/e__n_f"/></e>
     <e lm="ekzocentrike"><i>ekzocentrik</i><par n="lul/e__n_f"/></e>
@@ -4534,7 +4499,6 @@
     <e lm="elegante"><i>elegant</i><par n="lul/e__n_f"/></e>
     <e lm="elegjiake"><i>elegjiak</i><par n="lul/e__n_f"/></e>
     <e lm="elektorale"><i>elektoral</i><par n="lul/e__n_f"/></e>
-    <e lm="elektriciste"><i>elektricist</i><par n="lul/e__n_f"/></e>
     <e lm="elektrike"><i>elektrik</i><par n="lul/e__n_f"/></e>
     <e lm="elektromagnetike"><i>elektromagnetik</i><par n="lul/e__n_f"/></e>
     <e lm="elektronike"><i>elektronik</i><par n="lul/e__n_f"/></e>
@@ -4570,7 +4534,6 @@
     <e lm="enorme"><i>enorm</i><par n="lul/e__n_f"/></e>
     <e lm="entuziaste"><i>entuziast</i><par n="lul/e__n_f"/></e>
     <e lm="entuziazmuese"><i>entuziazmues</i><par n="lul/e__n_f"/></e>
-    <e lm="enveriste"><i>enverist</i><par n="lul/e__n_f"/></e>
     <e lm="epidemike"><i>epidemik</i><par n="lul/e__n_f"/></e>
     <e lm="epidemiologjike"><i>epidemiologjik</i><par n="lul/e__n_f"/></e>
     <e lm="epike"><i>epik</i><par n="lul/e__n_f"/></e>
@@ -4603,7 +4566,6 @@
     <e lm="eventuale"><i>eventual</i><par n="lul/e__n_f"/></e>
     <e lm="evidente"><i>evident</i><par n="lul/e__n_f"/></e>
     <e lm="evolucionare"><i>evolucionar</i><par n="lul/e__n_f"/></e>
-    <e lm="evolucioniste"><i>evolucionist</i><par n="lul/e__n_f"/></e>
     <e lm="evropianolindore"><i>evropianolindor</i><par n="lul/e__n_f"/></e>
     <e lm="ezmere"><i>ezmer</i><par n="lul/e__n_f"/></e>
     <e lm="ezopike"><i>ezopik</i><par n="lul/e__n_f"/></e>
@@ -4628,7 +4590,6 @@
     <e lm="fasule"><i>fasul</i><par n="lul/e__n_f"/></e>
     <e lm="fasulishte"><i>fasulisht</i><par n="lul/e__n_f"/></e>
     <e lm="fatale"><i>fatal</i><par n="lul/e__n_f"/></e>
-    <e lm="fataliste"><i>fatalist</i><par n="lul/e__n_f"/></e>
     <e lm="fatlume"><i>fatlum</i><par n="lul/e__n_f"/></e>
     <e lm="favorite"><i>favorit</i><par n="lul/e__n_f"/></e>
     <e lm="favorizuese"><i>favorizues</i><par n="lul/e__n_f"/></e>
@@ -4659,7 +4620,6 @@
     <e lm="filologjike"><i>filologjik</i><par n="lul/e__n_f"/></e>
     <e lm="filozofike"><i>filozofik</i><par n="lul/e__n_f"/></e>
     <e lm="finale"><i>final</i><par n="lul/e__n_f"/></e>
-    <e lm="finaliste"><i>finalist</i><par n="lul/e__n_f"/></e>
     <e lm="finalizuese"><i>finalizues</i><par n="lul/e__n_f"/></e>
     <e lm="financiare"><i>financiar</i><par n="lul/e__n_f"/></e>
     <e lm="financuese"><i>financues</i><par n="lul/e__n_f"/></e>
@@ -4685,7 +4645,6 @@
     <e lm="flagrante"><i>flagrant</i><par n="lul/e__n_f"/></e>
     <e lm="flakëruese"><i>flakërues</i><par n="lul/e__n_f"/></e>
     <e lm="flakëshuese"><i>flakëshues</i><par n="lul/e__n_f"/></e>
-    <e lm="flautiste"><i>flautist</i><par n="lul/e__n_f"/></e>
     <e lm="fletore"><i>fletor</i><par n="lul/e__n_f"/></e>
     <e lm="floktare"><i>floktar</i><par n="lul/e__n_f"/></e>
     <e lm="fluide"><i>fluid</i><par n="lul/e__n_f"/></e>
@@ -4705,7 +4664,6 @@
     <e lm="foragjere"><i>foragjer</i><par n="lul/e__n_f"/></e>
     <e lm="forcëdhënëse"><i>forcëdhënës</i><par n="lul/e__n_f"/></e>
     <e lm="formale"><i>formal</i><par n="lul/e__n_f"/></e>
-    <e lm="formaliste"><i>formalist</i><par n="lul/e__n_f"/></e>
     <e lm="fosforeshente"><i>fosforeshent</i><par n="lul/e__n_f"/></e>
     <e lm="foshnjarake"><i>foshnjarak</i><par n="lul/e__n_f"/></e>
     <e lm="foshnjore"><i>foshnjor</i><par n="lul/e__n_f"/></e>
@@ -4714,7 +4672,6 @@
     <e lm="fotokopjuese"><i>fotokopjues</i><par n="lul/e__n_f"/></e>
     <e lm="fqinjësore"><i>fqinjësor</i><par n="lul/e__n_f"/></e>
     <e lm="fragmentare"><i>fragmentar</i><par n="lul/e__n_f"/></e>
-    <e lm="fraksioniste"><i>fraksionist</i><par n="lul/e__n_f"/></e>
     <e lm="franceze"><i>francez</i><par n="lul/e__n_f"/></e>
     <e lm="frazeologjike"><i>frazeologjik</i><par n="lul/e__n_f"/></e>
     <e lm="freskuese"><i>freskues</i><par n="lul/e__n_f"/></e>
@@ -4735,7 +4692,6 @@
     <e lm="fufule"><i>fuful</i><par n="lul/e__n_f"/></e>
     <e lm="fultere"><i>fulter</i><par n="lul/e__n_f"/></e>
     <e lm="fundake"><i>fundak</i><par n="lul/e__n_f"/></e>
-    <e lm="fundamentaliste"><i>fundamentalist</i><par n="lul/e__n_f"/></e>
     <e lm="fundore"><i>fundor</i><par n="lul/e__n_f"/></e>
     <e lm="fundëse"><i>fundës</i><par n="lul/e__n_f"/></e>
     <e lm="funerale"><i>funeral</i><par n="lul/e__n_f"/></e>
@@ -4747,7 +4703,6 @@
     <e lm="furrtare"><i>furrtar</i><par n="lul/e__n_f"/></e>
     <e lm="fusharake"><i>fusharak</i><par n="lul/e__n_f"/></e>
     <e lm="fushore"><i>fushor</i><par n="lul/e__n_f"/></e>
-    <e lm="futuriste"><i>futurist</i><par n="lul/e__n_f"/></e>
     <e lm="fyese"><i>fyes</i><par n="lul/e__n_f"/></e>
     <e lm="fyle"><i>fyl</i><par n="lul/e__n_f"/></e>
     <e lm="fëmijërore"><i>fëmijëror</i><par n="lul/e__n_f"/></e>
@@ -4815,7 +4770,6 @@
     <e lm="gjigante"><i>gjigant</i><par n="lul/e__n_f"/></e>
     <e lm="gjimnaste"><i>gjimnast</i><par n="lul/e__n_f"/></e>
     <e lm="gjimnastikore"><i>gjimnastikor</i><par n="lul/e__n_f"/></e>
-    <e lm="gjimnaziste"><i>gjimnazist</i><par n="lul/e__n_f"/></e>
     <e lm="gjinatore"><i>gjinator</i><par n="lul/e__n_f"/></e>
     <e lm="gjinekologjike"><i>gjinekologjik</i><par n="lul/e__n_f"/></e>
     <e lm="gjinore"><i>gjinor</i><par n="lul/e__n_f"/></e>
@@ -4845,7 +4799,6 @@
     <e lm="gjyshe"><i>gjysh</i><par n="lul/e__n_f"/></e>
     <e lm="gjysmake"><i>gjysmak</i><par n="lul/e__n_f"/></e>
     <e lm="gjysmëfinale"><i>gjysmëfinal</i><par n="lul/e__n_f"/></e>
-    <e lm="gjysmëfinaliste"><i>gjysmëfinalist</i><par n="lul/e__n_f"/></e>
     <e lm="gjysmëlakuriqe"><i>gjysmëlakuriq</i><par n="lul/e__n_f"/></e>
     <e lm="gjysmëndihmëse"><i>gjysmëndihmës</i><par n="lul/e__n_f"/></e>
     <e lm="gjysmëproletare"><i>gjysmëproletar</i><par n="lul/e__n_f"/></e>
@@ -4920,13 +4873,11 @@
     <e lm="harkore"><i>harkor</i><par n="lul/e__n_f"/></e>
     <e lm="harmonike"><i>harmonik</i><par n="lul/e__n_f"/></e>
     <e lm="harmonishme"><i>harmonishm</i><par n="lul/e__n_f"/></e>
-    <e lm="harpiste"><i>harpist</i><par n="lul/e__n_f"/></e>
     <e lm="hartuese"><i>hartues</i><par n="lul/e__n_f"/></e>
     <e lm="hasëllore"><i>hasëllor</i><par n="lul/e__n_f"/></e>
     <e lm="hatashme"><i>hatashm</i><par n="lul/e__n_f"/></e>
     <e lm="hebraike"><i>hebraik</i><par n="lul/e__n_f"/></e>
     <e lm="hedhëse"><i>hedhës</i><par n="lul/e__n_f"/></e>
-    <e lm="hegjemoniste"><i>hegjemonist</i><par n="lul/e__n_f"/></e>
     <e lm="hekurishte"><i>hekurisht</i><par n="lul/e__n_f"/></e>
     <e lm="hekurore"><i>hekuror</i><par n="lul/e__n_f"/></e>
     <e lm="hekurudhore"><i>hekurudhor</i><par n="lul/e__n_f"/></e>
@@ -4977,7 +4928,6 @@
     <e lm="hovshme"><i>hovshm</i><par n="lul/e__n_f"/></e>
     <e lm="huazuese"><i>huazues</i><par n="lul/e__n_f"/></e>
     <e lm="hulumtuese"><i>hulumtues</i><par n="lul/e__n_f"/></e>
-    <e lm="humaniste"><i>humanist</i><par n="lul/e__n_f"/></e>
     <e lm="humanitare"><i>humanitar</i><par n="lul/e__n_f"/></e>
     <e lm="humoristike"><i>humoristik</i><par n="lul/e__n_f"/></e>
     <e lm="hundore"><i>hundor</i><par n="lul/e__n_f"/></e>
@@ -4988,7 +4938,6 @@
     <e lm="hyrëse"><i>hyrës</i><par n="lul/e__n_f"/></e>
     <e lm="hyzmeqare"><i>hyzmeqar</i><par n="lul/e__n_f"/></e>
     <e lm="ideale"><i>ideal</i><par n="lul/e__n_f"/></e>
-    <e lm="idealiste"><i>idealist</i><par n="lul/e__n_f"/></e>
     <e lm="identifikuese"><i>identifikues</i><par n="lul/e__n_f"/></e>
     <e lm="identike"><i>identik</i><par n="lul/e__n_f"/></e>
     <e lm="ideoartistike"><i>ideoartistik</i><par n="lul/e__n_f"/></e>
@@ -5004,18 +4953,15 @@
     <e lm="ilire"><i>ilir</i><par n="lul/e__n_f"/></e>
     <e lm="ilirike"><i>ilirik</i><par n="lul/e__n_f"/></e>
     <e lm="ilqe"><i>ilq</i><par n="lul/e__n_f"/></e>
-    <e lm="iluministe"><i>iluminist</i><par n="lul/e__n_f"/></e>
     <e lm="ilustruese"><i>ilustrues</i><par n="lul/e__n_f"/></e>
     <e lm="imagjinare"><i>imagjinar</i><par n="lul/e__n_f"/></e>
     <e lm="imagjinuese"><i>imagjinues</i><par n="lul/e__n_f"/></e>
     <e lm="imediate"><i>imediat</i><par n="lul/e__n_f"/></e>
     <e lm="imituese"><i>imitues</i><par n="lul/e__n_f"/></e>
     <e lm="imorale"><i>imoral</i><par n="lul/e__n_f"/></e>
-    <e lm="imperialiste"><i>imperialist</i><par n="lul/e__n_f"/></e>
     <e lm="imponuese"><i>imponues</i><par n="lul/e__n_f"/></e>
     <e lm="importuese"><i>importues</i><par n="lul/e__n_f"/></e>
     <e lm="impozante"><i>impozant</i><par n="lul/e__n_f"/></e>
-    <e lm="impresioniste"><i>impresionist</i><par n="lul/e__n_f"/></e>
     <e lm="improvizuese"><i>improvizues</i><par n="lul/e__n_f"/></e>
     <e lm="impulsive"><i>impulsiv</i><par n="lul/e__n_f"/></e>
     <e lm="inauguruese"><i>inaugurues</i><par n="lul/e__n_f"/></e>
@@ -5023,7 +4969,6 @@
     <e lm="indinjuese"><i>indinjues</i><par n="lul/e__n_f"/></e>
     <e lm="indirekte"><i>indirekt</i><par n="lul/e__n_f"/></e>
     <e lm="individuale"><i>individual</i><par n="lul/e__n_f"/></e>
-    <e lm="individualiste"><i>individualist</i><par n="lul/e__n_f"/></e>
     <e lm="indoevropianishte"><i>indoevropianisht</i><par n="lul/e__n_f"/></e>
     <e lm="indore"><i>indor</i><par n="lul/e__n_f"/></e>
     <e lm="induktive"><i>induktiv</i><par n="lul/e__n_f"/></e>
@@ -5051,17 +4996,14 @@
     <e lm="institucionale"><i>institucional</i><par n="lul/e__n_f"/></e>
     <e lm="instruktore"><i>instruktor</i><par n="lul/e__n_f"/></e>
     <e lm="instrumentale"><i>instrumental</i><par n="lul/e__n_f"/></e>
-    <e lm="instrumentiste"><i>instrumentist</i><par n="lul/e__n_f"/></e>
     <e lm="integruese"><i>integrues</i><par n="lul/e__n_f"/></e>
     <e lm="intelektuale"><i>intelektual</i><par n="lul/e__n_f"/></e>
-    <e lm="intelektualiste"><i>intelektualist</i><par n="lul/e__n_f"/></e>
     <e lm="inteligjente"><i>inteligjent</i><par n="lul/e__n_f"/></e>
     <e lm="intensifikuese"><i>intensifikues</i><par n="lul/e__n_f"/></e>
     <e lm="intensive"><i>intensiv</i><par n="lul/e__n_f"/></e>
     <e lm="interesante"><i>interesant</i><par n="lul/e__n_f"/></e>
     <e lm="interkontinentale"><i>interkontinental</i><par n="lul/e__n_f"/></e>
     <e lm="internacionale"><i>internacional</i><par n="lul/e__n_f"/></e>
-    <e lm="internacionaliste"><i>internacionalist</i><par n="lul/e__n_f"/></e>
     <e lm="interpretuese"><i>interpretues</i><par n="lul/e__n_f"/></e>
     <e lm="intervistuese"><i>intervistues</i><par n="lul/e__n_f"/></e>
     <e lm="intime"><i>intim</i><par n="lul/e__n_f"/></e>
@@ -5074,7 +5016,6 @@
     <e lm="ironike"><i>ironik</i><par n="lul/e__n_f"/></e>
     <e lm="ironizuese"><i>ironizues</i><par n="lul/e__n_f"/></e>
     <e lm="irracionale"><i>irracional</i><par n="lul/e__n_f"/></e>
-    <e lm="irredentiste"><i>irredentist</i><par n="lul/e__n_f"/></e>
     <e lm="ishullore"><i>ishullor</i><par n="lul/e__n_f"/></e>
     <e lm="islame"><i>islam</i><par n="lul/e__n_f"/></e>
     <e lm="islamike"><i>islamik</i><par n="lul/e__n_f"/></e>
@@ -5129,7 +5070,6 @@
     <e lm="joligjore"><i>joligjor</i><par n="lul/e__n_f"/></e>
     <e lm="jologjike"><i>jologjik</i><par n="lul/e__n_f"/></e>
     <e lm="jomadhore"><i>jomadhor</i><par n="lul/e__n_f"/></e>
-    <e lm="jomarksiste"><i>jomarksist</i><par n="lul/e__n_f"/></e>
     <e lm="jomiqësore"><i>jomiqësor</i><par n="lul/e__n_f"/></e>
     <e lm="jomyslimane"><i>jomysliman</i><par n="lul/e__n_f"/></e>
     <e lm="jonjerëzore"><i>jonjerëzor</i><par n="lul/e__n_f"/></e>
@@ -5139,12 +5079,10 @@
     <e lm="jopopullore"><i>jopopullor</i><par n="lul/e__n_f"/></e>
     <e lm="joproduktive"><i>joproduktiv</i><par n="lul/e__n_f"/></e>
     <e lm="joprofesionale"><i>joprofesional</i><par n="lul/e__n_f"/></e>
-    <e lm="joprofesioniste"><i>joprofesionist</i><par n="lul/e__n_f"/></e>
     <e lm="jopublike"><i>jopublik</i><par n="lul/e__n_f"/></e>
     <e lm="joqeveritare"><i>joqeveritar</i><par n="lul/e__n_f"/></e>
     <e lm="joracionale"><i>joracional</i><par n="lul/e__n_f"/></e>
     <e lm="joreale"><i>joreal</i><par n="lul/e__n_f"/></e>
-    <e lm="jorealiste"><i>jorealist</i><par n="lul/e__n_f"/></e>
     <e lm="joserioze"><i>joserioz</i><par n="lul/e__n_f"/></e>
     <e lm="joshkencore"><i>joshkencor</i><par n="lul/e__n_f"/></e>
     <e lm="joshqiptare"><i>joshqiptar</i><par n="lul/e__n_f"/></e>
@@ -5200,7 +5138,6 @@
     <e lm="kapcele"><i>kapcel</i><par n="lul/e__n_f"/></e>
     <e lm="kapilare"><i>kapilar</i><par n="lul/e__n_f"/></e>
     <e lm="kapitale"><i>kapital</i><par n="lul/e__n_f"/></e>
-    <e lm="kapitaliste"><i>kapitalist</i><par n="lul/e__n_f"/></e>
     <e lm="kapitulluese"><i>kapitullues</i><par n="lul/e__n_f"/></e>
     <e lm="kapole"><i>kapol</i><par n="lul/e__n_f"/></e>
     <e lm="kapëse"><i>kapës</i><par n="lul/e__n_f"/></e>
@@ -5216,7 +5153,6 @@
     <e lm="karkanaqe"><i>karkanaq</i><par n="lul/e__n_f"/></e>
     <e lm="karotide"><i>karotid</i><par n="lul/e__n_f"/></e>
     <e lm="karrace"><i>karrac</i><par n="lul/e__n_f"/></e>
-    <e lm="karrieriste"><i>karrierist</i><par n="lul/e__n_f"/></e>
     <e lm="karruke"><i>karruk</i><par n="lul/e__n_f"/></e>
     <e lm="karrule"><i>karrul</i><par n="lul/e__n_f"/></e>
     <e lm="kashtore"><i>kashtor</i><par n="lul/e__n_f"/></e>
@@ -5274,7 +5210,6 @@
     <e lm="kohëpaskohshme"><i>kohëpaskohshm</i><par n="lul/e__n_f"/></e>
     <e lm="kokme"><i>kokm</i><par n="lul/e__n_f"/></e>
     <e lm="kokore"><i>kokor</i><par n="lul/e__n_f"/></e>
-    <e lm="kolaboracioniste"><i>kolaboracionist</i><par n="lul/e__n_f"/></e>
     <e lm="kolegjiale"><i>kolegjial</i><par n="lul/e__n_f"/></e>
     <e lm="kolektive"><i>kolektiv</i><par n="lul/e__n_f"/></e>
     <e lm="kolibe"><i>kolib</i><par n="lul/e__n_f"/></e>
@@ -5283,7 +5218,6 @@
     <e lm="kolloface"><i>kollofac</i><par n="lul/e__n_f"/></e>
     <e lm="kolme"><i>kolm</i><par n="lul/e__n_f"/></e>
     <e lm="koloniale"><i>kolonial</i><par n="lul/e__n_f"/></e>
-    <e lm="kolonialiste"><i>kolonialist</i><par n="lul/e__n_f"/></e>
     <e lm="kolonizuese"><i>kolonizues</i><par n="lul/e__n_f"/></e>
     <e lm="kolosale"><i>kolosal</i><par n="lul/e__n_f"/></e>
     <e lm="komandante"><i>komandant</i><par n="lul/e__n_f"/></e>
@@ -5309,9 +5243,7 @@
     <e lm="komprometuese"><i>komprometues</i><par n="lul/e__n_f"/></e>
     <e lm="komunale"><i>komunal</i><par n="lul/e__n_f"/></e>
     <e lm="komunikuese"><i>komunikues</i><par n="lul/e__n_f"/></e>
-    <e lm="komuniste"><i>komunist</i><par n="lul/e__n_f"/></e>
     <e lm="koncize"><i>konciz</i><par n="lul/e__n_f"/></e>
-    <e lm="konformiste"><i>konformist</i><par n="lul/e__n_f"/></e>
     <e lm="konfuze"><i>konfuz</i><par n="lul/e__n_f"/></e>
     <e lm="konike"><i>konik</i><par n="lul/e__n_f"/></e>
     <e lm="konkave"><i>konkav</i><par n="lul/e__n_f"/></e>
@@ -5335,7 +5267,6 @@
     <e lm="konsultuese"><i>konsultues</i><par n="lul/e__n_f"/></e>
     <e lm="konsumatore"><i>konsumator</i><par n="lul/e__n_f"/></e>
     <e lm="konsumuese"><i>konsumues</i><par n="lul/e__n_f"/></e>
-    <e lm="kontabiliste"><i>kontabilist</i><par n="lul/e__n_f"/></e>
     <e lm="kontaktuese"><i>kontaktues</i><par n="lul/e__n_f"/></e>
     <e lm="kontekstuale"><i>kontekstual</i><par n="lul/e__n_f"/></e>
     <e lm="kontestuese"><i>kontestues</i><par n="lul/e__n_f"/></e>
@@ -5350,7 +5281,6 @@
     <e lm="konvencionale"><i>konvencional</i><par n="lul/e__n_f"/></e>
     <e lm="konvertueshme"><i>konvertueshm</i><par n="lul/e__n_f"/></e>
     <e lm="konviktore"><i>konviktor</i><par n="lul/e__n_f"/></e>
-    <e lm="kooperativiste"><i>kooperativist</i><par n="lul/e__n_f"/></e>
     <e lm="koordinatore"><i>koordinator</i><par n="lul/e__n_f"/></e>
     <e lm="koordinuese"><i>koordinues</i><par n="lul/e__n_f"/></e>
     <e lm="kopjative"><i>kopjativ</i><par n="lul/e__n_f"/></e>
@@ -5530,7 +5460,6 @@
     <e lm="lektore"><i>lektor</i><par n="lul/e__n_f"/></e>
     <e lm="lemerishme"><i>lemerishm</i><par n="lul/e__n_f"/></e>
     <e lm="lende"><i>lend</i><par n="lul/e__n_f"/></e>
-    <e lm="leniniste"><i>leninist</i><par n="lul/e__n_f"/></e>
     <e lm="leqe"><i>leq</i><par n="lul/e__n_f"/></e>
     <e lm="lerashe"><i>lerash</i><par n="lul/e__n_f"/></e>
     <e lm="lesbike"><i>lesbik</i><par n="lul/e__n_f"/></e>
@@ -5572,7 +5501,6 @@
     <e lm="logjistike"><i>logjistik</i><par n="lul/e__n_f"/></e>
     <e lm="lojtare"><i>lojtar</i><par n="lul/e__n_f"/></e>
     <e lm="lokale"><i>lokal</i><par n="lul/e__n_f"/></e>
-    <e lm="lokaliste"><i>lokalist</i><par n="lul/e__n_f"/></e>
     <e lm="loke"><i>lok</i><par n="lul/e__n_f"/></e>
     <e lm="londineze"><i>londinez</i><par n="lul/e__n_f"/></e>
     <e lm="lovidhe"><i>lovidh</i><par n="lul/e__n_f"/></e>
@@ -5624,7 +5552,6 @@
     <e lm="mahnitshme"><i>mahnitshm</i><par n="lul/e__n_f"/></e>
     <e lm="mahnitëse"><i>mahnitës</i><par n="lul/e__n_f"/></e>
     <e lm="majole"><i>majol</i><par n="lul/e__n_f"/></e>
-    <e lm="majtiste"><i>majtist</i><par n="lul/e__n_f"/></e>
     <e lm="maknore"><i>maknor</i><par n="lul/e__n_f"/></e>
     <e lm="makroekonomike"><i>makroekonomik</i><par n="lul/e__n_f"/></e>
     <e lm="maksimale"><i>maksimal</i><par n="lul/e__n_f"/></e>
@@ -5640,11 +5567,9 @@
     <e lm="manovruese"><i>manovrues</i><par n="lul/e__n_f"/></e>
     <e lm="manuale"><i>manual</i><par n="lul/e__n_f"/></e>
     <e lm="manushaqe"><i>manushaq</i><par n="lul/e__n_f"/></e>
-    <e lm="maoiste"><i>maoist</i><par n="lul/e__n_f"/></e>
     <e lm="maqedonase"><i>maqedonas</i><par n="lul/e__n_f"/></e>
     <e lm="maratonike"><i>maratonik</i><par n="lul/e__n_f"/></e>
     <e lm="margjinale"><i>margjinal</i><par n="lul/e__n_f"/></e>
-    <e lm="marksiste"><i>marksist</i><par n="lul/e__n_f"/></e>
     <e lm="marramendëse"><i>marramendës</i><par n="lul/e__n_f"/></e>
     <e lm="marrëse"><i>marrës</i><par n="lul/e__n_f"/></e>
     <e lm="marsiane"><i>marsian</i><par n="lul/e__n_f"/></e>
@@ -5659,7 +5584,6 @@
     <e lm="matematike"><i>matematik</i><par n="lul/e__n_f"/></e>
     <e lm="matematikore"><i>matematikor</i><par n="lul/e__n_f"/></e>
     <e lm="materiale"><i>material</i><par n="lul/e__n_f"/></e>
-    <e lm="materialiste"><i>materialist</i><par n="lul/e__n_f"/></e>
     <e lm="maturante"><i>maturant</i><par n="lul/e__n_f"/></e>
     <e lm="matëse"><i>matës</i><par n="lul/e__n_f"/></e>
     <e lm="mbarëbotërore"><i>mbarëbotëror</i><par n="lul/e__n_f"/></e>
@@ -5720,7 +5644,6 @@
     <e lm="metalike"><i>metalik</i><par n="lul/e__n_f"/></e>
     <e lm="meteorologjike"><i>meteorologjik</i><par n="lul/e__n_f"/></e>
     <e lm="metodike"><i>metodik</i><par n="lul/e__n_f"/></e>
-    <e lm="metodiste"><i>metodist</i><par n="lul/e__n_f"/></e>
     <e lm="metodologjike"><i>metodologjik</i><par n="lul/e__n_f"/></e>
     <e lm="metrike"><i>metrik</i><par n="lul/e__n_f"/></e>
     <e lm="mexhite"><i>mexhit</i><par n="lul/e__n_f"/></e>
@@ -5736,7 +5659,6 @@
     <e lm="milionere"><i>milioner</i><par n="lul/e__n_f"/></e>
     <e lm="milionëshe"><i>milionësh</i><par n="lul/e__n_f"/></e>
     <e lm="militante"><i>militant</i><par n="lul/e__n_f"/></e>
-    <e lm="militariste"><i>militarist</i><par n="lul/e__n_f"/></e>
     <e lm="minaheqëse"><i>minaheqës</i><par n="lul/e__n_f"/></e>
     <e lm="minakërkuese"><i>minakërkues</i><par n="lul/e__n_f"/></e>
     <e lm="minare"><i>minar</i><par n="lul/e__n_f"/></e>
@@ -5780,28 +5702,22 @@
     <e lm="mobile"><i>mobil</i><par n="lul/e__n_f"/></e>
     <e lm="mobilizuese"><i>mobilizues</i><par n="lul/e__n_f"/></e>
     <e lm="modale"><i>modal</i><par n="lul/e__n_f"/></e>
-    <e lm="moderniste"><i>modernist</i><par n="lul/e__n_f"/></e>
     <e lm="modeste"><i>modest</i><par n="lul/e__n_f"/></e>
     <e lm="modifikuese"><i>modifikues</i><par n="lul/e__n_f"/></e>
-    <e lm="modiste"><i>modist</i><par n="lul/e__n_f"/></e>
     <e lm="mohore"><i>mohor</i><par n="lul/e__n_f"/></e>
     <e lm="mohuese"><i>mohues</i><par n="lul/e__n_f"/></e>
     <e lm="moknore"><i>moknor</i><par n="lul/e__n_f"/></e>
     <e lm="molekulare"><i>molekular</i><par n="lul/e__n_f"/></e>
     <e lm="momentale"><i>momental</i><par n="lul/e__n_f"/></e>
-    <e lm="monarkiste"><i>monarkist</i><par n="lul/e__n_f"/></e>
     <e lm="monetare"><i>monetar</i><par n="lul/e__n_f"/></e>
     <e lm="mongole"><i>mongol</i><par n="lul/e__n_f"/></e>
-    <e lm="moniste"><i>monist</i><par n="lul/e__n_f"/></e>
     <e lm="monitoruese"><i>monitorues</i><par n="lul/e__n_f"/></e>
     <e lm="monografike"><i>monografik</i><par n="lul/e__n_f"/></e>
     <e lm="monokromatike"><i>monokromatik</i><par n="lul/e__n_f"/></e>
     <e lm="monolite"><i>monolit</i><par n="lul/e__n_f"/></e>
-    <e lm="monopoliste"><i>monopolist</i><par n="lul/e__n_f"/></e>
     <e lm="monstruoze"><i>monstruoz</i><par n="lul/e__n_f"/></e>
     <e lm="montatore"><i>montator</i><par n="lul/e__n_f"/></e>
     <e lm="monumentale"><i>monumental</i><par n="lul/e__n_f"/></e>
-    <e lm="moraliste"><i>moralist</i><par n="lul/e__n_f"/></e>
     <e lm="moralizuese"><i>moralizues</i><par n="lul/e__n_f"/></e>
     <e lm="morbide"><i>morbid</i><par n="lul/e__n_f"/></e>
     <e lm="morfologjike"><i>morfologjik</i><par n="lul/e__n_f"/></e>
@@ -5863,7 +5779,6 @@
     <e lm="mëvonshme"><i>mëvonshm</i><par n="lul/e__n_f"/></e>
     <e lm="mëze"><i>mëz</i><par n="lul/e__n_f"/></e>
     <e lm="nacionale"><i>nacional</i><par n="lul/e__n_f"/></e>
-    <e lm="nacionaliste"><i>nacionalist</i><par n="lul/e__n_f"/></e>
     <e lm="nacionalçlirimtare"><i>nacionalçlirimtar</i><par n="lul/e__n_f"/></e>
     <e lm="naftëmbajtëse"><i>naftëmbajtës</i><par n="lul/e__n_f"/></e>
     <e lm="naive"><i>naiv</i><par n="lul/e__n_f"/></e>
@@ -5873,13 +5788,9 @@
     <e lm="narrative"><i>narrativ</i><par n="lul/e__n_f"/></e>
     <e lm="natare"><i>natar</i><par n="lul/e__n_f"/></e>
     <e lm="natyrale"><i>natyral</i><par n="lul/e__n_f"/></e>
-    <e lm="natyraliste"><i>natyralist</i><par n="lul/e__n_f"/></e>
     <e lm="natyrore"><i>natyror</i><par n="lul/e__n_f"/></e>
     <e lm="naxhake"><i>naxhak</i><par n="lul/e__n_f"/></e>
     <e lm="nazale"><i>nazal</i><par n="lul/e__n_f"/></e>
-    <e lm="naziballiste"><i>naziballist</i><par n="lul/e__n_f"/></e>
-    <e lm="nazifashiste"><i>nazifashist</i><par n="lul/e__n_f"/></e>
-    <e lm="naziste"><i>nazist</i><par n="lul/e__n_f"/></e>
     <e lm="ndajfoljore"><i>ndajfoljor</i><par n="lul/e__n_f"/></e>
     <e lm="ndaluese"><i>ndalues</i><par n="lul/e__n_f"/></e>
     <e lm="ndarëse"><i>ndarës</i><par n="lul/e__n_f"/></e>
@@ -5957,7 +5868,6 @@
     <e lm="ngurruese"><i>ngurrues</i><par n="lul/e__n_f"/></e>
     <e lm="nguruese"><i>ngurues</i><par n="lul/e__n_f"/></e>
     <e lm="ngutshme"><i>ngutshm</i><par n="lul/e__n_f"/></e>
-    <e lm="nihiliste"><i>nihilist</i><par n="lul/e__n_f"/></e>
     <e lm="nikoqire"><i>nikoqir</i><par n="lul/e__n_f"/></e>
     <e lm="nismëtare"><i>nismëtar</i><par n="lul/e__n_f"/></e>
     <e lm="niveluese"><i>nivelues</i><par n="lul/e__n_f"/></e>
@@ -6052,7 +5962,6 @@
     <e lm="objektive"><i>objektiv</i><par n="lul/e__n_f"/></e>
     <e lm="obliguese"><i>obligues</i><par n="lul/e__n_f"/></e>
     <e lm="obligueshme"><i>obligueshm</i><par n="lul/e__n_f"/></e>
-    <e lm="obskurantiste"><i>obskurantist</i><par n="lul/e__n_f"/></e>
     <e lm="ode"><i>od</i><par n="lul/e__n_f"/></e>
     <e lm="ofenduese"><i>ofendues</i><par n="lul/e__n_f"/></e>
     <e lm="ofertuese"><i>ofertues</i><par n="lul/e__n_f"/></e>
@@ -6072,11 +5981,9 @@
     <e lm="operatore"><i>operator</i><par n="lul/e__n_f"/></e>
     <e lm="operistike"><i>operistik</i><par n="lul/e__n_f"/></e>
     <e lm="operuese"><i>operues</i><par n="lul/e__n_f"/></e>
-    <e lm="oportuniste"><i>oportunist</i><par n="lul/e__n_f"/></e>
     <e lm="opozitare"><i>opozitar</i><par n="lul/e__n_f"/></e>
     <e lm="optike"><i>optik</i><par n="lul/e__n_f"/></e>
     <e lm="optimale"><i>optimal</i><par n="lul/e__n_f"/></e>
-    <e lm="optimiste"><i>optimist</i><par n="lul/e__n_f"/></e>
     <e lm="oqeanike"><i>oqeanik</i><par n="lul/e__n_f"/></e>
     <e lm="orale"><i>oral</i><par n="lul/e__n_f"/></e>
     <e lm="oratorike"><i>oratorik</i><par n="lul/e__n_f"/></e>
@@ -6087,7 +5994,6 @@
     <e lm="organizatore"><i>organizator</i><par n="lul/e__n_f"/></e>
     <e lm="organizuese"><i>organizues</i><par n="lul/e__n_f"/></e>
     <e lm="orientale"><i>oriental</i><par n="lul/e__n_f"/></e>
-    <e lm="orientaliste"><i>orientalist</i><par n="lul/e__n_f"/></e>
     <e lm="orientuese"><i>orientues</i><par n="lul/e__n_f"/></e>
     <e lm="origjinale"><i>origjinal</i><par n="lul/e__n_f"/></e>
     <e lm="orizore"><i>orizor</i><par n="lul/e__n_f"/></e>
@@ -6107,7 +6013,6 @@
     <e lm="pabujshme"><i>pabujshm</i><par n="lul/e__n_f"/></e>
     <e lm="pacenueshme"><i>pacenueshm</i><par n="lul/e__n_f"/></e>
     <e lm="paciente"><i>pacient</i><par n="lul/e__n_f"/></e>
-    <e lm="pacifiste"><i>pacifist</i><par n="lul/e__n_f"/></e>
     <e lm="padallueshme"><i>padallueshm</i><par n="lul/e__n_f"/></e>
     <e lm="padepërtueshme"><i>padepërtueshm</i><par n="lul/e__n_f"/></e>
     <e lm="padeshifrueshme"><i>padeshifrueshm</i><par n="lul/e__n_f"/></e>
@@ -6224,7 +6129,6 @@
     <e lm="pangushëllueshme"><i>pangushëllueshm</i><par n="lul/e__n_f"/></e>
     <e lm="panjerëzishme"><i>panjerëzishm</i><par n="lul/e__n_f"/></e>
     <e lm="panoramike"><i>panoramik</i><par n="lul/e__n_f"/></e>
-    <e lm="panteiste"><i>panteist</i><par n="lul/e__n_f"/></e>
     <e lm="panumërueshme"><i>panumërueshm</i><par n="lul/e__n_f"/></e>
     <e lm="papajtueshme"><i>papajtueshm</i><par n="lul/e__n_f"/></e>
     <e lm="paparashikueshme"><i>paparashikueshm</i><par n="lul/e__n_f"/></e>
@@ -6268,7 +6172,6 @@
     <e lm="paragjyqësore"><i>paragjyqësor</i><par n="lul/e__n_f"/></e>
     <e lm="parahistorike"><i>parahistorik</i><par n="lul/e__n_f"/></e>
     <e lm="parakaluese"><i>parakalues</i><par n="lul/e__n_f"/></e>
-    <e lm="parakapitaliste"><i>parakapitalist</i><par n="lul/e__n_f"/></e>
     <e lm="parake"><i>parak</i><par n="lul/e__n_f"/></e>
     <e lm="parakohshme"><i>parakohshm</i><par n="lul/e__n_f"/></e>
     <e lm="parakombëtare"><i>parakombëtar</i><par n="lul/e__n_f"/></e>
@@ -6277,11 +6180,9 @@
     <e lm="paraletrare"><i>paraletrar</i><par n="lul/e__n_f"/></e>
     <e lm="paralizuese"><i>paralizues</i><par n="lul/e__n_f"/></e>
     <e lm="paramagnetike"><i>paramagnetik</i><par n="lul/e__n_f"/></e>
-    <e lm="paramarksiste"><i>paramarksist</i><par n="lul/e__n_f"/></e>
     <e lm="paramartesore"><i>paramartesor</i><par n="lul/e__n_f"/></e>
     <e lm="parambrojtëse"><i>parambrojtës</i><par n="lul/e__n_f"/></e>
     <e lm="paramilitare"><i>paramilitar</i><par n="lul/e__n_f"/></e>
-    <e lm="paramonopoliste"><i>paramonopolist</i><par n="lul/e__n_f"/></e>
     <e lm="parandaluese"><i>parandalues</i><par n="lul/e__n_f"/></e>
     <e lm="paranormale"><i>paranormal</i><par n="lul/e__n_f"/></e>
     <e lm="parapenale"><i>parapenal</i><par n="lul/e__n_f"/></e>
@@ -6297,10 +6198,8 @@
     <e lm="parashkollore"><i>parashkollor</i><par n="lul/e__n_f"/></e>
     <e lm="parashkrimore"><i>parashkrimor</i><par n="lul/e__n_f"/></e>
     <e lm="parashtesore"><i>parashtesor</i><par n="lul/e__n_f"/></e>
-    <e lm="parashutiste"><i>parashutist</i><par n="lul/e__n_f"/></e>
     <e lm="parasilabike"><i>parasilabik</i><par n="lul/e__n_f"/></e>
     <e lm="parasintetike"><i>parasintetik</i><par n="lul/e__n_f"/></e>
-    <e lm="parasocialiste"><i>parasocialist</i><par n="lul/e__n_f"/></e>
     <e lm="parastudiuese"><i>parastudiues</i><par n="lul/e__n_f"/></e>
     <e lm="parataktike"><i>parataktik</i><par n="lul/e__n_f"/></e>
     <e lm="paraturke"><i>paraturk</i><par n="lul/e__n_f"/></e>
@@ -6404,7 +6303,6 @@
     <e lm="pemishte"><i>pemisht</i><par n="lul/e__n_f"/></e>
     <e lm="penale"><i>penal</i><par n="lul/e__n_f"/></e>
     <e lm="penguese"><i>pengues</i><par n="lul/e__n_f"/></e>
-    <e lm="pensioniste"><i>pensionist</i><par n="lul/e__n_f"/></e>
     <e lm="penxhere"><i>penxher</i><par n="lul/e__n_f"/></e>
     <e lm="perandorake"><i>perandorak</i><par n="lul/e__n_f"/></e>
     <e lm="perceptuese"><i>perceptues</i><par n="lul/e__n_f"/></e>
@@ -6420,7 +6318,6 @@
     <e lm="perverse"><i>pervers</i><par n="lul/e__n_f"/></e>
     <e lm="perëndimore"><i>perëndimor</i><par n="lul/e__n_f"/></e>
     <e lm="peshore"><i>peshor</i><par n="lul/e__n_f"/></e>
-    <e lm="pesimiste"><i>pesimist</i><par n="lul/e__n_f"/></e>
     <e lm="pesëdhjetetetëvjeçare"><i>pesëdhjetetetëvjeçar</i><par n="lul/e__n_f"/></e>
     <e lm="pesëdhjetëkatëshe"><i>pesëdhjetëkatësh</i><par n="lul/e__n_f"/></e>
     <e lm="pesëdhjetëvjeçare"><i>pesëdhjetëvjeçar</i><par n="lul/e__n_f"/></e>
@@ -6431,7 +6328,6 @@
     <e lm="pesëshe"><i>pesësh</i><par n="lul/e__n_f"/></e>
     <e lm="pesëvjeçare"><i>pesëvjeçar</i><par n="lul/e__n_f"/></e>
     <e lm="petrografike"><i>petrografik</i><par n="lul/e__n_f"/></e>
-    <e lm="pianiste"><i>pianist</i><par n="lul/e__n_f"/></e>
     <e lm="pianoforte"><i>pianofort</i><par n="lul/e__n_f"/></e>
     <e lm="picunare"><i>picunar</i><par n="lul/e__n_f"/></e>
     <e lm="pijetore"><i>pijetor</i><par n="lul/e__n_f"/></e>
@@ -6467,7 +6363,6 @@
     <e lm="plenare"><i>plenar</i><par n="lul/e__n_f"/></e>
     <e lm="pleqërishte"><i>pleqërisht</i><par n="lul/e__n_f"/></e>
     <e lm="plotfuqishme"><i>plotfuqishm</i><par n="lul/e__n_f"/></e>
-    <e lm="pluraliste"><i>pluralist</i><par n="lul/e__n_f"/></e>
     <e lm="pluskuese"><i>pluskues</i><par n="lul/e__n_f"/></e>
     <e lm="poete"><i>poet</i><par n="lul/e__n_f"/></e>
     <e lm="poetike"><i>poetik</i><par n="lul/e__n_f"/></e>
@@ -6498,12 +6393,10 @@
     <e lm="postare"><i>postar</i><par n="lul/e__n_f"/></e>
     <e lm="poste"><i>post</i><par n="lul/e__n_f"/></e>
     <e lm="postiqe"><i>postiq</i><par n="lul/e__n_f"/></e>
-    <e lm="postkomuniste"><i>postkomunist</i><par n="lul/e__n_f"/></e>
     <e lm="postume"><i>postum</i><par n="lul/e__n_f"/></e>
     <e lm="potenciale"><i>potencial</i><par n="lul/e__n_f"/></e>
     <e lm="pozitive"><i>pozitiv</i><par n="lul/e__n_f"/></e>
     <e lm="pragmatike"><i>pragmatik</i><par n="lul/e__n_f"/></e>
-    <e lm="pragmatiste"><i>pragmatist</i><par n="lul/e__n_f"/></e>
     <e lm="praktikante"><i>praktikant</i><par n="lul/e__n_f"/></e>
     <e lm="praktike"><i>praktik</i><par n="lul/e__n_f"/></e>
     <e lm="pranuese"><i>pranues</i><par n="lul/e__n_f"/></e>
@@ -6546,15 +6439,12 @@
     <e lm="prodhimtare"><i>prodhimtar</i><par n="lul/e__n_f"/></e>
     <e lm="prodhuese"><i>prodhues</i><par n="lul/e__n_f"/></e>
     <e lm="produktive"><i>produktiv</i><par n="lul/e__n_f"/></e>
-    <e lm="profashiste"><i>profashist</i><par n="lul/e__n_f"/></e>
     <e lm="profesionale"><i>profesional</i><par n="lul/e__n_f"/></e>
-    <e lm="profesioniste"><i>profesionist</i><par n="lul/e__n_f"/></e>
     <e lm="profetike"><i>profetik</i><par n="lul/e__n_f"/></e>
     <e lm="profilaktike"><i>profilaktik</i><par n="lul/e__n_f"/></e>
     <e lm="programatike"><i>programatik</i><par n="lul/e__n_f"/></e>
     <e lm="programore"><i>programor</i><par n="lul/e__n_f"/></e>
     <e lm="programuese"><i>programues</i><par n="lul/e__n_f"/></e>
-    <e lm="progresiste"><i>progresist</i><par n="lul/e__n_f"/></e>
     <e lm="progresive"><i>progresiv</i><par n="lul/e__n_f"/></e>
     <e lm="projektuese"><i>projektues</i><par n="lul/e__n_f"/></e>
     <e lm="prokurore"><i>prokuror</i><par n="lul/e__n_f"/></e>
@@ -6566,7 +6456,6 @@
     <e lm="propaganduese"><i>propagandues</i><par n="lul/e__n_f"/></e>
     <e lm="properëndimore"><i>properëndimor</i><par n="lul/e__n_f"/></e>
     <e lm="proporcionale"><i>proporcional</i><par n="lul/e__n_f"/></e>
-    <e lm="protagoniste"><i>protagonist</i><par n="lul/e__n_f"/></e>
     <e lm="protestante"><i>protestant</i><par n="lul/e__n_f"/></e>
     <e lm="protestuese"><i>protestues</i><par n="lul/e__n_f"/></e>
     <e lm="protokollare"><i>protokollar</i><par n="lul/e__n_f"/></e>
@@ -6653,7 +6542,6 @@
     <e lm="përkujtuese"><i>përkujtues</i><par n="lul/e__n_f"/></e>
     <e lm="përkëdhelëse"><i>përkëdhelës</i><par n="lul/e__n_f"/></e>
     <e lm="përligjshme"><i>përligjshm</i><par n="lul/e__n_f"/></e>
-    <e lm="përliste"><i>përlist</i><par n="lul/e__n_f"/></e>
     <e lm="përllogaritëse"><i>përllogaritës</i><par n="lul/e__n_f"/></e>
     <e lm="përmbajtjesore"><i>përmbajtjesor</i><par n="lul/e__n_f"/></e>
     <e lm="përmbajtëse"><i>përmbajtës</i><par n="lul/e__n_f"/></e>
@@ -6789,7 +6677,6 @@
     <e lm="referuese"><i>referues</i><par n="lul/e__n_f"/></e>
     <e lm="refleksive"><i>refleksiv</i><par n="lul/e__n_f"/></e>
     <e lm="reformatore"><i>reformator</i><par n="lul/e__n_f"/></e>
-    <e lm="reformiste"><i>reformist</i><par n="lul/e__n_f"/></e>
     <e lm="reformuese"><i>reformues</i><par n="lul/e__n_f"/></e>
     <e lm="refugjate"><i>refugjat</i><par n="lul/e__n_f"/></e>
     <e lm="refuzuese"><i>refuzues</i><par n="lul/e__n_f"/></e>
@@ -6820,14 +6707,11 @@
     <e lm="retrospektive"><i>retrospektiv</i><par n="lul/e__n_f"/></e>
     <e lm="reumatike"><i>reumatik</i><par n="lul/e__n_f"/></e>
     <e lm="reumatizmale"><i>reumatizmal</i><par n="lul/e__n_f"/></e>
-    <e lm="revanshiste"><i>revanshist</i><par n="lul/e__n_f"/></e>
-    <e lm="revizioniste"><i>revizionist</i><par n="lul/e__n_f"/></e>
     <e lm="revizore"><i>revizor</i><par n="lul/e__n_f"/></e>
     <e lm="revole"><i>revol</i><par n="lul/e__n_f"/></e>
     <e lm="revoltuese"><i>revoltues</i><par n="lul/e__n_f"/></e>
     <e lm="revolucionare"><i>revolucionar</i><par n="lul/e__n_f"/></e>
     <e lm="revyale"><i>revyal</i><par n="lul/e__n_f"/></e>
-    <e lm="rezerviste"><i>rezervist</i><par n="lul/e__n_f"/></e>
     <e lm="rezidenciale"><i>rezidencial</i><par n="lul/e__n_f"/></e>
     <e lm="rezidente"><i>rezident</i><par n="lul/e__n_f"/></e>
     <e lm="rezistuese"><i>rezistues</i><par n="lul/e__n_f"/></e>
@@ -6923,7 +6807,6 @@
     <e lm="sabotatore"><i>sabotator</i><par n="lul/e__n_f"/></e>
     <e lm="sabotuese"><i>sabotues</i><par n="lul/e__n_f"/></e>
     <e lm="sade"><i>sad</i><par n="lul/e__n_f"/></e>
-    <e lm="sadiste"><i>sadist</i><par n="lul/e__n_f"/></e>
     <e lm="sajueshme"><i>sajueshm</i><par n="lul/e__n_f"/></e>
     <e lm="sakate"><i>sakat</i><par n="lul/e__n_f"/></e>
     <e lm="saldatore"><i>saldator</i><par n="lul/e__n_f"/></e>
@@ -6960,7 +6843,6 @@
     <e lm="senegaleze"><i>senegalez</i><par n="lul/e__n_f"/></e>
     <e lm="sensacionale"><i>sensacional</i><par n="lul/e__n_f"/></e>
     <e lm="sentimentale"><i>sentimental</i><par n="lul/e__n_f"/></e>
-    <e lm="separatiste"><i>separatist</i><par n="lul/e__n_f"/></e>
     <e lm="sepete"><i>sepet</i><par n="lul/e__n_f"/></e>
     <e lm="septike"><i>septik</i><par n="lul/e__n_f"/></e>
     <e lm="serbe"><i>serb</i><par n="lul/e__n_f"/></e>
@@ -7022,7 +6904,6 @@
     <e lm="shndritëse"><i>shndritës</i><par n="lul/e__n_f"/></e>
     <e lm="shoqërore"><i>shoqëror</i><par n="lul/e__n_f"/></e>
     <e lm="shoqëruese"><i>shoqërues</i><par n="lul/e__n_f"/></e>
-    <e lm="shoviniste"><i>shovinist</i><par n="lul/e__n_f"/></e>
     <e lm="shpartalluese"><i>shpartallues</i><par n="lul/e__n_f"/></e>
     <e lm="shpatullore"><i>shpatullor</i><par n="lul/e__n_f"/></e>
     <e lm="shpenzuese"><i>shpenzues</i><par n="lul/e__n_f"/></e>
@@ -7110,7 +6991,6 @@
     <e lm="simpatike"><i>simpatik</i><par n="lul/e__n_f"/></e>
     <e lm="simpatizuese"><i>simpatizues</i><par n="lul/e__n_f"/></e>
     <e lm="sindikale"><i>sindikal</i><par n="lul/e__n_f"/></e>
-    <e lm="sindikaliste"><i>sindikalist</i><par n="lul/e__n_f"/></e>
     <e lm="sinjalizuese"><i>sinjalizues</i><par n="lul/e__n_f"/></e>
     <e lm="sinkronike"><i>sinkronik</i><par n="lul/e__n_f"/></e>
     <e lm="sinonimike"><i>sinonimik</i><par n="lul/e__n_f"/></e>
@@ -7119,7 +6999,6 @@
     <e lm="sintetike"><i>sintetik</i><par n="lul/e__n_f"/></e>
     <e lm="sintetizuese"><i>sintetizues</i><par n="lul/e__n_f"/></e>
     <e lm="sinusoidale"><i>sinusoidal</i><par n="lul/e__n_f"/></e>
-    <e lm="sioniste"><i>sionist</i><par n="lul/e__n_f"/></e>
     <e lm="sipërfaqe"><i>sipërfaq</i><par n="lul/e__n_f"/></e>
     <e lm="sipërfaqshme"><i>sipërfaqshm</i><par n="lul/e__n_f"/></e>
     <e lm="sipërfaqësore"><i>sipërfaqësor</i><par n="lul/e__n_f"/></e>
@@ -7132,12 +7011,10 @@
     <e lm="sivjetshme"><i>sivjetshm</i><par n="lul/e__n_f"/></e>
     <e lm="sizmike"><i>sizmik</i><par n="lul/e__n_f"/></e>
     <e lm="sizmologjike"><i>sizmologjik</i><par n="lul/e__n_f"/></e>
-    <e lm="skafiste"><i>skafist</i><par n="lul/e__n_f"/></e>
     <e lm="skamnore"><i>skamnor</i><par n="lul/e__n_f"/></e>
     <e lm="skandaloze"><i>skandaloz</i><par n="lul/e__n_f"/></e>
     <e lm="skandinave"><i>skandinav</i><par n="lul/e__n_f"/></e>
     <e lm="skematike"><i>skematik</i><par n="lul/e__n_f"/></e>
-    <e lm="skenariste"><i>skenarist</i><par n="lul/e__n_f"/></e>
     <e lm="skenike"><i>skenik</i><par n="lul/e__n_f"/></e>
     <e lm="skenografe"><i>skenograf</i><par n="lul/e__n_f"/></e>
     <e lm="skenografike"><i>skenografik</i><par n="lul/e__n_f"/></e>
@@ -7157,13 +7034,10 @@
     <e lm="sllave"><i>sllav</i><par n="lul/e__n_f"/></e>
     <e lm="sllovake"><i>sllovak</i><par n="lul/e__n_f"/></e>
     <e lm="smirore"><i>smiror</i><par n="lul/e__n_f"/></e>
-    <e lm="snobiste"><i>snobist</i><par n="lul/e__n_f"/></e>
     <e lm="socialdemokrate"><i>socialdemokrat</i><par n="lul/e__n_f"/></e>
     <e lm="sociale"><i>social</i><par n="lul/e__n_f"/></e>
-    <e lm="socialiste"><i>socialist</i><par n="lul/e__n_f"/></e>
     <e lm="sociologjike"><i>sociologjik</i><par n="lul/e__n_f"/></e>
     <e lm="solide"><i>solid</i><par n="lul/e__n_f"/></e>
-    <e lm="soliste"><i>solist</i><par n="lul/e__n_f"/></e>
     <e lm="somaleze"><i>somalez</i><par n="lul/e__n_f"/></e>
     <e lm="sorkadhe"><i>sorkadh</i><par n="lul/e__n_f"/></e>
     <e lm="sotme"><i>sotm</i><par n="lul/e__n_f"/></e>
@@ -7172,7 +7046,6 @@
     <e lm="spanjolle"><i>spanjoll</i><par n="lul/e__n_f"/></e>
     <e lm="spastruese"><i>spastrues</i><par n="lul/e__n_f"/></e>
     <e lm="speciale"><i>special</i><par n="lul/e__n_f"/></e>
-    <e lm="specialiste"><i>specialist</i><par n="lul/e__n_f"/></e>
     <e lm="specializante"><i>specializant</i><par n="lul/e__n_f"/></e>
     <e lm="specifike"><i>specifik</i><par n="lul/e__n_f"/></e>
     <e lm="spekulante"><i>spekulant</i><par n="lul/e__n_f"/></e>
@@ -7183,14 +7056,12 @@
     <e lm="sponsore"><i>sponsor</i><par n="lul/e__n_f"/></e>
     <e lm="sporadike"><i>sporadik</i><par n="lul/e__n_f"/></e>
     <e lm="spore"><i>spor</i><par n="lul/e__n_f"/></e>
-    <e lm="sportiste"><i>sportist</i><par n="lul/e__n_f"/></e>
     <e lm="sportive"><i>sportiv</i><par n="lul/e__n_f"/></e>
     <e lm="sprasme"><i>sprasm</i><par n="lul/e__n_f"/></e>
     <e lm="spurdhjake"><i>spurdhjak</i><par n="lul/e__n_f"/></e>
     <e lm="sqaruese"><i>sqarues</i><par n="lul/e__n_f"/></e>
     <e lm="stabilizuese"><i>stabilizues</i><par n="lul/e__n_f"/></e>
     <e lm="stacionare"><i>stacionar</i><par n="lul/e__n_f"/></e>
-    <e lm="staliniste"><i>stalinist</i><par n="lul/e__n_f"/></e>
     <e lm="standarde"><i>standard</i><par n="lul/e__n_f"/></e>
     <e lm="standardizuese"><i>standardizues</i><par n="lul/e__n_f"/></e>
     <e lm="statike"><i>statik</i><par n="lul/e__n_f"/></e>
@@ -7200,7 +7071,6 @@
     <e lm="stenografe"><i>stenograf</i><par n="lul/e__n_f"/></e>
     <e lm="stenografike"><i>stenografik</i><par n="lul/e__n_f"/></e>
     <e lm="sterile"><i>steril</i><par n="lul/e__n_f"/></e>
-    <e lm="stiliste"><i>stilist</i><par n="lul/e__n_f"/></e>
     <e lm="stilistike"><i>stilistik</i><par n="lul/e__n_f"/></e>
     <e lm="stilistikore"><i>stilistikor</i><par n="lul/e__n_f"/></e>
     <e lm="stimuluese"><i>stimulues</i><par n="lul/e__n_f"/></e>
@@ -7214,7 +7084,6 @@
     <e lm="strehuese"><i>strehues</i><par n="lul/e__n_f"/></e>
     <e lm="stresuese"><i>stresues</i><par n="lul/e__n_f"/></e>
     <e lm="strukturale"><i>struktural</i><par n="lul/e__n_f"/></e>
-    <e lm="strukturaliste"><i>strukturalist</i><par n="lul/e__n_f"/></e>
     <e lm="strukturore"><i>strukturor</i><par n="lul/e__n_f"/></e>
     <e lm="studente"><i>student</i><par n="lul/e__n_f"/></e>
     <e lm="studentore"><i>studentor</i><par n="lul/e__n_f"/></e>
@@ -7241,7 +7110,6 @@
     <e lm="supersonike"><i>supersonik</i><par n="lul/e__n_f"/></e>
     <e lm="suplementare"><i>suplementar</i><par n="lul/e__n_f"/></e>
     <e lm="supreme"><i>suprem</i><par n="lul/e__n_f"/></e>
-    <e lm="surrealiste"><i>surrealist</i><par n="lul/e__n_f"/></e>
     <e lm="sybajame"><i>sybajam</i><par n="lul/e__n_f"/></e>
     <e lm="syze"><i>syz</i><par n="lul/e__n_f"/></e>
     <e lm="sërishme"><i>sërishm</i><par n="lul/e__n_f"/></e>
@@ -7259,7 +7127,6 @@
     <e lm="tangjentore"><i>tangjentor</i><par n="lul/e__n_f"/></e>
     <e lm="tanipërtanishme"><i>tanipërtanishm</i><par n="lul/e__n_f"/></e>
     <e lm="tanishme"><i>tanishm</i><par n="lul/e__n_f"/></e>
-    <e lm="tankiste"><i>tankist</i><par n="lul/e__n_f"/></e>
     <e lm="tarifore"><i>tarifor</i><par n="lul/e__n_f"/></e>
     <e lm="tartabiqe"><i>tartabiq</i><par n="lul/e__n_f"/></e>
     <e lm="tatimore"><i>tatimor</i><par n="lul/e__n_f"/></e>
@@ -7281,7 +7148,6 @@
     <e lm="temperamente"><i>temperament</i><par n="lul/e__n_f"/></e>
     <e lm="tendencioze"><i>tendencioz</i><par n="lul/e__n_f"/></e>
     <e lm="tenderuese"><i>tenderues</i><par n="lul/e__n_f"/></e>
-    <e lm="teniste"><i>tenist</i><par n="lul/e__n_f"/></e>
     <e lm="tenxhere"><i>tenxher</i><par n="lul/e__n_f"/></e>
     <e lm="teologjike"><i>teologjik</i><par n="lul/e__n_f"/></e>
     <e lm="teorike"><i>teorik</i><par n="lul/e__n_f"/></e>
@@ -7297,7 +7163,6 @@
     <e lm="terminale"><i>terminal</i><par n="lul/e__n_f"/></e>
     <e lm="terminologjike"><i>terminologjik</i><par n="lul/e__n_f"/></e>
     <e lm="territoriale"><i>territorial</i><par n="lul/e__n_f"/></e>
-    <e lm="terroriste"><i>terrorist</i><par n="lul/e__n_f"/></e>
     <e lm="terrorizuese"><i>terrorizues</i><par n="lul/e__n_f"/></e>
     <e lm="teshatore"><i>teshator</i><par n="lul/e__n_f"/></e>
     <e lm="teste"><i>test</i><par n="lul/e__n_f"/></e>
@@ -7309,7 +7174,6 @@
     <e lm="tetëvjeçare"><i>tetëvjeçar</i><par n="lul/e__n_f"/></e>
     <e lm="teveqele"><i>teveqel</i><par n="lul/e__n_f"/></e>
     <e lm="teze"><i>tez</i><par n="lul/e__n_f"/></e>
-    <e lm="tezgjahiste"><i>tezgjahist</i><par n="lul/e__n_f"/></e>
     <e lm="tezgjere"><i>tezgjer</i><par n="lul/e__n_f"/></e>
     <e lm="thanake"><i>thanak</i><par n="lul/e__n_f"/></e>
     <e lm="tharbore"><i>tharbor</i><par n="lul/e__n_f"/></e>
@@ -7338,7 +7202,6 @@
     <e lm="tire"><i>tir</i><par n="lul/e__n_f"/></e>
     <e lm="tiroide"><i>tiroid</i><par n="lul/e__n_f"/></e>
     <e lm="titanike"><i>titanik</i><par n="lul/e__n_f"/></e>
-    <e lm="titiste"><i>titist</i><par n="lul/e__n_f"/></e>
     <e lm="titulluese"><i>titullues</i><par n="lul/e__n_f"/></e>
     <e lm="tjerrëse"><i>tjerrës</i><par n="lul/e__n_f"/></e>
     <e lm="tmerrshme"><i>tmerrshm</i><par n="lul/e__n_f"/></e>
@@ -7355,10 +7218,8 @@
     <e lm="torturuese"><i>torturues</i><par n="lul/e__n_f"/></e>
     <e lm="totale"><i>total</i><par n="lul/e__n_f"/></e>
     <e lm="totalitare"><i>totalitar</i><par n="lul/e__n_f"/></e>
-    <e lm="totalitariste"><i>totalitarist</i><par n="lul/e__n_f"/></e>
     <e lm="tradhtare"><i>tradhtar</i><par n="lul/e__n_f"/></e>
     <e lm="tradicionale"><i>tradicional</i><par n="lul/e__n_f"/></e>
-    <e lm="tradicionaliste"><i>tradicionalist</i><par n="lul/e__n_f"/></e>
     <e lm="tragjike"><i>tragjik</i><par n="lul/e__n_f"/></e>
     <e lm="tragjikomike"><i>tragjikomik</i><par n="lul/e__n_f"/></e>
     <e lm="trajektore"><i>trajektor</i><par n="lul/e__n_f"/></e>
@@ -7469,7 +7330,6 @@
     <e lm="uthullnike"><i>uthullnik</i><par n="lul/e__n_f"/></e>
     <e lm="uthullore"><i>uthullor</i><par n="lul/e__n_f"/></e>
     <e lm="utilitare"><i>utilitar</i><par n="lul/e__n_f"/></e>
-    <e lm="utilitariste"><i>utilitarist</i><par n="lul/e__n_f"/></e>
     <e lm="utopike"><i>utopik</i><par n="lul/e__n_f"/></e>
     <e lm="vajgurore"><i>vajguror</i><par n="lul/e__n_f"/></e>
     <e lm="vajore"><i>vajor</i><par n="lul/e__n_f"/></e>
@@ -7540,7 +7400,6 @@
     <e lm="vigjilente"><i>vigjilent</i><par n="lul/e__n_f"/></e>
     <e lm="violente"><i>violent</i><par n="lul/e__n_f"/></e>
     <e lm="violete"><i>violet</i><par n="lul/e__n_f"/></e>
-    <e lm="violiniste"><i>violinist</i><par n="lul/e__n_f"/></e>
     <e lm="virrake"><i>virrak</i><par n="lul/e__n_f"/></e>
     <e lm="virrmëkeqe"><i>virrmëkeq</i><par n="lul/e__n_f"/></e>
     <e lm="virshlle"><i>virshll</i><par n="lul/e__n_f"/></e>
@@ -10563,6 +10422,147 @@
     <e lm="ëmbëlsim"><i>ëmbëlsim</i><par n="mal__n_m"/></e>
     <e lm="ëndërrues"><i>ëndërrues</i><par n="mal__n_m"/></e>
 
+    <e lm="afarist"><i>afarist</i><par n="anglez__n"/></e>
+    <e lm="aktivist"><i>aktivist</i><par n="anglez__n"/></e>
+    <e lm="alkoolist"><i>alkoolist</i><par n="anglez__n"/></e>
+    <e lm="altruist"><i>altruist</i><par n="anglez__n"/></e>
+    <e lm="analist"><i>analist</i><par n="anglez__n"/></e>
+    <e lm="anarkist"><i>anarkist</i><par n="anglez__n"/></e>
+    <e lm="antagonist"><i>antagonist</i><par n="anglez__n"/></e>
+    <e lm="antifashist"><i>antifashist</i><par n="anglez__n"/></e>
+    <e lm="antiimperialist"><i>antiimperialist</i><par n="anglez__n"/></e>
+    <e lm="antikapitalist"><i>antikapitalist</i><par n="anglez__n"/></e>
+    <e lm="antikomunist"><i>antikomunist</i><par n="anglez__n"/></e>
+    <e lm="antimarksist"><i>antimarksist</i><par n="anglez__n"/></e>
+    <e lm="antiterrorist"><i>antiterrorist</i><par n="anglez__n"/></e>
+    <e lm="antizogist"><i>antizogist</i><par n="anglez__n"/></e>
+    <e lm="ateist"><i>ateist</i><par n="anglez__n"/></e>
+    <e lm="ballist"><i>ballist</i><par n="anglez__n"/></e>
+    <e lm="baptist"><i>baptist</i><par n="anglez__n"/></e>
+    <e lm="basketbollist"><i>basketbollist</i><par n="anglez__n"/></e>
+    <e lm="budist"><i>budist</i><par n="anglez__n"/></e>
+    <e lm="bursist"><i>bursist</i><par n="anglez__n"/></e>
+    <e lm="carist"><i>carist</i><par n="anglez__n"/></e>
+    <e lm="centralist"><i>centralist</i><par n="anglez__n"/></e>
+    <e lm="centrist"><i>centrist</i><par n="anglez__n"/></e>
+    <e lm="daktilografist"><i>daktilografist</i><par n="anglez__n"/></e>
+    <e lm="deist"><i>deist</i><par n="anglez__n"/></e>
+    <e lm="dentist"><i>dentist</i><par n="anglez__n"/></e>
+    <e lm="disfatist"><i>disfatist</i><par n="anglez__n"/></e>
+    <e lm="djathtist"><i>djathtist</i><par n="anglez__n"/></e>
+    <e lm="dualist"><i>dualist</i><par n="anglez__n"/></e>
+    <e lm="egoist"><i>egoist</i><par n="anglez__n"/></e>
+    <e lm="ekonomist"><i>ekonomist</i><par n="anglez__n"/></e>
+    <e lm="ekspansionist"><i>ekspansionist</i><par n="anglez__n"/></e>
+    <e lm="ekspresionist"><i>ekspresionist</i><par n="anglez__n"/></e>
+    <e lm="ekstremist"><i>ekstremist</i><par n="anglez__n"/></e>
+    <e lm="ekzibicionist"><i>ekzibicionist</i><par n="anglez__n"/></e>
+    <e lm="elektricist"><i>elektricist</i><par n="anglez__n"/></e>
+    <e lm="enverist"><i>enverist</i><par n="anglez__n"/></e>
+    <e lm="evolucionist"><i>evolucionist</i><par n="anglez__n"/></e>
+    <e lm="fatalist"><i>fatalist</i><par n="anglez__n"/></e>
+    <e lm="finalist"><i>finalist</i><par n="anglez__n"/></e>
+    <e lm="flautist"><i>flautist</i><par n="anglez__n"/></e>
+    <e lm="formalist"><i>formalist</i><par n="anglez__n"/></e>
+    <e lm="fraksionist"><i>fraksionist</i><par n="anglez__n"/></e>
+    <e lm="fundamentalist"><i>fundamentalist</i><par n="anglez__n"/></e>
+    <e lm="futurist"><i>futurist</i><par n="anglez__n"/></e>
+    <e lm="gjimnazist"><i>gjimnazist</i><par n="anglez__n"/></e>
+    <e lm="gjysmëfinalist"><i>gjysmëfinalist</i><par n="anglez__n"/></e>
+    <e lm="harpist"><i>harpist</i><par n="anglez__n"/></e>
+    <e lm="hegjemonist"><i>hegjemonist</i><par n="anglez__n"/></e>
+    <e lm="humanist"><i>humanist</i><par n="anglez__n"/></e>
+    <e lm="idealist"><i>idealist</i><par n="anglez__n"/></e>
+    <e lm="iluminist"><i>iluminist</i><par n="anglez__n"/></e>
+    <e lm="imperialist"><i>imperialist</i><par n="anglez__n"/></e>
+    <e lm="impresionist"><i>impresionist</i><par n="anglez__n"/></e>
+    <e lm="individualist"><i>individualist</i><par n="anglez__n"/></e>
+    <e lm="instrumentist"><i>instrumentist</i><par n="anglez__n"/></e>
+    <e lm="intelektualist"><i>intelektualist</i><par n="anglez__n"/></e>
+    <e lm="internacionalist"><i>internacionalist</i><par n="anglez__n"/></e>
+    <e lm="irredentist"><i>irredentist</i><par n="anglez__n"/></e>
+    <e lm="jomarksist"><i>jomarksist</i><par n="anglez__n"/></e>
+    <e lm="joprofesionist"><i>joprofesionist</i><par n="anglez__n"/></e>
+    <e lm="jorealist"><i>jorealist</i><par n="anglez__n"/></e>
+    <e lm="kapitalist"><i>kapitalist</i><par n="anglez__n"/></e>
+    <e lm="karrierist"><i>karrierist</i><par n="anglez__n"/></e>
+    <e lm="kolaboracionist"><i>kolaboracionist</i><par n="anglez__n"/></e>
+    <e lm="kolonialist"><i>kolonialist</i><par n="anglez__n"/></e>
+    <e lm="komunist"><i>komunist</i><par n="anglez__n"/></e>
+    <e lm="konformist"><i>konformist</i><par n="anglez__n"/></e>
+    <e lm="kontabilist"><i>kontabilist</i><par n="anglez__n"/></e>
+    <e lm="kooperativist"><i>kooperativist</i><par n="anglez__n"/></e>
+    <e lm="leninist"><i>leninist</i><par n="anglez__n"/></e>
+    <e lm="lokalist"><i>lokalist</i><par n="anglez__n"/></e>
+    <e lm="majtist"><i>majtist</i><par n="anglez__n"/></e>
+    <e lm="maoist"><i>maoist</i><par n="anglez__n"/></e>
+    <e lm="marksist"><i>marksist</i><par n="anglez__n"/></e>
+    <e lm="materialist"><i>materialist</i><par n="anglez__n"/></e>
+    <e lm="metodist"><i>metodist</i><par n="anglez__n"/></e>
+    <e lm="militarist"><i>militarist</i><par n="anglez__n"/></e>
+    <e lm="modernist"><i>modernist</i><par n="anglez__n"/></e>
+    <e lm="modist"><i>modist</i><par n="anglez__n"/></e>
+    <e lm="monarkist"><i>monarkist</i><par n="anglez__n"/></e>
+    <e lm="monist"><i>monist</i><par n="anglez__n"/></e>
+    <e lm="monopolist"><i>monopolist</i><par n="anglez__n"/></e>
+    <e lm="moralist"><i>moralist</i><par n="anglez__n"/></e>
+    <e lm="nacionalist"><i>nacionalist</i><par n="anglez__n"/></e>
+    <e lm="natyralist"><i>natyralist</i><par n="anglez__n"/></e>
+    <e lm="naziballist"><i>naziballist</i><par n="anglez__n"/></e>
+    <e lm="nazifashist"><i>nazifashist</i><par n="anglez__n"/></e>
+    <e lm="nazist"><i>nazist</i><par n="anglez__n"/></e>
+    <e lm="nihilist"><i>nihilist</i><par n="anglez__n"/></e>
+    <e lm="obskurantist"><i>obskurantist</i><par n="anglez__n"/></e>
+    <e lm="oportunist"><i>oportunist</i><par n="anglez__n"/></e>
+    <e lm="optimist"><i>optimist</i><par n="anglez__n"/></e>
+    <e lm="orientalist"><i>orientalist</i><par n="anglez__n"/></e>
+    <e lm="pacifist"><i>pacifist</i><par n="anglez__n"/></e>
+    <e lm="panteist"><i>panteist</i><par n="anglez__n"/></e>
+    <e lm="parakapitalist"><i>parakapitalist</i><par n="anglez__n"/></e>
+    <e lm="paramarksist"><i>paramarksist</i><par n="anglez__n"/></e>
+    <e lm="paramonopolist"><i>paramonopolist</i><par n="anglez__n"/></e>
+    <e lm="parashutist"><i>parashutist</i><par n="anglez__n"/></e>
+    <e lm="parasocialist"><i>parasocialist</i><par n="anglez__n"/></e>
+    <e lm="pensionist"><i>pensionist</i><par n="anglez__n"/></e>
+    <e lm="pesimist"><i>pesimist</i><par n="anglez__n"/></e>
+    <e lm="pianist"><i>pianist</i><par n="anglez__n"/></e>
+    <e lm="pluralist"><i>pluralist</i><par n="anglez__n"/></e>
+    <e lm="postkomunist"><i>postkomunist</i><par n="anglez__n"/></e>
+    <e lm="pragmatist"><i>pragmatist</i><par n="anglez__n"/></e>
+    <e lm="profashist"><i>profashist</i><par n="anglez__n"/></e>
+    <e lm="profesionist"><i>profesionist</i><par n="anglez__n"/></e>
+    <e lm="progresist"><i>progresist</i><par n="anglez__n"/></e>
+    <e lm="protagonist"><i>protagonist</i><par n="anglez__n"/></e>
+    <e lm="përlist"><i>përlist</i><par n="anglez__n"/></e>
+    <e lm="reformist"><i>reformist</i><par n="anglez__n"/></e>
+    <e lm="revanshist"><i>revanshist</i><par n="anglez__n"/></e>
+    <e lm="revizionist"><i>revizionist</i><par n="anglez__n"/></e>
+    <e lm="rezervist"><i>rezervist</i><par n="anglez__n"/></e>
+    <e lm="sadist"><i>sadist</i><par n="anglez__n"/></e>
+    <e lm="separatist"><i>separatist</i><par n="anglez__n"/></e>
+    <e lm="shovinist"><i>shovinist</i><par n="anglez__n"/></e>
+    <e lm="sindikalist"><i>sindikalist</i><par n="anglez__n"/></e>
+    <e lm="sionist"><i>sionist</i><par n="anglez__n"/></e>
+    <e lm="skafist"><i>skafist</i><par n="anglez__n"/></e>
+    <e lm="skenarist"><i>skenarist</i><par n="anglez__n"/></e>
+    <e lm="snobist"><i>snobist</i><par n="anglez__n"/></e>
+    <e lm="socialist"><i>socialist</i><par n="anglez__n"/></e>
+    <e lm="solist"><i>solist</i><par n="anglez__n"/></e>
+    <e lm="specialist"><i>specialist</i><par n="anglez__n"/></e>
+    <e lm="sportist"><i>sportist</i><par n="anglez__n"/></e>
+    <e lm="stalinist"><i>stalinist</i><par n="anglez__n"/></e>
+    <e lm="stilist"><i>stilist</i><par n="anglez__n"/></e>
+    <e lm="strukturalist"><i>strukturalist</i><par n="anglez__n"/></e>
+    <e lm="surrealist"><i>surrealist</i><par n="anglez__n"/></e>
+    <e lm="tankist"><i>tankist</i><par n="anglez__n"/></e>
+    <e lm="tenist"><i>tenist</i><par n="anglez__n"/></e>
+    <e lm="terrorist"><i>terrorist</i><par n="anglez__n"/></e>
+    <e lm="tezgjahist"><i>tezgjahist</i><par n="anglez__n"/></e>
+    <e lm="titist"><i>titist</i><par n="anglez__n"/></e>
+    <e lm="totalitarist"><i>totalitarist</i><par n="anglez__n"/></e>
+    <e lm="tradicionalist"><i>tradicionalist</i><par n="anglez__n"/></e>
+    <e lm="utilitarist"><i>utilitarist</i><par n="anglez__n"/></e>
+    <e lm="violinist"><i>violinist</i><par n="anglez__n"/></e>
     <!-- begin unchecked -->
 
 <!--    <e lm="muaj"><i>muaj</i><par n="muaj__n_m"/></e> -->
