@@ -80,7 +80,191 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e r="RL"><p><l>editor<s n="n"/></l><r>redaktor<s n="n"/></r></p></e>
     <e r="LR"><p><l>receptionist<s n="n"/></l><r>recepsionist<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>receptionist<s n="n"/></l><r>recepsionist<s n="n"/></r></p></e>
-
+    <e r="LR"><p><l>activist<s n="n"/></l><r>aktivist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>activist<s n="n"/></l><r>aktivist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>altruist<s n="n"/></l><r>altruist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>altruist<s n="n"/></l><r>altruist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>analyst<s n="n"/></l><r>analist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>analyst<s n="n"/></l><r>analist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>anarchist<s n="n"/></l><r>anarkist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>anarchist<s n="n"/></l><r>anarkist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>antagonist<s n="n"/></l><r>antagonist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>antagonist<s n="n"/></l><r>antagonist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>antifascist<s n="n"/></l><r>antifashist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>antifascist<s n="n"/></l><r>antifashist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>antiimperialist<s n="n"/></l><r>antiimperialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>antiimperialist<s n="n"/></l><r>antiimperialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>anticapitalist<s n="n"/></l><r>antikapitalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>anticapitalist<s n="n"/></l><r>antikapitalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>anticommunist<s n="n"/></l><r>antikomunist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>anticommunist<s n="n"/></l><r>antikomunist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>antimarxist<s n="n"/></l><r>antimarksist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>antimarxist<s n="n"/></l><r>antimarksist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>antiterrorist<s n="n"/></l><r>antiterrorist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>antiterrorist<s n="n"/></l><r>antiterrorist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>atheist<s n="n"/></l><r>ateist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>atheist<s n="n"/></l><r>ateist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>ballist<s n="n"/></l><r>ballist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>ballist<s n="n"/></l><r>ballist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>baptist<s n="n"/></l><r>baptist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>baptist<s n="n"/></l><r>baptist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>basketball<b/>player<s n="n"/></l><r>basketbollist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>basketball<b/>player<s n="n"/></l><r>basketbollist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>buddhist<s n="n"/></l><r>budist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>buddhist<s n="n"/></l><r>budist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>centralist<s n="n"/></l><r>centralist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>centralist<s n="n"/></l><r>centralist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>centrist<s n="n"/></l><r>centrist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>centrist<s n="n"/></l><r>centrist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>daktilografist<s n="n"/></l><r>daktilografist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>daktilografist<s n="n"/></l><r>daktilografist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>deist<s n="n"/></l><r>deist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>deist<s n="n"/></l><r>deist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>dentist<s n="n"/></l><r>dentist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>dentist<s n="n"/></l><r>dentist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>dualist<s n="n"/></l><r>dualist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>dualist<s n="n"/></l><r>dualist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>egoist<s n="n"/></l><r>egoist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>egoist<s n="n"/></l><r>egoist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>economist<s n="n"/></l><r>ekonomist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>economist<s n="n"/></l><r>ekonomist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>expansionist<s n="n"/></l><r>ekspansionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>expansionist<s n="n"/></l><r>ekspansionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>expressionist<s n="n"/></l><r>ekspresionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>expressionist<s n="n"/></l><r>ekspresionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>extremist<s n="n"/></l><r>ekstremist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>extremist<s n="n"/></l><r>ekstremist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>exhibitionist<s n="n"/></l><r>ekzibicionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>exhibitionist<s n="n"/></l><r>ekzibicionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>fatalist<s n="n"/></l><r>fatalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>fatalist<s n="n"/></l><r>fatalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>finalist<s n="n"/></l><r>finalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>finalist<s n="n"/></l><r>finalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>flautist<s n="n"/></l><r>flautist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>flautist<s n="n"/></l><r>flautist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>formalist<s n="n"/></l><r>formalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>formalist<s n="n"/></l><r>formalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>fundamentalist<s n="n"/></l><r>fundamentalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>fundamentalist<s n="n"/></l><r>fundamentalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>futurist<s n="n"/></l><r>futurist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>futurist<s n="n"/></l><r>futurist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>harpist<s n="n"/></l><r>harpist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>harpist<s n="n"/></l><r>harpist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>humanist<s n="n"/></l><r>humanist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>humanist<s n="n"/></l><r>humanist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>idealist<s n="n"/></l><r>idealist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>idealist<s n="n"/></l><r>idealist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>imperialist<s n="n"/></l><r>imperialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>imperialist<s n="n"/></l><r>imperialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>impressionist<s n="n"/></l><r>impresionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>impressionist<s n="n"/></l><r>impresionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>individualist<s n="n"/></l><r>individualist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>individualist<s n="n"/></l><r>individualist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>instrumentist<s n="n"/></l><r>instrumentist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>instrumentist<s n="n"/></l><r>instrumentist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>intellectualist<s n="n"/></l><r>intelektualist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>intellectualist<s n="n"/></l><r>intelektualist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>internationalist<s n="n"/></l><r>internacionalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>internationalist<s n="n"/></l><r>internacionalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>capitalist<s n="n"/></l><r>kapitalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>capitalist<s n="n"/></l><r>kapitalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>carrierist<s n="n"/></l><r>karrierist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>carrierist<s n="n"/></l><r>karrierist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>colonialist<s n="n"/></l><r>kolonialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>colonialist<s n="n"/></l><r>kolonialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>communist<s n="n"/></l><r>komunist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>communist<s n="n"/></l><r>komunist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>conformist<s n="n"/></l><r>konformist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>conformist<s n="n"/></l><r>konformist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>leninist<s n="n"/></l><r>leninist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>leninist<s n="n"/></l><r>leninist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>maoist<s n="n"/></l><r>maoist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>maoist<s n="n"/></l><r>maoist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>marxist<s n="n"/></l><r>marksist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>marxist<s n="n"/></l><r>marksist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>materialist<s n="n"/></l><r>materialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>materialist<s n="n"/></l><r>materialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>methodist<s n="n"/></l><r>metodist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>methodist<s n="n"/></l><r>metodist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>modernist<s n="n"/></l><r>modernist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>modernist<s n="n"/></l><r>modernist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>monarchist<s n="n"/></l><r>monarkist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>monarchist<s n="n"/></l><r>monarkist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>monopolist<s n="n"/></l><r>monopolist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>monopolist<s n="n"/></l><r>monopolist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>moralist<s n="n"/></l><r>moralist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>moralist<s n="n"/></l><r>moralist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>nationalist<s n="n"/></l><r>nacionalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>nationalist<s n="n"/></l><r>nacionalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>naturalist<s n="n"/></l><r>natyralist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>naturalist<s n="n"/></l><r>natyralist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>nazi<s n="n"/></l><r>nazist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>nazi<s n="n"/></l><r>nazist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>nihilist<s n="n"/></l><r>nihilist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>nihilist<s n="n"/></l><r>nihilist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>opportunist<s n="n"/></l><r>oportunist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>opportunist<s n="n"/></l><r>oportunist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>optimist<s n="n"/></l><r>optimist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>optimist<s n="n"/></l><r>optimist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>orientalist<s n="n"/></l><r>orientalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>orientalist<s n="n"/></l><r>orientalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pacifist<s n="n"/></l><r>pacifist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pacifist<s n="n"/></l><r>pacifist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pantheist<s n="n"/></l><r>panteist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pantheist<s n="n"/></l><r>panteist<s n="n"/></r></p></e>
+    <!-- check these: para? -->
+    <e r="LR"><p><l>paracapitalist<s n="n"/></l><r>parakapitalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>paracapitalist<s n="n"/></l><r>parakapitalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>paramarxist<s n="n"/></l><r>paramarksist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>paramarxist<s n="n"/></l><r>paramarksist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>paramonopolist<s n="n"/></l><r>paramonopolist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>paramonopolist<s n="n"/></l><r>paramonopolist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>parasocialist<s n="n"/></l><r>parasocialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>parasocialist<s n="n"/></l><r>parasocialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pessimist<s n="n"/></l><r>pesimist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pessimist<s n="n"/></l><r>pesimist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pianist<s n="n"/></l><r>pianist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pianist<s n="n"/></l><r>pianist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pluralist<s n="n"/></l><r>pluralist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pluralist<s n="n"/></l><r>pluralist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>postcommunist<s n="n"/></l><r>postkomunist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>postcommunist<s n="n"/></l><r>postkomunist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>pragmatist<s n="n"/></l><r>pragmatist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>pragmatist<s n="n"/></l><r>pragmatist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>profascist<s n="n"/></l><r>profashist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>profascist<s n="n"/></l><r>profashist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>protagonist<s n="n"/></l><r>protagonist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>protagonist<s n="n"/></l><r>protagonist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>reformist<s n="n"/></l><r>reformist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>reformist<s n="n"/></l><r>reformist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>revisionist<s n="n"/></l><r>revizionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>revisionist<s n="n"/></l><r>revizionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>sadist<s n="n"/></l><r>sadist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>sadist<s n="n"/></l><r>sadist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>separatist<s n="n"/></l><r>separatist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>separatist<s n="n"/></l><r>separatist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>chauvenist<s n="n"/></l><r>shovinist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>chauvenist<s n="n"/></l><r>shovinist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>zionist<s n="n"/></l><r>sionist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>zionist<s n="n"/></l><r>sionist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>snob<s n="n"/></l><r>snobist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>snob<s n="n"/></l><r>snobist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>socialist<s n="n"/></l><r>socialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>socialist<s n="n"/></l><r>socialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>specialist<s n="n"/></l><r>specialist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>specialist<s n="n"/></l><r>specialist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>stalinist<s n="n"/></l><r>stalinist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>stalinist<s n="n"/></l><r>stalinist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>stylist<s n="n"/></l><r>stilist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>stylist<s n="n"/></l><r>stilist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>surrealist<s n="n"/></l><r>surrealist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>surrealist<s n="n"/></l><r>surrealist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>terrorist<s n="n"/></l><r>terrorist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>terrorist<s n="n"/></l><r>terrorist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>traditionalist<s n="n"/></l><r>tradicionalist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>traditionalist<s n="n"/></l><r>tradicionalist<s n="n"/></r></p></e>
+    <e r="LR"><p><l>violinist<s n="n"/></l><r>violinist<s n="n"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>violinist<s n="n"/></l><r>violinist<s n="n"/></r></p></e>
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
