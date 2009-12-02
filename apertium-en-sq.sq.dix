@@ -1094,6 +1094,213 @@
     </pardef>
 
     <!-- Nouns -->
+    <pardef n="anglez__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esh</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eje</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ja</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eje</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esh</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eve</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="lul/e__n_f">
       <e>
         <p>
@@ -3577,11 +3784,11 @@
     <e lm="zog"><i>zog</i><par n="zog__n_m"/></e>
     <e lm="grua"><i>gr</i><par n="gr/ua__n_f"/></e>
 
-    <!-- ispell: like 'lule' -->
+    <!-- ispell: like 'lule' FIXME: almost all of these are m/f/adj -->
     <e lm="abdominale"><i>abdominal</i><par n="lul/e__n_f"/></e>
     <e lm="abetare"><i>abetar</i><par n="lul/e__n_f"/></e>
     <e lm="abrashe"><i>abrash</i><par n="lul/e__n_f"/></e>
-    <e lm="absolute"><i>absolut</i><par n="lul/e__n_f"/></e>
+    <e lm="absolut"><i>absolut</i><par n="anglez__n"/></e>
     <e lm="absolvente"><i>absolvent</i><par n="lul/e__n_f"/></e>
     <e lm="absorbuese"><i>absorbues</i><par n="lul/e__n_f"/></e>
     <e lm="abstrakte"><i>abstrakt</i><par n="lul/e__n_f"/></e>
@@ -3688,13 +3895,13 @@
     <e lm="anekse"><i>aneks</i><par n="lul/e__n_f"/></e>
     <e lm="anemike"><i>anemik</i><par n="lul/e__n_f"/></e>
     <e lm="angazhuese"><i>angazhues</i><par n="lul/e__n_f"/></e>
-    <e lm="angleze"><i>anglez</i><par n="lul/e__n_f"/></e>
+    <e lm="anglez"><i>anglez</i><par n="anglez__n"/></e>
     <e lm="anketuese"><i>anketues</i><par n="lul/e__n_f"/></e>
     <e lm="ankthshme"><i>ankthshm</i><par n="lul/e__n_f"/></e>
     <e lm="ankuese"><i>ankues</i><par n="lul/e__n_f"/></e>
     <e lm="anofele"><i>anofel</i><par n="lul/e__n_f"/></e>
     <e lm="anonime"><i>anonim</i><par n="lul/e__n_f"/></e>
-    <e lm="anormale"><i>anormal</i><par n="lul/e__n_f"/></e>
+    <e lm="anormal"><i>anormal</i><par n="anglez__n"/></e>
     <e lm="antagoniste"><i>antagonist</i><par n="lul/e__n_f"/></e>
     <e lm="antialkoolike"><i>antialkoolik</i><par n="lul/e__n_f"/></e>
     <e lm="antibakteriale"><i>antibakterial</i><par n="lul/e__n_f"/></e>
