@@ -522,6 +522,21 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e r="LR" c="check"><p><l>each<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
     <e r="check"><p><l>every<s n="det"/><s n="ind"/><s n="sg"/></l><r>të<b/>gjitha<s n="predet"/><s n="sg"/></r></p></e>
     <e><p><l>all<s n="predet"/><s n="sp"/></l><r>të<b/>gjitha<s n="predet"/><s n="pl"/></r></p></e>
+
+    <e><p><l>for<b/>example<s n="adv"/></l><r>për<b/>shembull<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>for<b/>instance<s n="adv"/></l><r>për<b/>shembull<s n="adv"/></r></p></e>
+    <e><p><l>absolutely<s n="adv"/></l><r>absolutisht<s n="adv"/></r></p></e>
+    <e><p><l>administratively<s n="adv"/></l><r>administrativisht<s n="adv"/></r></p></e>
+    <e><p><l>approximately<s n="adv"/></l><r>afërsisht<s n="adv"/></r></p></e>
+    <e><p><l>academically<s n="adv"/></l><r>akademikisht<s n="adv"/></r></p></e>
+    <e><p><l>accidentally<s n="adv"/></l><r>aksidentalisht<s n="adv"/></r></p></e>
+    <e><p><l>actively<s n="adv"/></l><r>aktivisht<s n="adv"/></r></p></e>
+    <e><p><l>actually<s n="adv"/></l><r>aktualisht<s n="adv"/></r></p></e> <!-- check -->
+    <e><p><l>arbitrarily<s n="adv"/></l><r>arbitrarisht<s n="adv"/></r></p></e>
+    <e><p><l>artificially<s n="adv"/></l><r>artificialisht<s n="adv"/></r></p></e>
+    <e><p><l>automatically<s n="adv"/></l><r>automatikisht<s n="adv"/></r></p></e>
+    <e><p><l>equally<s n="adv"/></l><r>barazisht<s n="adv"/></r></p></e>
+    <e><p><l>barbarously<s n="adv"/></l><r>barbarisht<s n="adv"/></r></p></e>
     <e><i>.<s n="sent"/></i></e>
   </section>
 </dictionary>
