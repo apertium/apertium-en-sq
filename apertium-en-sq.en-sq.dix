@@ -271,6 +271,8 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e r="RL"><p><l>traditionalist<s n="n"/></l><r>tradicionalist<s n="n"/></r></p></e>
     <e r="LR"><p><l>violinist<s n="n"/></l><r>violinist<s n="n"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>violinist<s n="n"/></l><r>violinist<s n="n"/></r></p></e>
+    <e><p><l>miracle<s n="n"/></l><r>mrekulli<s n="n"/><s n="m"/></r></p></e>
+
     <!-- Verbs -->
     <e><p><l>rub<s n="vblex"/></l><r>fërkoj<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>lexoj<s n="vblex"/></r></p></e>
@@ -531,7 +533,7 @@ http://www.alblove.com/printpage.html;topic=978.0
     <e><p><l>academically<s n="adv"/></l><r>akademikisht<s n="adv"/></r></p></e>
     <e><p><l>accidentally<s n="adv"/></l><r>aksidentalisht<s n="adv"/></r></p></e>
     <e><p><l>actively<s n="adv"/></l><r>aktivisht<s n="adv"/></r></p></e>
-    <e><p><l>actually<s n="adv"/></l><r>aktualisht<s n="adv"/></r></p></e> <!-- check -->
+    <e><p><l>currently<s n="adv"/></l><r>aktualisht<s n="adv"/></r></p></e>
     <e><p><l>arbitrarily<s n="adv"/></l><r>arbitrarisht<s n="adv"/></r></p></e>
     <e><p><l>artificially<s n="adv"/></l><r>artificialisht<s n="adv"/></r></p></e>
     <e><p><l>automatically<s n="adv"/></l><r>automatikisht<s n="adv"/></r></p></e>
