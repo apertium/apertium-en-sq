@@ -21225,7 +21225,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 
  
 
-    <rule comment="REGLA: BE GER (am saying -> estic dient)">
+    <rule comment="REGLA: BE GER ([you] are learning -> [ti] po mëson)">
       <pattern>
 	<pattern-item n="be"/>
 	<pattern-item n="ger"/>
@@ -21280,7 +21280,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	  </when>
 	  <otherwise>
 	    <out>
-	      <chunk name="be_ger" case="caseFirstWord">
+	      <chunk name="po_verb" case="caseFirstWord">
 		<tags>
 		  <tag><lit-tag v="SV"/></tag>
 		  <tag><var n="tipus_verb"/></tag>
@@ -21290,14 +21290,16 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		  <tag><var n="nbr_chunk"/></tag>
 		</tags>
 		<lu>
-		  <var n="verbfinal"/> 
+		  <lit v="po"/> 
+		  <lit-tag v="adv"/> 
 		</lu>
 		<b pos="1"/>
 		<lu>
 		  <clip pos="2" side="tl" part="lemh"/> 
 		  <clip pos="2" side="tl" part="a_verb"/>
-		  <clip pos="2" side="tl" part="temps"/>
-		  <var n="pronomenc"/>
+		  <clip pos="1" side="tl" part="temps" link-to="3"/>
+		  <clip pos="1" side="tl" part="gen" link-to="4"/>
+		  <clip pos="1" side="tl" part="nbr" link-to="5"/>
 		  <clip pos="2" side="tl" part="lemq"/>
 		</lu>
 	      </chunk>
