@@ -23,6 +23,9 @@ http://www.alblove.com/printpage.html;topic=978.0
     <sdef n="cnjcoo"/>
     <sdef n="predet"/>
     <sdef n="sent"/>
+    <sdef n="adv"/>
+    <sdef n="itg"/>
+    <sdef n="pr"/>
   </sdefs>
   <pardefs/>
   <section id="main" type="standard">
