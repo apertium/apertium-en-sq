@@ -3226,7 +3226,61 @@
       </e>
     </pardef>
 
-    <!-- FIXME: -ohem verbs are special (either reflexive or passive, I don't know) and add the word 'u' before most forms -->
+    <!-- FIXME: p1.sg, p2.sg and p2.pl need checking -->
+    <pardef n="duhe/t__vbmod">
+      <e>
+        <p>
+          <l>t</l>
+          <r>t<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r>t<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="mund__vbmod">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ur</l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ëm</l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ën</l>
+          <r><s n="vbmod"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="masturb/ohem__vblex">
       <e>
         <p>
@@ -12377,6 +12431,8 @@
 
     <e lm="jam"><i/><par n="/jam__vbjam"/></e>
     <e lm="kam"><i/><par n="/kam__vbkam"/></e>
+    <e lm="mund"><i>mund</i><par n="mund__vbmod"/></e>
+    <e lm="duhet"><i>duhe</i><par n="duhe/t__vbmod"/></e>
     <e lm="dua"><i>d</i><par n="d/ua__vblex"/></e>
     <e lm="fërkoj"><i>fërk</i><par n="fërk/oj__vblex"/></e>
     <e lm="masturbohem"><i>masturb</i><par n="masturb/ohem__vblex"/></e>
