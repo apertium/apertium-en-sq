@@ -134,6 +134,141 @@
         </p>
       </e>
     </pardef>
+
+    <!-- Numerals -->
+
+    <pardef n="një__num">
+      <e>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="m"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="num"/><s n="m"/><s n="gen"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="num"/><s n="m"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="m"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="num"/><s n="m"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="f"/><s n="nom"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r><s n="num"/><s n="f"/><s n="gen"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r><s n="num"/><s n="f"/><s n="dat"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="f"/><s n="acc"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>re</l>
+          <r><s n="num"/><s n="f"/><s n="abl"/><s n="ind"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r><s n="num"/><s n="m"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rit</l>
+          <r><s n="num"/><s n="m"/><s n="gen"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rit</l>
+          <r><s n="num"/><s n="m"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rin</l>
+          <r><s n="num"/><s n="m"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rit</l>
+          <r><s n="num"/><s n="m"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ra</l>
+          <r><s n="num"/><s n="f"/><s n="nom"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rës</l>
+          <r><s n="num"/><s n="f"/><s n="gen"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rës</l>
+          <r><s n="num"/><s n="f"/><s n="dat"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rën</l>
+          <r><s n="num"/><s n="f"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rës</l>
+          <r><s n="num"/><s n="f"/><s n="abl"/><s n="def"/></r>
+        </p>
+      </e>
+    </pardef>   
+
+    <pardef n="dy__num">
+      <e>
+        <p>
+          <l/>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+    </pardef>   
+
     <!-- Pronouns -->
 
     <pardef n="/personal_pronouns__prn">
@@ -4176,6 +4311,9 @@
     <e lm="që"><i>që</i><par n="afër__pr"/></e>
     <e lm="te"><i>te</i><par n="afër__pr"/></e>
 
+    <!-- Numerals -->
+
+    <e lm="një"><i>një</i><par n="një__num"/></e>
 
     <!-- Adjectives -->
 
