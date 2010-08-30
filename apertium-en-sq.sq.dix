@@ -85,6 +85,17 @@
       </e>
     </pardef>
 
+    <!-- Prepositions -->
+
+    <pardef n="afër__pr">
+      <e>
+        <p>
+          <l/>
+          <r><s n="pr"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <!-- Conjunctions -->
 
     <pardef n="dhe__cnjcoo">
@@ -115,6 +126,7 @@
         </p>
       </e>
     </pardef>
+
     <pardef n="ku__adv">
       <e>
         <p>
@@ -260,7 +272,7 @@
       </e>
     </pardef>   
 
-    <pardef n="dy__num">
+    <pardef n="dy__num"> <!-- Fill out paradigm -->
       <e>
         <p>
           <l/>
@@ -3078,28 +3090,6 @@
       </e>
     </pardef>
 
-    <!-- Adjectives -->
-
-    <pardef n="r/i__adj">
-      <e>
-        <p>
-          <l>i</l>
-          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>inj</l>
-          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r>i<s n="adj"/><s n="f"/><s n="sp"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="gr/ua__n_f">
       <e>
         <p>
@@ -3204,6 +3194,58 @@
         </p>
       </e>
     </pardef>
+
+
+    <!-- Adjectives -->
+
+    <pardef n="r/i__adj">
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>inj</l>
+          <r>i<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>i<s n="adj"/><s n="f"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="gjith/ë__adj">
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="adj"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="adj"/><s n="m"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ë</l>
+          <r>ë<s n="adj"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ë<s n="adj"/><s n="f"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <pardef n="v/ogël__adj">
       <e>
@@ -3335,17 +3377,8 @@
       </e>
     </pardef>
 
+    <!-- Predeterminers -->
 
-    <!-- Prepositions -->
-
-    <pardef n="afër__pr">
-      <e>
-        <p>
-          <l/>
-          <r><s n="pr"/></r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="të_gjith/a__predet">
       <e>
         <p>
@@ -3360,6 +3393,8 @@
         </p>
       </e>
     </pardef>
+
+    <!-- Verbs -->
 
     <!-- FIXME: p1.sg, p2.sg and p2.pl need checking -->
     <pardef n="duhe/t__vbmod">
@@ -4314,6 +4349,34 @@
     <!-- Numerals -->
 
     <e lm="një"><i>një</i><par n="një__num"/></e>
+
+    <e lm="dy"><i>dy</i><par n="dy__num"/></e>
+    <e lm="tre"><i>tre</i><par n="dy__num"/></e>
+    <e lm="katër"><i>katër</i><par n="dy__num"/></e>
+    <e lm="pesë"><i>pesë</i><par n="dy__num"/></e>
+    <e lm="gjashtë"><i>gjashtë</i><par n="dy__num"/></e>
+    <e lm="shtatë"><i>shtatë</i><par n="dy__num"/></e>
+    <e lm="tetë"><i>tetë</i><par n="dy__num"/></e>
+    <e lm="nëntë"><i>nëntë</i><par n="dy__num"/></e>
+    <e lm="dhjetë"><i>dhjetë</i><par n="dy__num"/></e>
+    <e lm="njëmbëdhjetë"><i>njëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="dymbëdhjetë"><i>dymbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="trembëdhjetë"><i>trembëdhjetë</i><par n="dy__num"/></e>
+    <e lm="katërmbëdhjetë"><i>katërmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="pesëmbëdhjetë"><i>pesëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="gjashtëmbëdhjetë"><i>gjashtëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="shtatëmbëdhjetë"><i>shtatëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="tetëmbëdhjetë"><i>tetëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="nëntëmbëdhjetë"><i>nëntëmbëdhjetë</i><par n="dy__num"/></e>
+    <e lm="njëzet"><i>njëzet</i><par n="dy__num"/></e>
+    <e lm="tridhjetë"><i>tridhjetë</i><par n="dy__num"/></e>
+    <e lm="dyzet"><i>dyzet</i><par n="dy__num"/></e>
+    <e lm="pesëdhjetë"><i>pesëdhjetë</i><par n="dy__num"/></e>
+    <e lm="gjashtëdhjetë"><i>gjashtëdhjetë</i><par n="dy__num"/></e>
+    <e lm="shtatëdhjetë"><i>shtatëdhjetë</i><par n="dy__num"/></e>
+    <e lm="tetëdhjetë"><i>tetëdhjetë</i><par n="dy__num"/></e>
+    <e lm="nëntëdhjetë"><i>nëntëdhjetë</i><par n="dy__num"/></e>
+    <e lm="njëqind"><i>njëqind</i><par n="dy__num"/></e>
 
     <!-- Adjectives -->
 
