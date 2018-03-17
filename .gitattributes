@@ -3,3 +3,8 @@
 /apertium-en-sq.en-sq.t1x -text
 /apertium-en-sq.sq.dix -text
 dev/sq-en.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
